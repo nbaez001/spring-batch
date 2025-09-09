@@ -8,14 +8,17 @@ public class StudentJson {
     private Long id;
     @JsonProperty("first_name")
     private String firstName;
+    @JsonProperty("last_name")
+    private String lastName;
     private String email;
 
     public StudentJson() {
     }
 
-    public StudentJson(Long id, String firstName, String email) {
+    public StudentJson(Long id, String firstName, String lastName, String email) {
         this.id = id;
         this.firstName = firstName;
+        this.lastName = lastName;
         this.email = email;
     }
 
@@ -35,6 +38,14 @@ public class StudentJson {
         this.firstName = firstName;
     }
 
+    public String getLastName() {
+        return lastName;
+    }
+
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
+    }
+
     public String getEmail() {
         return email;
     }
@@ -45,9 +56,10 @@ public class StudentJson {
 
     @Override
     public String toString() {
-        return "StudentCsv{" +
+        return "StudentJson{" +
                 "id=" + id +
                 ", firstName='" + firstName + '\'' +
+                ", lastName='" + lastName + '\'' +
                 ", email='" + email + '\'' +
                 '}';
     }

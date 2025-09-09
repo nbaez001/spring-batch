@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <email>peter@gmail.com</email>
+        <first_name>Peter</first_name>
+        <id>3</id>
+        <last_name>Mark</last_name>
+    </student>
+    <student>
+        <email>martin@gmail.com</email>
+        <first_name>Martin</first_name>
+        <id>4</id>
+        <last_name>Smith</last_name>
+    </student>
+    <student>
+        <email>raj@gmail.com</email>
+        <first_name>Raj</first_name>
+        <id>5</id>
+        <last_name>Patel</last_name>
+    </student>
+    <student>
+        <email>virat@gmail.com</email>
+        <first_name>Virat</first_name>
+        <id>6</id>
+        <last_name>Yadav</last_name>
+    </student>
+    <student>
+        <email>prabhas@gmail.com</email>
+        <first_name>Prabhas</first_name>
+        <id>7</id>
+        <last_name>Shirke</last_name>
+    </student>
+    <student>
+        <email>tina@gmail.com</email>
+        <first_name>Tina</first_name>
+        <id>8</id>
+        <last_name>Kapoor</last_name>
+    </student>
+</students>

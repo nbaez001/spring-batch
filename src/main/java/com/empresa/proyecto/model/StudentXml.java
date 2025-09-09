@@ -28,7 +28,7 @@ public class StudentXml {
         this.id = id;
     }
 
-    @XmlElement(name = "f_n")
+    @XmlElement(name = "first_name")
     public String getFirstName() {
         return firstName;
     }
@@ -37,6 +37,7 @@ public class StudentXml {
         this.firstName = firstName;
     }
 
+    @XmlElement(name = "last_name")
     public String getLastName() {
         return lastName;
     }
