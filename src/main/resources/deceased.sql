@@ -1,0 +1,18 @@
+DROP TABLE IF EXISTS deceased;
+
+CREATE TABLE deceased (
+  id BIGINT NOT NULL AUTO_INCREMENT,
+  national_id VARCHAR(15) DEFAULT NULL,
+  first_name VARCHAR(50) DEFAULT NULL,
+  paternal_last_name VARCHAR(50) DEFAULT NULL,
+  maternal_last_name VARCHAR(50) DEFAULT NULL,
+  death_date DATE DEFAULT NULL,
+  age INT DEFAULT NULL,
+  genre CHAR(1) DEFAULT NULL,
+  death_place VARCHAR(100) DEFAULT NULL,
+  source VARCHAR(100) DEFAULT NULL,
+  cause VARCHAR(150) DEFAULT NULL,
+  geo_code VARCHAR(6) DEFAULT NULL,
+  marital VARCHAR(20) DEFAULT NULL,
+  PRIMARY KEY (id)
+);

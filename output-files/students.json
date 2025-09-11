@@ -1,8 +1,0 @@
-[
- {"id":1,"email":"john@gmail.com","first_name":"John","last_name":"Smith"},
- {"id":2,"email":"sachin@gmail.com","first_name":"Sachin","last_name":"Dave"},
- {"id":5,"email":"raj@gmail.com","first_name":"Raj","last_name":"Patel"},
- {"id":7,"email":"prabhas@gmail.com","first_name":"Prabhas","last_name":"Shirke"},
- {"id":9,"email":"mona@gmail.com","first_name":"Mona","last_name":"Sharma"},
- {"id":10,"email":"rahul@gmail.com","first_name":"Rahul","last_name":"Varma"}
-]

@@ -27,15 +27,9 @@ public class DatabaseConfig {
         return DataSourceBuilder.create().build();
     }
 
-    @Bean(name = "mysqlDataSource")
-    @ConfigurationProperties(prefix = "spring.mysqldatasource")
-    public DataSource mysqlDataSource() {
-        return DataSourceBuilder.create().build();
-    }
-
-    @Bean(name = "postgresDataSource")
-    @ConfigurationProperties(prefix = "spring.postgresdatasource")
-    public DataSource postgresDataSource() {
+    @Bean(name = "deceasedDataSource")
+    @ConfigurationProperties(prefix = "spring.deceaseddatasource")
+    public DataSource deceasedDataSource() {
         return DataSourceBuilder.create().build();
     }
 
@@ -47,32 +41,18 @@ public class DatabaseConfig {
         LocalContainerEntityManagerFactoryBean emf =
                 new LocalContainerEntityManagerFactoryBean();
         emf.setDataSource(batchDataSource);
-        emf.setPackagesToScan("com.empresa.proyecto.entity.batch");
+        emf.setPackagesToScan("com.empresa.proyecto.batch");
         emf.setJpaVendorAdapter(new HibernateJpaVendorAdapter());
         return emf;
     }
 
-    @Bean(name = "mysqlEntityManagerFactory")
-    public EntityManagerFactory mysqlEntityManagerFactory(
-            @Qualifier("mysqlDataSource") DataSource dataSource) {
+    @Bean(name = "deceasedEntityManagerFactory")
+    public EntityManagerFactory deceasedEntityManagerFactory(
+            @Qualifier("deceasedDataSource") DataSource dataSource) {
         LocalContainerEntityManagerFactoryBean lem =
                 new LocalContainerEntityManagerFactoryBean();
         lem.setDataSource(dataSource);
-        lem.setPackagesToScan("com.empresa.proyecto.entity.mysql");
-        lem.setJpaVendorAdapter(new HibernateJpaVendorAdapter());
-        lem.setPersistenceProviderClass(HibernatePersistenceProvider.class);
-        lem.afterPropertiesSet();
-
-        return lem.getObject();
-    }
-
-    @Bean(name = "postgresqlEntityManagerFactory")
-    public EntityManagerFactory postgresqlEntityManagerFactory(
-            @Qualifier("postgresDataSource") DataSource dataSource) {
-        LocalContainerEntityManagerFactoryBean lem =
-                new LocalContainerEntityManagerFactoryBean();
-        lem.setDataSource(dataSource);
-        lem.setPackagesToScan("com.empresa.proyecto.entity.postgresql");
+        lem.setPackagesToScan("com.empresa.proyecto.entity");
         lem.setJpaVendorAdapter(new HibernateJpaVendorAdapter());
         lem.setPersistenceProviderClass(HibernatePersistenceProvider.class);
         lem.afterPropertiesSet();
@@ -87,15 +67,9 @@ public class DatabaseConfig {
         return new JpaTransactionManager(emf);
     }
 
-    @Bean(name = "mysqlTransactionManager")
-    public PlatformTransactionManager mysqlTransactionManager(
-            @Qualifier("mysqlEntityManagerFactory") EntityManagerFactory emf) {
-        return new JpaTransactionManager(emf);
-    }
-
-    @Bean(name = "postgresqlTransactionManager")
-    public PlatformTransactionManager postgresqlTransactionManager(
-            @Qualifier("postgresqlEntityManagerFactory") EntityManagerFactory emf) {
+    @Bean(name = "deceasedTransactionManager")
+    public PlatformTransactionManager deceasedTransactionManager(
+            @Qualifier("deceasedEntityManagerFactory") EntityManagerFactory emf) {
         return new JpaTransactionManager(emf);
     }
 }

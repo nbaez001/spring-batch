@@ -1,0 +1,2001 @@
+national_id,first_name,paternal_last_name,maternal_last_name,death_date,age,genre,death_place,source,cause,geo_code,marital
+95822412,Dani,Amaya,Llopis,2022-10-09,81,M,Hospital,Hospital Regional,Accidente de tránsito,140101,Casado
+39958838,Emilio,Calatayud,Bonet,2024-04-11,94,M,Hospital,Municipalidad,Infarto,150101,Soltero
+14265799,Amor,Bueno,Gil,2022-09-01,27,M,Hospital,MINSA,Insuficiencia renal,230101,Divorciado
+77827638,Eligia,Amor,Flor,2025-04-29,28,F,Domicilio,RENIEC,Accidente laboral,210101,Divorciado
+66306997,Isidro,Sanchez,Lobo,2020-09-29,43,F,Clínica,MINSA,Accidente laboral,100101,Soltero
+31429110,José,Rocamora,Nieto,2023-01-20,11,F,Hospital,Hospital Regional,Accidente laboral,110101,Viudo
+30868105,Ildefonso,Navarro,Calatayud,2021-06-24,5,F,Hospital,Municipalidad,Infarto,180101,Viudo
+60992979,Cleto,Palomar,Núñez,2022-12-09,80,F,Clínica,RENIEC,Infarto,240101,Casado
+15831819,Luna,Segovia,Casanovas,2023-11-29,98,F,Hospital,MINSA,Accidente laboral,250101,Divorciado
+20576383,Carmina,Marcos,Pardo,2025-08-07,35,F,Domicilio,MINSA,COVID-19,110101,Casado
+35808537,Julie,Baños,Arroyo,2022-08-18,85,F,Hospital,MINSA,Neumonía,140101,Casado
+48840994,Cebrián,Guerrero,Cabrero,2023-12-04,59,F,Domicilio,MINSA,Insuficiencia renal,100101,Soltero
+47308985,Wilfredo,Patiño,Cánovas,2023-11-03,29,M,Domicilio,Municipalidad,COVID-19,040101,Casado
+57683626,Hugo,Lasa,Bellido,2022-02-22,72,F,Clínica,Municipalidad,Cáncer,230101,Divorciado
+81691040,Luisina,Hierro,Cárdenas,2024-08-15,18,F,Clínica,MINSA,Insuficiencia renal,180101,Viudo
+60929647,Julián,Gimenez,Morata,2021-03-01,95,F,Vía pública,Hospital Regional,Accidente de tránsito,200101,Divorciado
+40742311,Paca,Antón,Moles,2024-02-07,11,M,Hospital,MINSA,Insuficiencia renal,210101,Divorciado
+45935572,Blas,Galván,Miranda,2022-07-01,76,M,Vía pública,Municipalidad,Neumonía,030101,Viudo
+97971488,Angelina,Priego,Segarra,2021-11-26,70,M,Hospital,Hospital Regional,Accidente laboral,230101,Viudo
+45551614,Emilio,Huerta,Jódar,2025-08-30,14,F,Vía pública,MINSA,Cáncer,150101,Viudo
+67503414,Tomasa,Pujol,Paredes,2022-07-22,64,M,Hospital,Hospital Regional,Accidente laboral,230101,Casado
+28566572,Araceli,Uriarte,Bou,2021-02-02,19,F,Clínica,RENIEC,Neumonía,100101,Divorciado
+24716857,Ezequiel,Cuesta,Roca,2021-03-25,2,M,Domicilio,Hospital Regional,Accidente de tránsito,080101,Casado
+61642594,Rico,Solé,Ángel,2022-10-30,72,M,Hospital,Municipalidad,Accidente laboral,040101,Casado
+84252722,Rosalinda,Alberdi,Carbó,2025-04-04,16,F,Clínica,Hospital Regional,Neumonía,220101,Divorciado
+45812670,María José,Nieto,Cantón,2023-03-09,27,M,Domicilio,Municipalidad,Insuficiencia renal,230101,Viudo
+68353204,Fausto,Santiago,Acero,2022-12-06,56,F,Hospital,MINSA,Accidente de tránsito,040101,Viudo
+77187530,María Belén,Escalona,Vera,2021-08-05,2,M,Clínica,RENIEC,Infarto,230101,Soltero
+93926371,Marc,Vera,Flor,2021-12-27,29,M,Hospital,Hospital Regional,Infarto,170101,Casado
+60185867,María Belén,Cuéllar,Abascal,2023-06-13,35,F,Clínica,MINSA,Insuficiencia renal,190101,Divorciado
+75579548,Alejo,Caparrós,Parejo,2023-04-22,31,F,Vía pública,MINSA,Infarto,250101,Divorciado
+42138745,Bautista,Hernando,Bermúdez,2021-06-02,45,F,Vía pública,Municipalidad,Accidente laboral,080101,Soltero
+75228535,Olalla,Bayón,Casas,2021-10-12,7,F,Domicilio,RENIEC,Accidente de tránsito,130101,Casado
+98550256,Aitana,Dalmau,Landa,2025-03-06,68,F,Clínica,Municipalidad,Accidente de tránsito,120101,Divorciado
+91415657,Teo,Galán,Font,2023-05-05,31,M,Vía pública,RENIEC,Infarto,230101,Soltero
+63551839,Hilda,Perea,Ríos,2025-02-03,11,M,Clínica,Municipalidad,Cáncer,160101,Casado
+70597444,Dionisio,Huguet,Gomila,2021-03-26,51,M,Clínica,Municipalidad,Infarto,060101,Viudo
+55377076,Alfonso,Grau,Giménez,2020-10-01,100,F,Domicilio,Municipalidad,Insuficiencia renal,180101,Divorciado
+19528530,Laura,Barral,Granados,2021-04-06,19,M,Domicilio,MINSA,Infarto,190101,Soltero
+14216175,Rosalina,Murillo,Belda,2025-01-23,95,F,Hospital,RENIEC,Neumonía,160101,Casado
+41944441,León,Torralba,Gargallo,2025-04-11,7,M,Clínica,RENIEC,Neumonía,040101,Casado
+27758595,Loreto,Suárez,Herrero,2024-09-17,51,M,Clínica,RENIEC,Neumonía,040101,Divorciado
+64634663,Goyo,Busquets,Caballero,2024-05-10,84,F,Domicilio,MINSA,Insuficiencia renal,100101,Casado
+57553014,Teo,Reig,Solera,2021-02-24,33,F,Clínica,Hospital Regional,Cáncer,100101,Soltero
+97705310,Flavia,Cabello,Barrera,2024-02-11,1,F,Hospital,RENIEC,Neumonía,130101,Viudo
+55540424,Nereida,Canales,Ibarra,2022-04-27,16,F,Hospital,MINSA,COVID-19,020101,Casado
+35529407,Brunilda,Sanabria,Checa,2024-04-11,56,F,Hospital,Hospital Regional,Insuficiencia renal,250101,Casado
+34627347,León,Sevillano,Iborra,2021-05-01,33,M,Hospital,MINSA,COVID-19,020101,Casado
+69476001,Nuria,Cabañas,Ayuso,2025-04-15,91,F,Clínica,Hospital Regional,Neumonía,160101,Viudo
+11980765,Ciro,Guzmán,Delgado,2024-02-23,6,M,Vía pública,Hospital Regional,Infarto,150101,Viudo
+75181648,Alicia,García,Quero,2021-03-10,98,M,Domicilio,MINSA,Insuficiencia renal,030101,Divorciado
+32097220,Reynaldo,Abril,Portero,2022-12-11,71,M,Hospital,RENIEC,Insuficiencia renal,200101,Soltero
+71070189,Lucho,Rocha,Torrecilla,2022-01-02,47,M,Vía pública,MINSA,Infarto,020101,Viudo
+35487660,Manu,Gelabert,Barragán,2025-08-13,5,F,Clínica,MINSA,Insuficiencia renal,250101,Viudo
+82772208,Benjamín,Mir,Barceló,2021-02-11,99,F,Clínica,MINSA,Accidente laboral,210101,Casado
+88406989,Albina,Valverde,Criado,2021-03-04,52,M,Clínica,Hospital Regional,Accidente laboral,050101,Casado
+78159587,Cecilio,Estevez,Bayona,2021-04-08,34,M,Hospital,Municipalidad,Accidente laboral,080101,Divorciado
+41568532,Sancho,Carretero,Hoz,2025-08-12,28,M,Vía pública,Hospital Regional,COVID-19,140101,Casado
+89795010,Aníbal,Bilbao,Rius,2025-08-27,3,M,Vía pública,Hospital Regional,COVID-19,040101,Viudo
+85863473,Azeneth,Molina,Julián,2022-06-05,44,F,Domicilio,RENIEC,Infarto,120101,Casado
+99889098,Lilia,Miralles,Gómez,2022-12-13,74,F,Hospital,RENIEC,Neumonía,050101,Viudo
+63121477,Eleuterio,Marín,Sebastián,2023-05-19,93,F,Vía pública,RENIEC,Cáncer,190101,Casado
+19736572,Agapito,Sedano,Cabo,2021-04-24,32,M,Vía pública,RENIEC,Neumonía,180101,Casado
+82160068,Ignacio,Velasco,Lara,2021-10-25,46,F,Hospital,Hospital Regional,Neumonía,100101,Soltero
+56843172,Socorro,Bayona,Hidalgo,2023-11-01,92,F,Domicilio,Municipalidad,COVID-19,060101,Viudo
+48250360,Fausto,Ríos,Mate,2025-03-10,70,M,Clínica,Municipalidad,Insuficiencia renal,060101,Casado
+11049999,Guadalupe,Marí,Calleja,2021-10-31,78,F,Vía pública,RENIEC,COVID-19,020101,Casado
+45496015,David,Campo,Cortés,2023-01-03,55,F,Vía pública,Municipalidad,Cáncer,240101,Casado
+47816686,Elodia,Galvez,Novoa,2022-06-03,65,F,Clínica,RENIEC,COVID-19,170101,Viudo
+95125977,Reyna,Laguna,Vega,2024-11-04,11,M,Domicilio,MINSA,Accidente laboral,130101,Casado
+43704923,Vicenta,Azcona,Bru,2024-04-17,3,M,Clínica,Municipalidad,Neumonía,040101,Divorciado
+47135391,Arsenio,Acevedo,Múgica,2021-10-20,53,M,Vía pública,Municipalidad,Cáncer,140101,Casado
+95511909,Juan Francisco,Cuéllar,Sala,2025-05-20,83,M,Hospital,Municipalidad,Accidente de tránsito,210101,Divorciado
+67403166,Chelo,Agustí,Caparrós,2021-04-30,6,M,Hospital,Municipalidad,Accidente de tránsito,030101,Viudo
+30005727,Caridad,Araujo,Peiró,2025-08-23,96,F,Vía pública,Municipalidad,Accidente de tránsito,160101,Divorciado
+84158663,Eusebio,Ropero,Castell,2021-01-16,33,M,Domicilio,Municipalidad,Insuficiencia renal,140101,Viudo
+51373735,Pánfilo,Ariño,Pallarès,2022-06-23,56,M,Domicilio,MINSA,COVID-19,100101,Viudo
+43491314,Griselda,Calderon,Otero,2025-06-14,69,M,Clínica,MINSA,Accidente de tránsito,060101,Casado
+64543049,Estela,Cortes,Guzmán,2022-01-26,90,M,Hospital,Municipalidad,Cáncer,100101,Divorciado
+33763566,Socorro,Revilla,Amat,2022-03-20,53,M,Clínica,Municipalidad,Cáncer,190101,Soltero
+54585178,Micaela,Requena,Hurtado,2022-12-16,97,F,Vía pública,RENIEC,COVID-19,020101,Divorciado
+31367172,Mirta,Campoy,Piñeiro,2021-01-07,53,M,Vía pública,MINSA,COVID-19,050101,Divorciado
+73174945,Iván,Flores,Seguí,2023-08-31,3,F,Domicilio,Municipalidad,Insuficiencia renal,210101,Divorciado
+50962024,Otilia,Goñi,Gisbert,2020-11-21,16,M,Vía pública,RENIEC,Infarto,230101,Divorciado
+98588154,Guadalupe,Pujadas,Moya,2023-01-22,17,F,Clínica,RENIEC,COVID-19,060101,Viudo
+19317495,María Teresa,Lorenzo,Ortega,2025-01-08,27,F,Domicilio,Hospital Regional,Accidente laboral,060101,Viudo
+63643924,Iris,Muñoz,Amorós,2021-09-02,96,F,Domicilio,RENIEC,Cáncer,150101,Soltero
+45059710,Gaspar,Lara,Arenas,2021-08-11,44,M,Hospital,RENIEC,Accidente laboral,150101,Casado
+90070438,Toño,Ojeda,Mir,2024-05-26,25,M,Clínica,MINSA,Accidente de tránsito,160101,Soltero
+91363974,Ariadna,Carlos,Plaza,2025-08-05,72,M,Vía pública,Hospital Regional,Accidente laboral,110101,Casado
+35511941,José Manuel,Arregui,Rubio,2020-09-14,77,M,Clínica,Hospital Regional,Infarto,190101,Soltero
+79782527,Ángela,Figueras,Pascual,2024-05-10,39,F,Vía pública,MINSA,Infarto,190101,Casado
+19391725,Graciana,Murillo,Mir,2021-10-01,13,F,Hospital,RENIEC,COVID-19,180101,Divorciado
+50308572,Anunciación,Mendoza,Real,2023-06-19,84,F,Hospital,Hospital Regional,Infarto,050101,Divorciado
+64009265,Josefina,Marqués,Castejón,2022-04-28,13,F,Domicilio,Municipalidad,Insuficiencia renal,200101,Divorciado
+66431351,Graciana,Pinilla,Dávila,2025-07-13,22,F,Vía pública,Municipalidad,Cáncer,190101,Viudo
+50392808,Santiago,Abad,Mateu,2023-02-17,41,M,Hospital,Hospital Regional,Cáncer,140101,Divorciado
+38210242,Tito,Montserrat,Sola,2024-06-12,72,F,Domicilio,RENIEC,Cáncer,100101,Casado
+69345683,Imelda,García,Vicente,2024-09-18,62,M,Domicilio,Hospital Regional,COVID-19,120101,Viudo
+32775593,Genoveva,Blazquez,Luz,2025-01-27,71,M,Clínica,RENIEC,Accidente de tránsito,050101,Divorciado
+99100953,Evita,Naranjo,Bueno,2022-09-08,71,M,Vía pública,Municipalidad,Cáncer,150101,Soltero
+51663795,Jafet,Flor,Colom,2020-11-23,37,M,Vía pública,MINSA,COVID-19,240101,Viudo
+16202700,Jose Ignacio,Talavera,Beltran,2024-07-24,60,F,Vía pública,Hospital Regional,COVID-19,030101,Viudo
+65625330,Soraya,Ferreras,Plana,2024-11-22,39,F,Clínica,RENIEC,Insuficiencia renal,130101,Viudo
+63640499,Jose Francisco,Coloma,Adán,2021-08-06,15,M,Clínica,MINSA,Insuficiencia renal,160101,Viudo
+67062156,Isidoro,Echeverría,Villaverde,2024-08-22,92,F,Hospital,MINSA,COVID-19,140101,Viudo
+16740197,Cecilia,Ibañez,Carrión,2024-07-28,22,F,Hospital,MINSA,COVID-19,080101,Soltero
+27896471,Nicolasa,Sobrino,Molins,2024-06-15,70,F,Clínica,Municipalidad,Infarto,150101,Viudo
+92228802,Ofelia,Vargas,Roldan,2025-05-08,60,F,Vía pública,Hospital Regional,Accidente de tránsito,080101,Viudo
+69849511,Teófila,Cuenca,Taboada,2024-07-08,61,M,Hospital,Municipalidad,Cáncer,040101,Soltero
+44788100,Maricruz,Huertas,Lluch,2025-02-14,19,M,Domicilio,RENIEC,Accidente de tránsito,250101,Divorciado
+75041510,Eugenia,Haro,Llobet,2024-06-06,77,M,Vía pública,Municipalidad,Cáncer,020101,Divorciado
+20399639,Leyre,Macias,Guitart,2023-01-01,39,M,Hospital,MINSA,Insuficiencia renal,130101,Viudo
+55076693,Miguel,Berrocal,Chacón,2021-12-21,84,M,Clínica,MINSA,Accidente de tránsito,180101,Soltero
+41039390,Rodolfo,Corominas,Gargallo,2021-03-27,20,M,Vía pública,Municipalidad,Insuficiencia renal,220101,Divorciado
+65682626,Saturnino,Muro,Solano,2024-03-23,37,M,Clínica,Hospital Regional,Insuficiencia renal,020101,Divorciado
+18357162,Hilario,Rivera,Porras,2025-08-28,9,M,Domicilio,MINSA,Cáncer,250101,Casado
+12621534,Rocío,Pintor,Tapia,2020-09-27,82,M,Domicilio,MINSA,Infarto,080101,Casado
+57212267,Marc,Porta,Rius,2025-04-08,39,F,Vía pública,RENIEC,Cáncer,020101,Divorciado
+83300637,Nereida,Giménez,Torrents,2022-07-22,34,F,Vía pública,RENIEC,Neumonía,080101,Divorciado
+46632757,Tristán,Torralba,Andres,2023-12-31,94,F,Domicilio,RENIEC,Infarto,140101,Soltero
+55114543,Guiomar,Quiroga,Dalmau,2024-08-31,97,F,Hospital,MINSA,Cáncer,170101,Divorciado
+27129912,Esther,Amores,Prada,2025-06-28,35,M,Vía pública,Municipalidad,Infarto,160101,Viudo
+98986321,Amando,Blanes,Romero,2021-11-04,52,F,Domicilio,RENIEC,Accidente laboral,210101,Viudo
+71968116,Germán,Ayllón,Juan,2023-11-30,52,F,Domicilio,Municipalidad,Accidente laboral,180101,Soltero
+53936531,Héctor,Sanz,Morillo,2023-07-24,58,M,Domicilio,Hospital Regional,COVID-19,250101,Divorciado
+60885459,Leopoldo,Robles,Iniesta,2021-05-21,65,M,Vía pública,Municipalidad,Infarto,130101,Viudo
+73123515,Alejo,Azorin,Olmo,2022-08-06,79,F,Vía pública,RENIEC,Accidente de tránsito,120101,Casado
+97260863,Bruno,Arjona,Anguita,2022-10-17,36,F,Vía pública,RENIEC,Infarto,230101,Casado
+36757737,Primitiva,Almagro,Corominas,2022-09-20,90,M,Domicilio,RENIEC,Neumonía,050101,Soltero
+26941092,Ainara,Carbó,Gibert,2024-08-23,28,M,Vía pública,RENIEC,Insuficiencia renal,200101,Divorciado
+44392446,María Fernanda,Peinado,Diez,2021-08-30,91,F,Domicilio,Municipalidad,Accidente laboral,160101,Divorciado
+31980274,María,Campoy,Amigó,2023-05-06,31,F,Clínica,Municipalidad,Accidente de tránsito,220101,Casado
+87282128,Inés,Perez,Puente,2022-05-18,8,F,Vía pública,Hospital Regional,Accidente laboral,170101,Viudo
+20200074,Dora,Herrero,Cal,2023-04-03,0,F,Domicilio,Municipalidad,Accidente laboral,200101,Divorciado
+90585882,Noa,Carrillo,Armengol,2023-08-23,68,F,Domicilio,Hospital Regional,Neumonía,180101,Divorciado
+81503856,Tiburcio,Pellicer,Bayón,2024-12-28,58,F,Clínica,MINSA,Neumonía,060101,Casado
+96911784,Néstor,Alberola,Rivera,2024-11-10,99,F,Hospital,Hospital Regional,Insuficiencia renal,160101,Divorciado
+24165187,Toribio,Paredes,Segura,2021-12-28,49,M,Vía pública,RENIEC,Accidente de tránsito,170101,Viudo
+68450095,Gabriel,Vélez,León,2025-04-08,12,F,Hospital,Municipalidad,Infarto,200101,Divorciado
+74893936,Adela,Ruano,Ledesma,2023-06-07,83,M,Hospital,Municipalidad,Accidente laboral,120101,Viudo
+42949803,Paulina,Bolaños,Lorenzo,2024-07-10,79,F,Hospital,Hospital Regional,Accidente laboral,240101,Divorciado
+42730796,Maricela,Sobrino,Pinilla,2023-07-21,40,F,Hospital,RENIEC,Accidente de tránsito,230101,Viudo
+13852048,Ana Belén,Morcillo,Espada,2024-11-01,29,M,Vía pública,RENIEC,Accidente laboral,230101,Soltero
+38470244,Pedro,Jordán,Niño,2023-01-25,56,M,Domicilio,RENIEC,Infarto,100101,Soltero
+90014570,Judith,Llorente,Agustín,2025-01-31,37,F,Domicilio,Municipalidad,Accidente de tránsito,140101,Divorciado
+35643159,Che,Hernández,Ramos,2024-11-04,72,M,Clínica,MINSA,Infarto,220101,Divorciado
+84514489,Marta,Hernandez,Tamayo,2024-11-11,79,M,Vía pública,MINSA,Accidente de tránsito,030101,Viudo
+70152969,Mónica,Alemany,Buendía,2023-03-12,58,F,Hospital,Municipalidad,COVID-19,240101,Casado
+39742165,Sandalio,Hervia,Medina,2025-08-20,9,F,Domicilio,Hospital Regional,Insuficiencia renal,050101,Viudo
+59529086,Ainara,Núñez,Roig,2025-05-15,58,F,Clínica,Municipalidad,Accidente laboral,160101,Soltero
+54398056,Pastor,Santiago,Lillo,2023-04-19,30,F,Domicilio,Hospital Regional,Insuficiencia renal,020101,Soltero
+43742830,Jerónimo,Carrillo,Fernández,2023-05-17,84,F,Domicilio,RENIEC,Neumonía,240101,Soltero
+26046365,Manuelita,Esteve,Feliu,2022-07-13,77,F,Domicilio,MINSA,Neumonía,110101,Casado
+74988034,Leonel,Zamorano,Luna,2021-07-18,81,M,Domicilio,MINSA,Insuficiencia renal,250101,Soltero
+36054020,Manu,Gordillo,Paniagua,2022-03-20,39,F,Hospital,Hospital Regional,Insuficiencia renal,200101,Soltero
+50569669,Alberto,Castañeda,Lledó,2021-01-28,37,F,Vía pública,MINSA,Accidente de tránsito,200101,Viudo
+17318358,Carolina,Manzano,Cases,2024-11-12,67,F,Clínica,Hospital Regional,Accidente laboral,160101,Viudo
+23769080,Salud,Alberola,Luís,2024-09-06,95,F,Hospital,Municipalidad,Infarto,200101,Casado
+74251933,Valero,Niño,Espinosa,2021-02-15,86,F,Domicilio,RENIEC,Accidente laboral,060101,Soltero
+43887075,Rosalva,Tejedor,Carbonell,2021-03-31,33,M,Vía pública,Hospital Regional,Insuficiencia renal,240101,Viudo
+63782042,Amparo,Benavent,Baeza,2021-12-24,74,F,Domicilio,RENIEC,Insuficiencia renal,140101,Divorciado
+30024960,Obdulia,Mateu,Blázquez,2022-10-20,3,F,Clínica,RENIEC,Insuficiencia renal,030101,Viudo
+25898299,Celestina,Rico,Gonzalez,2025-02-18,83,F,Hospital,MINSA,Infarto,080101,Viudo
+61053474,Virgilio,Salas,Martinez,2024-05-03,63,M,Hospital,MINSA,Neumonía,200101,Divorciado
+50987442,Cloe,Barrena,Cabezas,2022-06-16,58,F,Vía pública,MINSA,Cáncer,230101,Soltero
+93955206,Héctor,Lamas,Bertrán,2022-01-09,62,F,Domicilio,RENIEC,Insuficiencia renal,110101,Casado
+42194159,Fulgencio,Benavides,Crespi,2020-09-17,56,F,Clínica,Hospital Regional,Infarto,240101,Viudo
+64830300,Virgilio,Soriano,Manuel,2020-12-19,69,F,Hospital,Municipalidad,COVID-19,130101,Soltero
+41068214,Luis,Luna,Santiago,2021-04-18,58,M,Clínica,RENIEC,Infarto,100101,Casado
+41329612,Ámbar,Lamas,Figuerola,2024-04-21,16,M,Hospital,MINSA,Neumonía,130101,Casado
+25405014,Candelas,Gomila,Company,2022-12-13,42,M,Hospital,Hospital Regional,Accidente laboral,200101,Casado
+29090631,Calixto,Barreda,Daza,2023-04-22,69,F,Clínica,RENIEC,Insuficiencia renal,150101,Casado
+89865458,Marianela,Malo,Saavedra,2021-09-30,1,F,Clínica,Hospital Regional,Infarto,210101,Viudo
+72907576,Jennifer,Mateu,Quevedo,2023-01-02,6,M,Vía pública,RENIEC,Insuficiencia renal,040101,Divorciado
+77172238,Calista,Uribe,Río,2021-05-16,57,F,Hospital,Municipalidad,Neumonía,140101,Soltero
+90267122,Aníbal,Rosales,Mora,2022-10-26,93,F,Vía pública,RENIEC,Infarto,160101,Divorciado
+13471527,Ciriaco,Granados,Almansa,2022-12-25,54,M,Vía pública,Municipalidad,Infarto,040101,Viudo
+87342561,Apolinar,Díez,Sosa,2025-02-07,77,M,Hospital,MINSA,COVID-19,220101,Viudo
+97444123,Vasco,Lobo,Escudero,2025-09-01,48,F,Vía pública,Municipalidad,Infarto,250101,Casado
+68503492,Fabiola,Téllez,Bou,2024-09-08,55,F,Clínica,Municipalidad,COVID-19,030101,Divorciado
+56702542,Sebastian,Mínguez,Montesinos,2021-07-30,53,M,Domicilio,Municipalidad,COVID-19,240101,Viudo
+31585546,Narciso,Requena,Valbuena,2023-02-21,47,M,Vía pública,RENIEC,Infarto,040101,Soltero
+98930456,Salvador,Arco,Sanz,2021-06-09,55,M,Domicilio,MINSA,Neumonía,080101,Viudo
+52213778,José Antonio,Morales,Carmona,2024-02-16,85,M,Vía pública,Hospital Regional,Accidente laboral,240101,Divorciado
+79067939,Paloma,Abella,Sevilla,2024-03-15,92,M,Domicilio,Hospital Regional,COVID-19,250101,Casado
+17275149,Godofredo,Villegas,Pardo,2024-12-05,19,F,Clínica,RENIEC,COVID-19,180101,Viudo
+93940940,Vasco,Aznar,Frutos,2022-12-17,14,F,Clínica,Municipalidad,Accidente laboral,180101,Soltero
+83715012,Eleuterio,Maestre,Ríos,2024-10-23,77,F,Hospital,MINSA,COVID-19,020101,Viudo
+26297533,Ambrosio,Heras,Cuadrado,2023-05-02,44,M,Clínica,MINSA,Neumonía,240101,Divorciado
+83932360,Alberto,Raya,Buendía,2022-08-08,8,M,Hospital,RENIEC,Insuficiencia renal,170101,Casado
+25228493,Íñigo,Carpio,Correa,2024-12-05,48,F,Vía pública,Hospital Regional,Accidente de tránsito,110101,Viudo
+49172995,Araceli,Llano,Ribes,2024-10-17,92,F,Hospital,RENIEC,Accidente de tránsito,210101,Soltero
+73380266,Jose Francisco,Saura,Coca,2023-12-14,86,M,Domicilio,Municipalidad,Insuficiencia renal,050101,Divorciado
+35583290,África,Verdejo,Cerezo,2021-04-13,77,F,Vía pública,Hospital Regional,Accidente de tránsito,170101,Soltero
+47077298,María Teresa,Ribera,Nieto,2025-01-03,44,F,Hospital,Hospital Regional,Insuficiencia renal,240101,Divorciado
+45859307,Otilia,Acedo,Luna,2023-03-25,67,F,Hospital,MINSA,Cáncer,220101,Soltero
+88777447,Cruz,Tovar,Comas,2024-06-27,0,M,Domicilio,MINSA,Accidente laboral,200101,Viudo
+82287061,Alondra,Ochoa,Márquez,2025-05-20,37,F,Hospital,RENIEC,Cáncer,050101,Casado
+82937948,René,Sarabia,Montserrat,2022-04-18,16,F,Clínica,Hospital Regional,Infarto,060101,Soltero
+42051937,Concha,Piñol,Guillen,2024-03-08,55,M,Vía pública,RENIEC,Accidente laboral,100101,Divorciado
+15858241,Maximino,Suárez,Piquer,2023-12-22,73,F,Vía pública,Hospital Regional,Infarto,060101,Soltero
+99078806,Mónica,Cornejo,Valbuena,2021-01-02,41,M,Vía pública,Hospital Regional,Infarto,050101,Soltero
+26944487,Ani,Mármol,Cabrera,2024-06-07,31,F,Vía pública,RENIEC,Cáncer,020101,Viudo
+23383077,Begoña,Saura,Alcántara,2021-11-30,28,F,Clínica,RENIEC,Neumonía,230101,Soltero
+65026398,Sabina,Cortes,Benavides,2024-09-06,67,M,Domicilio,Hospital Regional,Insuficiencia renal,230101,Casado
+45570755,Nilo,Puga,Bernat,2023-06-26,30,M,Clínica,Hospital Regional,Accidente de tránsito,210101,Casado
+81621574,Ricardo,Moliner,Torrents,2025-04-16,97,M,Clínica,Municipalidad,Cáncer,190101,Divorciado
+14818295,Esmeralda,Bayona,Guitart,2023-02-18,87,F,Domicilio,MINSA,Cáncer,040101,Divorciado
+40532691,Margarita,Botella,Roura,2021-07-11,56,F,Domicilio,RENIEC,COVID-19,170101,Soltero
+95060193,Juliana,Cabrera,Salcedo,2022-02-07,39,F,Vía pública,RENIEC,Infarto,110101,Viudo
+50193656,Vera,Andres,Arteaga,2023-06-13,9,M,Vía pública,Municipalidad,Neumonía,180101,Soltero
+17532195,Lázaro,Palmer,Perera,2024-05-09,57,M,Domicilio,Municipalidad,Neumonía,200101,Soltero
+29538047,Jose Ignacio,Requena,Escolano,2022-02-19,57,M,Domicilio,RENIEC,Neumonía,230101,Casado
+33497411,Cayetano,Piñeiro,Hernando,2024-12-03,5,M,Vía pública,Municipalidad,Neumonía,170101,Casado
+88270025,Eric,Guerra,Serra,2022-11-07,46,F,Domicilio,Municipalidad,Cáncer,100101,Soltero
+71682508,José Mari,Agustí,Sola,2023-02-19,80,F,Hospital,Hospital Regional,Infarto,180101,Divorciado
+83363160,Fausto,Benavent,Sala,2023-08-18,36,F,Clínica,Hospital Regional,Infarto,190101,Casado
+88862539,Marcelino,Rodrigo,Ibáñez,2024-07-29,44,F,Vía pública,MINSA,Neumonía,040101,Viudo
+50550084,Heliodoro,Planas,Tomas,2021-08-06,71,F,Domicilio,MINSA,Insuficiencia renal,240101,Soltero
+41837210,Rico,Palomar,Marqués,2023-03-15,82,F,Domicilio,RENIEC,COVID-19,020101,Casado
+12944682,Paula,Priego,Llobet,2020-10-04,27,F,Vía pública,MINSA,Accidente de tránsito,200101,Casado
+85957706,Rosaura,Avilés,Valdés,2023-02-15,9,F,Hospital,RENIEC,Insuficiencia renal,100101,Casado
+40885967,Elvira,Ortuño,Gilabert,2022-04-22,76,F,Clínica,MINSA,Accidente de tránsito,220101,Casado
+93334601,Josué,Cerro,Caballero,2021-01-09,92,F,Hospital,Municipalidad,COVID-19,240101,Casado
+51464269,Modesta,Saez,Aragonés,2025-08-14,56,F,Vía pública,MINSA,Neumonía,140101,Viudo
+58970845,Lupita,Catalá,Bosch,2023-03-14,100,F,Clínica,Hospital Regional,Insuficiencia renal,190101,Divorciado
+53851498,Mariana,Ribes,Echevarría,2022-05-25,59,F,Vía pública,Municipalidad,Accidente de tránsito,130101,Casado
+27738187,Miriam,Paz,Valls,2023-01-03,32,M,Vía pública,Hospital Regional,Neumonía,250101,Soltero
+32084778,José Ángel,Tirado,Marquez,2023-07-28,36,M,Clínica,Hospital Regional,Cáncer,170101,Casado
+25457816,Adelina,Benet,Chico,2022-08-10,55,M,Clínica,Municipalidad,COVID-19,150101,Divorciado
+63339667,Raquel,Paz,Bosch,2024-01-17,6,F,Domicilio,MINSA,Cáncer,040101,Viudo
+11868130,Juan Luis,Casals,Sanz,2023-10-29,28,M,Domicilio,RENIEC,Accidente laboral,230101,Viudo
+45186708,Daniela,Piquer,Pera,2021-08-11,18,M,Hospital,Hospital Regional,Accidente laboral,160101,Casado
+41383044,Adriana,Amaya,Mosquera,2022-07-28,97,F,Vía pública,RENIEC,Infarto,150101,Viudo
+96926431,Bernardino,Simó,Matas,2024-02-29,27,M,Vía pública,RENIEC,Accidente laboral,020101,Casado
+25659979,Enrique,Arrieta,Arcos,2023-04-12,38,M,Hospital,MINSA,Cáncer,230101,Divorciado
+76118957,David,Cabanillas,Guitart,2025-04-06,8,M,Vía pública,RENIEC,Insuficiencia renal,170101,Casado
+28208520,Román,Santiago,Peláez,2025-04-14,91,M,Domicilio,Municipalidad,Infarto,220101,Viudo
+66254240,Diana,Cortes,Ribera,2021-07-13,30,F,Clínica,RENIEC,Neumonía,110101,Soltero
+75679047,Encarnación,Raya,Losa,2020-12-19,67,M,Vía pública,Municipalidad,Infarto,230101,Divorciado
+59731689,Isaac,Salcedo,Sales,2022-09-12,47,F,Hospital,Hospital Regional,Accidente laboral,040101,Viudo
+58678896,Conrado,Pedrero,Palmer,2021-03-16,30,M,Domicilio,MINSA,Infarto,110101,Viudo
+63437398,Leoncio,Falcó,Carvajal,2024-07-22,82,M,Vía pública,Municipalidad,Insuficiencia renal,210101,Casado
+22304198,Gloria,Garay,Almazán,2021-02-13,8,F,Hospital,Hospital Regional,Accidente de tránsito,080101,Casado
+54762841,Jose Francisco,Casas,Fuertes,2021-04-10,5,F,Domicilio,Municipalidad,Accidente laboral,180101,Divorciado
+84384510,Hipólito,Garzón,Guijarro,2023-06-26,32,M,Clínica,Hospital Regional,COVID-19,080101,Viudo
+29804386,Modesta,Acedo,Lluch,2021-12-02,34,M,Domicilio,Municipalidad,Cáncer,030101,Divorciado
+27447248,Calixta,Iglesia,Díaz,2021-08-16,43,M,Vía pública,Municipalidad,COVID-19,170101,Viudo
+98725654,Roxana,Amigó,Catalá,2020-10-25,10,F,Hospital,Municipalidad,Neumonía,210101,Viudo
+58082464,Montserrat,Gárate,Morante,2020-10-28,41,M,Hospital,Hospital Regional,Insuficiencia renal,020101,Viudo
+33386929,Juan Manuel,Badía,Castañeda,2024-04-08,57,F,Clínica,Municipalidad,COVID-19,030101,Soltero
+80610004,Danilo,Bartolomé,Tamayo,2024-07-02,93,F,Vía pública,Hospital Regional,Insuficiencia renal,080101,Soltero
+58592048,Armida,Canales,Sans,2024-12-22,85,F,Domicilio,MINSA,Infarto,200101,Divorciado
+39735904,Encarnacion,Aroca,Vázquez,2023-04-04,4,M,Hospital,MINSA,Accidente laboral,230101,Viudo
+71477426,Fernanda,Anguita,Barrera,2024-10-06,46,F,Hospital,MINSA,Insuficiencia renal,030101,Viudo
+63904155,Teodosio,Campoy,Trujillo,2024-06-18,47,F,Hospital,MINSA,Neumonía,110101,Divorciado
+19863756,Trini,Berrocal,Montserrat,2021-12-13,40,F,Clínica,RENIEC,Infarto,210101,Divorciado
+18815720,Edmundo,Llopis,Morcillo,2023-12-06,66,F,Hospital,Hospital Regional,Accidente laboral,120101,Divorciado
+90180577,Bernarda,Mariño,Santiago,2024-12-27,27,F,Vía pública,MINSA,Infarto,200101,Soltero
+91259008,Tito,Cabezas,Carbó,2025-05-18,57,M,Vía pública,RENIEC,Accidente laboral,240101,Viudo
+38859907,Tito,Sanmiguel,Gracia,2024-03-17,85,F,Hospital,Hospital Regional,COVID-19,210101,Casado
+55490631,Pastora,Santana,Pujadas,2024-03-24,46,M,Hospital,MINSA,Accidente laboral,200101,Casado
+22762205,Matías,Roldán,Milla,2022-11-09,63,M,Domicilio,Hospital Regional,Cáncer,180101,Casado
+60237832,Ezequiel,Sánchez,Bautista,2021-06-19,78,M,Hospital,Hospital Regional,Cáncer,160101,Divorciado
+21457410,Ciro,Rosales,Bárcena,2023-11-10,98,F,Hospital,MINSA,COVID-19,230101,Soltero
+27463800,Cayetana,Barreda,Murcia,2021-09-23,57,F,Domicilio,MINSA,Accidente laboral,180101,Casado
+65137801,Paulino,Rocha,Aznar,2023-02-19,98,M,Vía pública,RENIEC,Accidente laboral,250101,Casado
+90585678,Mateo,Ortiz,Calleja,2025-08-09,38,M,Clínica,Hospital Regional,Insuficiencia renal,140101,Viudo
+78103759,Ibán,Cortes,Toledo,2022-08-06,66,F,Hospital,Hospital Regional,Accidente de tránsito,230101,Viudo
+24524825,Pancho,Pedrero,Cardona,2023-01-22,16,F,Hospital,MINSA,Neumonía,190101,Casado
+87054398,Jaime,Romeu,Amo,2022-12-18,21,F,Hospital,RENIEC,Infarto,080101,Viudo
+13886030,Geraldo,Llano,Mendizábal,2023-07-31,83,M,Vía pública,RENIEC,Cáncer,230101,Viudo
+57113566,Adolfo,Escudero,Clemente,2025-07-04,82,F,Vía pública,MINSA,Accidente laboral,240101,Divorciado
+98227303,Salvador,Baños,Cifuentes,2020-12-13,38,F,Hospital,RENIEC,Accidente de tránsito,030101,Divorciado
+22315507,Margarita,Garrido,Peñalver,2024-04-05,61,F,Clínica,Hospital Regional,Neumonía,200101,Viudo
+70887307,Néstor,Criado,Pelayo,2023-05-05,91,F,Domicilio,Municipalidad,Accidente de tránsito,110101,Soltero
+53537934,Maxi,Blazquez,Badía,2022-01-05,40,M,Vía pública,RENIEC,COVID-19,030101,Casado
+31127198,Marisela,Ayala,Bilbao,2023-01-02,18,M,Hospital,Hospital Regional,Cáncer,220101,Divorciado
+69473616,Gisela,Rodrigo,Torralba,2024-06-13,31,M,Domicilio,Hospital Regional,Accidente de tránsito,210101,Divorciado
+65590800,Leandro,Garriga,Vila,2021-08-28,65,F,Vía pública,Hospital Regional,Cáncer,150101,Soltero
+56328316,Tito,Cantero,Luque,2024-10-29,50,F,Clínica,MINSA,Neumonía,110101,Soltero
+80723898,Guadalupe,Mendez,Arroyo,2022-07-26,6,F,Vía pública,Municipalidad,COVID-19,180101,Soltero
+63051354,Elena,Ballesteros,Aguilera,2022-06-06,13,F,Clínica,Hospital Regional,Insuficiencia renal,110101,Divorciado
+50455821,Héctor,Cervantes,Jaume,2023-02-25,46,M,Vía pública,RENIEC,Neumonía,180101,Casado
+54039837,Dimas,Aguilera,Valencia,2024-05-08,46,F,Hospital,Municipalidad,Neumonía,030101,Viudo
+33581357,Efraín,Pinto,Grau,2024-12-11,79,M,Clínica,RENIEC,Cáncer,110101,Viudo
+84990607,Perla,Pablo,Bello,2024-01-25,71,F,Clínica,MINSA,Neumonía,170101,Divorciado
+15677713,Tristán,Alfonso,Segura,2021-05-08,64,M,Hospital,RENIEC,Accidente de tránsito,100101,Divorciado
+52018286,Coral,Román,Quiroga,2024-03-29,66,F,Clínica,MINSA,COVID-19,220101,Viudo
+48858073,Darío,Quirós,Almansa,2023-06-15,20,F,Domicilio,Hospital Regional,Neumonía,170101,Divorciado
+33068427,Nicolasa,Seguí,Paredes,2021-06-09,90,F,Vía pública,RENIEC,COVID-19,100101,Soltero
+68614462,Rafaela,Camacho,Hervia,2024-05-24,53,F,Hospital,Municipalidad,COVID-19,230101,Casado
+89036966,Salvador,Zamora,Bermúdez,2024-01-21,92,M,Vía pública,MINSA,Neumonía,230101,Divorciado
+51644346,Marcia,Nicolás,Giralt,2023-07-10,18,M,Hospital,RENIEC,Accidente de tránsito,150101,Divorciado
+32566390,Carmelo,Vicens,Carbonell,2025-03-15,40,F,Clínica,Municipalidad,Insuficiencia renal,130101,Divorciado
+78444607,Guillermo,Olmedo,Ortega,2021-12-11,64,F,Hospital,MINSA,Neumonía,130101,Viudo
+41711468,Cristian,Coll,Jaén,2022-05-14,84,F,Vía pública,Hospital Regional,Accidente de tránsito,030101,Viudo
+33286644,Eligia,Coronado,Benet,2022-03-13,69,F,Domicilio,Municipalidad,Accidente de tránsito,140101,Viudo
+94281857,Ana,Simó,Sanchez,2025-06-28,71,F,Clínica,Hospital Regional,Accidente laboral,020101,Casado
+96300902,Fabiola,Moraleda,Molina,2021-12-22,88,F,Domicilio,Municipalidad,COVID-19,180101,Viudo
+69023966,Borja,Somoza,Salamanca,2023-04-07,36,M,Vía pública,Municipalidad,Accidente laboral,110101,Casado
+46866075,Domitila,Barbero,Ortiz,2025-01-02,37,M,Domicilio,RENIEC,COVID-19,030101,Viudo
+19957701,Martín,Serrano,Sans,2021-01-03,95,F,Clínica,MINSA,Accidente laboral,180101,Viudo
+17635653,Rafa,Madrid,Benítez,2021-06-16,71,F,Clínica,RENIEC,Neumonía,190101,Casado
+92545028,Dorotea,Vendrell,Planas,2024-08-16,31,M,Clínica,MINSA,Infarto,250101,Divorciado
+87890494,Casandra,Armengol,Sandoval,2025-07-21,42,F,Hospital,MINSA,Infarto,180101,Casado
+97488142,Godofredo,Montoya,Tamarit,2024-12-14,52,F,Vía pública,MINSA,Accidente laboral,020101,Viudo
+30248230,Bernabé,Sanjuan,Calderón,2023-08-12,36,M,Hospital,MINSA,Neumonía,080101,Casado
+21318464,Anna,Duque,Ariza,2022-10-18,53,M,Hospital,Municipalidad,Accidente laboral,160101,Casado
+68754920,Valentín,Zamora,Yáñez,2022-01-15,95,F,Hospital,RENIEC,COVID-19,190101,Soltero
+58841557,Ramón,Luna,Ponce,2024-03-02,42,F,Vía pública,Municipalidad,Accidente de tránsito,170101,Divorciado
+55414869,Iris,Badía,Nadal,2021-04-01,34,M,Hospital,Hospital Regional,Accidente de tránsito,030101,Viudo
+54250344,Ciríaco,Pomares,Luz,2022-10-31,91,M,Hospital,Hospital Regional,Accidente laboral,020101,Casado
+98122539,Victoria,Conesa,Mínguez,2021-05-20,22,F,Vía pública,Hospital Regional,Infarto,060101,Soltero
+88213973,Gracia,Cid,Olmo,2023-04-30,23,M,Vía pública,Hospital Regional,Accidente de tránsito,150101,Viudo
+98054173,Jovita,Pou,Castelló,2021-05-30,49,M,Vía pública,Hospital Regional,COVID-19,020101,Soltero
+51551377,Celia,Peñas,Moya,2021-10-11,33,F,Clínica,RENIEC,Insuficiencia renal,250101,Divorciado
+99941500,Julia,Zurita,Bueno,2024-04-16,39,M,Vía pública,Hospital Regional,Insuficiencia renal,250101,Viudo
+78248169,Porfirio,Alfaro,Pareja,2023-04-26,47,M,Clínica,MINSA,Cáncer,200101,Divorciado
+34194479,Iker,Noguera,Torre,2022-04-28,95,F,Vía pública,Municipalidad,Accidente laboral,180101,Casado
+40406092,Emigdio,Cortina,Berenguer,2023-03-16,97,M,Hospital,Municipalidad,Neumonía,110101,Soltero
+23574883,Anunciación,Zurita,Arellano,2023-07-22,72,M,Hospital,MINSA,Neumonía,180101,Casado
+92950779,Eleuterio,Peñas,Correa,2022-01-26,21,F,Vía pública,RENIEC,Insuficiencia renal,130101,Divorciado
+34272734,Paz,Daza,Río,2021-01-22,11,F,Hospital,Municipalidad,Accidente de tránsito,170101,Divorciado
+65144509,Pánfilo,Gámez,Saldaña,2023-02-11,58,M,Vía pública,Hospital Regional,Insuficiencia renal,150101,Divorciado
+70254091,Joaquín,Haro,Mendoza,2024-09-05,32,M,Clínica,RENIEC,Infarto,050101,Viudo
+36040410,Quirino,Saez,Serrano,2023-02-01,89,M,Hospital,RENIEC,Cáncer,080101,Viudo
+61254050,Ani,Álamo,Riquelme,2022-01-25,52,M,Clínica,Municipalidad,COVID-19,060101,Divorciado
+36802975,Nicolasa,Chacón,Ibáñez,2021-02-18,48,F,Hospital,MINSA,Insuficiencia renal,110101,Soltero
+96057593,Alicia,Pera,Calderon,2025-01-28,22,F,Clínica,MINSA,Accidente laboral,150101,Soltero
+26733967,Lucas,Blanes,Cueto,2023-01-04,38,F,Vía pública,Municipalidad,Accidente laboral,140101,Casado
+70306604,Vicenta,Vilanova,Colom,2024-05-30,58,F,Clínica,Hospital Regional,Accidente de tránsito,250101,Soltero
+22309586,Visitación,Girona,Sanmartín,2023-08-31,84,F,Hospital,MINSA,Accidente de tránsito,040101,Soltero
+13579612,Severino,Baeza,Prieto,2024-12-16,76,M,Vía pública,RENIEC,Accidente de tránsito,080101,Divorciado
+60192261,Jonatan,Polo,Bilbao,2023-11-17,56,M,Clínica,RENIEC,Accidente de tránsito,170101,Viudo
+40137082,Amaro,Montalbán,Cabeza,2023-07-17,29,F,Domicilio,MINSA,COVID-19,200101,Casado
+29602406,Emigdio,Arenas,Madrid,2024-09-15,52,F,Domicilio,RENIEC,Neumonía,190101,Casado
+28628439,Martina,Somoza,Sanabria,2020-09-25,80,F,Vía pública,RENIEC,COVID-19,230101,Divorciado
+20633503,Alejo,Jaén,Garriga,2021-12-17,100,F,Vía pública,Municipalidad,Accidente de tránsito,020101,Divorciado
+83659258,Lucía,Álamo,Rocha,2021-08-20,23,F,Clínica,MINSA,COVID-19,200101,Divorciado
+48668339,Jordán,Mascaró,Carro,2021-02-04,7,F,Vía pública,MINSA,Cáncer,140101,Viudo
+42002808,Simón,Sebastián,Barros,2021-08-19,26,F,Hospital,Municipalidad,Accidente laboral,110101,Soltero
+77085942,Edelmira,Alegre,Villalba,2025-07-31,68,M,Hospital,Hospital Regional,Cáncer,240101,Soltero
+42472386,Lina,Cobo,Manuel,2024-05-04,9,M,Clínica,Municipalidad,Accidente de tránsito,100101,Viudo
+10209961,Encarnacion,Osorio,Hernandez,2025-07-17,1,M,Clínica,RENIEC,Insuficiencia renal,160101,Casado
+65910756,Glauco,Boada,Zabaleta,2023-10-04,89,M,Vía pública,MINSA,Neumonía,100101,Viudo
+19083764,Begoña,Vera,Vera,2025-05-27,48,F,Domicilio,Hospital Regional,COVID-19,110101,Divorciado
+12729224,Rosario,Soriano,Arranz,2023-12-24,59,M,Vía pública,Hospital Regional,Accidente de tránsito,110101,Viudo
+60103798,José Luis,Alegre,Palau,2021-04-06,52,M,Clínica,MINSA,Infarto,120101,Divorciado
+56278607,Jose Angel,Calleja,Márquez,2021-10-28,37,M,Clínica,Hospital Regional,Accidente de tránsito,060101,Casado
+15950635,Pastor,Nevado,Díez,2024-08-22,63,F,Domicilio,Municipalidad,Insuficiencia renal,230101,Divorciado
+74227366,Evangelina,Esparza,Cepeda,2021-03-24,58,M,Domicilio,MINSA,Accidente de tránsito,180101,Divorciado
+71428713,Angelino,Marcos,Fortuny,2021-01-23,23,M,Hospital,RENIEC,Accidente laboral,240101,Soltero
+36772387,Soraya,Arnaiz,Moles,2023-04-30,97,M,Vía pública,MINSA,Accidente laboral,230101,Casado
+79173614,Rómulo,Sáenz,Isern,2020-12-31,8,M,Hospital,MINSA,Neumonía,030101,Viudo
+96825515,Graciano,Macias,Palau,2021-02-04,7,F,Vía pública,RENIEC,Infarto,180101,Divorciado
+98010774,Natanael,Llano,Casanova,2023-10-27,1,M,Domicilio,Hospital Regional,Infarto,170101,Divorciado
+68646621,Tamara,Páez,Sabater,2023-12-24,22,M,Hospital,MINSA,Accidente de tránsito,130101,Viudo
+55504725,Glauco,Valderrama,Valencia,2023-10-25,45,F,Vía pública,RENIEC,COVID-19,060101,Divorciado
+79696025,Juanito,Blanch,Rodriguez,2021-05-12,72,M,Clínica,Hospital Regional,Insuficiencia renal,040101,Soltero
+67795113,Eligia,Escribano,Marin,2023-06-03,11,F,Vía pública,Municipalidad,Neumonía,160101,Soltero
+23770458,Cebrián,Mosquera,Marqués,2023-04-19,81,M,Clínica,RENIEC,Cáncer,050101,Viudo
+69849800,Elisa,Rojas,Diaz,2024-06-19,72,M,Hospital,MINSA,Accidente de tránsito,190101,Divorciado
+57183837,Victoriano,Arnal,Osorio,2024-05-22,34,M,Hospital,Hospital Regional,Neumonía,190101,Soltero
+46850196,Feliciana,Barceló,Benavides,2024-02-23,22,F,Hospital,MINSA,Neumonía,200101,Divorciado
+58762794,Armida,Cuesta,Anguita,2021-11-26,9,F,Clínica,MINSA,Neumonía,060101,Viudo
+91547054,Irene,Ríos,Arana,2021-10-06,49,M,Hospital,Hospital Regional,Infarto,250101,Divorciado
+19023909,Jonatan,Pazos,Paredes,2023-12-12,29,M,Domicilio,Municipalidad,Accidente laboral,100101,Soltero
+86134287,Anacleto,Corral,Sandoval,2023-11-05,81,F,Vía pública,Municipalidad,Accidente de tránsito,110101,Divorciado
+59930790,Vicente,Benítez,Cervantes,2025-03-11,55,M,Vía pública,RENIEC,Accidente laboral,220101,Viudo
+59251188,Rómulo,Miralles,Lopez,2022-10-24,31,M,Hospital,Hospital Regional,Accidente de tránsito,060101,Casado
+25226815,Amancio,Estrada,Valera,2025-02-03,94,F,Domicilio,Hospital Regional,Infarto,040101,Soltero
+61940566,Xiomara,Carranza,Juárez,2022-11-26,39,F,Domicilio,Hospital Regional,Infarto,200101,Soltero
+69897763,Iker,Machado,Tudela,2022-05-23,23,F,Vía pública,Municipalidad,Infarto,150101,Soltero
+26460116,Elpidio,Benavent,Sans,2022-02-27,45,M,Domicilio,Municipalidad,Infarto,020101,Divorciado
+69741812,Chucho,Montenegro,Olivera,2021-03-29,49,M,Clínica,MINSA,Insuficiencia renal,060101,Casado
+83819367,Candela,Manrique,Marín,2022-01-11,17,F,Domicilio,Hospital Regional,Cáncer,200101,Soltero
+95590648,Félix,Pardo,Verdugo,2022-08-06,21,F,Domicilio,Municipalidad,COVID-19,160101,Soltero
+26288992,Herberto,Chamorro,Guzmán,2024-11-21,46,F,Clínica,Municipalidad,Neumonía,220101,Casado
+13527782,Poncio,Peinado,Solsona,2025-05-19,58,M,Clínica,Hospital Regional,Infarto,060101,Viudo
+27417599,Emma,Boix,Bastida,2023-04-27,79,F,Domicilio,Municipalidad,COVID-19,050101,Casado
+63440127,Liliana,Tejero,Zaragoza,2024-03-08,38,F,Clínica,Municipalidad,COVID-19,210101,Divorciado
+64953237,Palmira,Benavent,Casares,2023-05-21,40,F,Vía pública,MINSA,COVID-19,060101,Viudo
+96213226,Candelario,Sandoval,Solano,2025-02-02,100,F,Domicilio,RENIEC,Neumonía,130101,Casado
+56239991,Eduardo,Espada,Castelló,2024-05-15,87,M,Vía pública,MINSA,Cáncer,020101,Soltero
+77493234,Visitación,Baquero,Casanova,2025-02-04,52,F,Clínica,Hospital Regional,Accidente de tránsito,120101,Casado
+30537388,Marco,Cózar,Cáceres,2023-06-08,91,F,Vía pública,RENIEC,Cáncer,220101,Divorciado
+40262109,Osvaldo,Villena,Luz,2021-05-12,74,F,Vía pública,RENIEC,Accidente laboral,110101,Soltero
+43635675,Haroldo,Llobet,Casares,2023-04-07,13,M,Domicilio,MINSA,Insuficiencia renal,220101,Soltero
+92467167,Bibiana,Bueno,Valverde,2022-02-14,72,F,Domicilio,Municipalidad,Infarto,150101,Soltero
+89431184,Custodia,Correa,Donoso,2023-07-24,33,M,Clínica,Municipalidad,COVID-19,060101,Divorciado
+85647532,Ariel,Andrade,Bertrán,2021-01-28,98,M,Domicilio,RENIEC,Cáncer,250101,Viudo
+96094462,María Manuela,Landa,Galvez,2025-07-22,53,M,Hospital,MINSA,COVID-19,020101,Viudo
+65913331,Esmeralda,Anglada,Valenciano,2025-05-01,58,M,Vía pública,Hospital Regional,Cáncer,250101,Divorciado
+48879071,Felisa,Matas,Tomas,2022-10-09,92,F,Domicilio,RENIEC,COVID-19,080101,Soltero
+64504816,Manuel,Santana,Beltran,2021-03-14,2,F,Hospital,MINSA,Insuficiencia renal,140101,Casado
+31217198,Valerio,Ricart,Tomé,2024-08-21,70,M,Domicilio,Municipalidad,Cáncer,140101,Divorciado
+37383505,Noé,Cobo,Milla,2023-05-29,80,M,Clínica,Municipalidad,Cáncer,150101,Casado
+56354851,Sabas,Castrillo,Pellicer,2025-01-25,57,F,Vía pública,RENIEC,Insuficiencia renal,130101,Casado
+85383550,Curro,Montaña,Herranz,2024-08-28,35,M,Hospital,MINSA,COVID-19,100101,Casado
+26444612,Juanito,Sancho,Huguet,2021-11-20,58,M,Domicilio,Municipalidad,Neumonía,230101,Viudo
+22993840,Aureliano,Manrique,Plana,2024-03-31,76,F,Vía pública,RENIEC,COVID-19,110101,Divorciado
+43322272,Rosenda,Cuesta,Morán,2025-08-08,79,M,Domicilio,RENIEC,Insuficiencia renal,200101,Viudo
+51971886,Goyo,Cuervo,Valentín,2025-01-25,15,M,Domicilio,RENIEC,Accidente de tránsito,110101,Casado
+72654864,Andrea,Mendez,Valencia,2020-11-20,65,F,Vía pública,MINSA,Neumonía,060101,Divorciado
+22086184,Rubén,Vega,Sebastián,2022-09-26,23,F,Clínica,MINSA,Cáncer,020101,Casado
+38876195,Dalila,Osorio,Atienza,2021-02-13,23,F,Vía pública,RENIEC,Accidente laboral,110101,Soltero
+47763008,Ana Belén,Sosa,Macias,2025-04-03,62,M,Clínica,Municipalidad,Neumonía,170101,Divorciado
+11097552,Rebeca,Campos,Rosa,2021-10-30,52,F,Vía pública,Municipalidad,Cáncer,210101,Soltero
+45496951,Lucía,Paz,Quintana,2023-10-20,72,M,Clínica,Hospital Regional,Infarto,120101,Casado
+16072331,Salvador,Azcona,Ferreras,2023-10-10,68,F,Clínica,Municipalidad,Neumonía,160101,Soltero
+84252324,Luis,Beltrán,Pomares,2024-12-23,73,M,Domicilio,Hospital Regional,Neumonía,080101,Divorciado
+70445541,María Cristina,Losa,Carrera,2021-10-13,69,M,Vía pública,RENIEC,Insuficiencia renal,230101,Casado
+22976369,Rufino,Perea,Nicolau,2025-06-08,38,M,Vía pública,Hospital Regional,COVID-19,040101,Divorciado
+59070856,Marisol,Cobos,Flor,2025-01-07,15,M,Clínica,Hospital Regional,Accidente laboral,220101,Divorciado
+63873262,Angelita,Arjona,Arrieta,2021-01-07,21,M,Clínica,MINSA,Accidente laboral,080101,Viudo
+28392710,Leyre,Mínguez,Sáez,2025-02-08,68,F,Clínica,Hospital Regional,Insuficiencia renal,020101,Viudo
+71335966,Eustaquio,Villalba,Chaves,2023-06-24,73,F,Hospital,MINSA,Accidente laboral,050101,Soltero
+92284610,Melchor,Cámara,Pozo,2023-03-27,35,M,Clínica,MINSA,Accidente de tránsito,100101,Casado
+89688374,Nicodemo,Vendrell,Vergara,2025-03-20,97,F,Vía pública,MINSA,Neumonía,230101,Viudo
+75746104,Leandra,Marí,Taboada,2020-10-30,80,F,Vía pública,Municipalidad,Infarto,230101,Soltero
+59440148,Natanael,Canals,Riera,2025-08-27,51,F,Domicilio,Municipalidad,Cáncer,100101,Soltero
+51295819,Natividad,Amor,Sánchez,2022-12-12,99,M,Vía pública,Hospital Regional,Accidente laboral,040101,Divorciado
+97991930,Micaela,Goñi,Aznar,2025-08-26,27,F,Clínica,Municipalidad,COVID-19,100101,Viudo
+74484744,Francisco,Zamora,Pinto,2021-12-12,43,M,Vía pública,Hospital Regional,Insuficiencia renal,080101,Soltero
+42507072,Amílcar,Canet,Farré,2020-11-06,12,F,Hospital,RENIEC,Accidente laboral,210101,Divorciado
+69195194,Mauricio,Riquelme,Cordero,2024-03-15,58,M,Vía pública,MINSA,Insuficiencia renal,200101,Viudo
+37365878,Segismundo,Valls,Soto,2021-03-21,20,F,Hospital,Hospital Regional,COVID-19,040101,Viudo
+28533117,Aurelia,Galan,Morcillo,2024-10-04,85,M,Hospital,Municipalidad,Insuficiencia renal,020101,Casado
+80528349,Renato,Mir,Duran,2024-08-07,54,M,Hospital,RENIEC,Accidente de tránsito,160101,Soltero
+81555103,Octavio,Pablo,Lamas,2024-10-22,16,M,Vía pública,RENIEC,Infarto,100101,Soltero
+35805259,Jose Manuel,Lorenzo,Martín,2022-08-08,54,M,Vía pública,RENIEC,Accidente de tránsito,060101,Soltero
+49945150,María Manuela,Malo,Galan,2024-11-06,93,M,Hospital,Hospital Regional,COVID-19,020101,Casado
+52552488,Alexandra,Oller,Llanos,2023-02-20,48,M,Clínica,RENIEC,Neumonía,190101,Soltero
+26357665,Consuela,Pino,Prat,2023-08-17,78,M,Vía pública,Hospital Regional,Insuficiencia renal,130101,Casado
+29659692,Luis Ángel,Arnal,Maestre,2021-05-12,52,F,Clínica,RENIEC,Infarto,200101,Soltero
+56488123,Ámbar,Salamanca,Jerez,2024-10-06,75,F,Domicilio,Municipalidad,COVID-19,200101,Casado
+38720823,Heriberto,Linares,Llabrés,2021-11-09,35,M,Clínica,Hospital Regional,Accidente laboral,150101,Viudo
+24660143,Encarnación,Heras,Herrera,2021-02-13,26,M,Vía pública,Hospital Regional,Insuficiencia renal,080101,Casado
+99903592,Verónica,Gonzalez,Guerrero,2021-02-19,63,F,Hospital,MINSA,Cáncer,230101,Soltero
+23448342,Severiano,Murillo,Sureda,2021-07-18,67,M,Domicilio,Hospital Regional,Accidente de tránsito,060101,Divorciado
+28450513,Adelardo,Cruz,Ramírez,2024-09-25,46,M,Vía pública,RENIEC,Infarto,190101,Soltero
+74082055,Florina,Flores,Madrigal,2023-06-03,1,F,Clínica,RENIEC,Infarto,060101,Viudo
+48307798,Flavia,Barranco,Borrás,2025-07-28,80,F,Vía pública,Municipalidad,Infarto,230101,Casado
+41168067,Bienvenida,Arcos,Díez,2024-03-30,35,M,Domicilio,RENIEC,Neumonía,130101,Casado
+33593960,Zaira,Arce,Puerta,2024-11-26,68,F,Vía pública,RENIEC,COVID-19,050101,Casado
+35006323,Marianela,Mancebo,Arcos,2020-10-07,7,M,Hospital,Municipalidad,Infarto,030101,Soltero
+50049524,Clementina,Campo,Naranjo,2023-02-10,39,M,Hospital,RENIEC,Insuficiencia renal,200101,Soltero
+70981700,Felipa,Zamora,Uribe,2021-10-30,20,F,Domicilio,Hospital Regional,Accidente de tránsito,110101,Casado
+77674279,Adelina,Llamas,Fernández,2021-08-24,95,F,Hospital,RENIEC,COVID-19,050101,Viudo
+54383668,Fermín,Segarra,Jimenez,2022-04-10,67,M,Domicilio,RENIEC,Cáncer,030101,Viudo
+11890348,Maite,Navas,Marquez,2025-07-09,7,F,Clínica,Hospital Regional,Accidente de tránsito,120101,Soltero
+35925669,Gabino,Ramirez,Roma,2025-01-26,73,M,Clínica,RENIEC,Infarto,150101,Casado
+54013571,Chema,Pérez,Bustos,2022-04-06,5,F,Domicilio,Municipalidad,Accidente de tránsito,210101,Soltero
+28872606,Albina,Morales,Hurtado,2020-09-30,70,F,Clínica,Hospital Regional,Accidente de tránsito,050101,Viudo
+45002007,Rodolfo,Gutiérrez,Salom,2022-12-17,34,M,Domicilio,RENIEC,Neumonía,240101,Soltero
+54241559,Marciano,Alberdi,Jurado,2023-10-01,22,M,Hospital,Municipalidad,Infarto,030101,Viudo
+41715995,Bernabé,Carrasco,Solana,2023-04-20,99,F,Domicilio,RENIEC,Neumonía,030101,Soltero
+31436829,Santiago,Valverde,Mercader,2021-09-08,47,M,Domicilio,Hospital Regional,Insuficiencia renal,220101,Casado
+95726382,Yésica,Marquez,Pedrero,2022-07-27,59,F,Vía pública,MINSA,Insuficiencia renal,180101,Casado
+39410942,Eliseo,Tejera,Coronado,2024-07-23,19,M,Vía pública,RENIEC,Accidente de tránsito,180101,Viudo
+91300905,Raúl,Ricart,Sotelo,2025-04-06,81,M,Domicilio,RENIEC,Accidente laboral,240101,Divorciado
+99133246,Paola,Gil,Huertas,2021-05-21,94,F,Hospital,MINSA,Neumonía,140101,Divorciado
+80532309,Victoriano,Álvarez,Pardo,2021-05-09,62,M,Clínica,Hospital Regional,Infarto,080101,Casado
+85721444,Dani,Barrio,Vega,2022-05-30,66,F,Domicilio,Municipalidad,Insuficiencia renal,040101,Soltero
+86866717,Brunilda,Conde,Córdoba,2023-06-25,64,M,Vía pública,RENIEC,Neumonía,190101,Soltero
+79839059,Vasco,Carnero,Fuertes,2025-08-25,55,M,Clínica,Hospital Regional,COVID-19,100101,Divorciado
+75609379,Ciriaco,Vicens,Salinas,2021-02-28,89,F,Domicilio,Municipalidad,COVID-19,140101,Soltero
+70858653,Eligio,Vilanova,Ribes,2024-07-29,25,M,Hospital,MINSA,Infarto,210101,Divorciado
+85686878,Bautista,Sevilla,Mendez,2020-11-15,59,F,Vía pública,RENIEC,Neumonía,110101,Casado
+63143336,José Manuel,Acero,Gibert,2025-08-10,57,F,Vía pública,Hospital Regional,Accidente laboral,250101,Soltero
+19801857,Artemio,Roda,Ocaña,2021-03-26,20,F,Hospital,MINSA,Accidente laboral,100101,Casado
+82633735,Benito,Bayón,Suarez,2020-12-16,11,M,Domicilio,Municipalidad,Neumonía,080101,Viudo
+48532662,Sebastian,Escolano,Cerdá,2024-04-07,33,M,Hospital,Municipalidad,Accidente laboral,030101,Casado
+60259293,Tatiana,Piñeiro,Sanabria,2023-11-25,12,F,Hospital,MINSA,Infarto,150101,Soltero
+60418290,Cecilio,Cañas,Oliveras,2021-09-12,99,M,Clínica,MINSA,Accidente laboral,060101,Viudo
+33954324,Brígida,Pozo,Ángel,2021-10-09,87,M,Domicilio,RENIEC,Infarto,040101,Casado
+39888974,Perlita,Acevedo,Alsina,2023-03-24,82,F,Clínica,RENIEC,Accidente laboral,100101,Soltero
+72143331,Ignacia,Rodrigo,Pinilla,2022-08-23,5,F,Hospital,MINSA,Neumonía,050101,Divorciado
+43220503,Édgar,Oliva,Cortina,2023-01-13,63,M,Vía pública,Municipalidad,Accidente de tránsito,110101,Casado
+35297417,Sara,Carbajo,Antón,2024-04-03,23,F,Domicilio,Municipalidad,Accidente de tránsito,080101,Casado
+92533595,María Dolores,Alcázar,Hernandez,2022-06-11,82,F,Vía pública,Municipalidad,Neumonía,160101,Soltero
+19031632,Cosme,Aragonés,Salom,2021-02-07,11,F,Vía pública,MINSA,Cáncer,130101,Casado
+42847661,Manu,Arregui,Quesada,2024-06-03,80,M,Vía pública,Hospital Regional,Cáncer,180101,Divorciado
+41452485,Calista,Gaya,Barbero,2021-11-18,44,F,Vía pública,Hospital Regional,Accidente de tránsito,150101,Viudo
+77631755,Luis Miguel,Guillén,Montaña,2025-08-08,76,M,Hospital,Hospital Regional,Infarto,160101,Viudo
+90251151,María Teresa,Montes,Gálvez,2023-04-04,98,M,Clínica,RENIEC,Accidente de tránsito,240101,Casado
+29228089,Gertrudis,Vázquez,Giner,2024-03-16,34,M,Clínica,Municipalidad,COVID-19,210101,Casado
+50332555,Leonardo,Barrera,Díez,2024-04-28,30,F,Domicilio,RENIEC,Insuficiencia renal,110101,Casado
+84605013,Ana Sofía,Arévalo,Ocaña,2023-12-07,72,M,Vía pública,Hospital Regional,Accidente de tránsito,160101,Soltero
+80392240,Melchor,Rico,Real,2021-12-16,11,M,Clínica,MINSA,Infarto,170101,Divorciado
+50250352,Renato,Espejo,Sáenz,2022-09-27,0,F,Clínica,MINSA,COVID-19,210101,Viudo
+40245233,Marcelo,Cobos,Sierra,2021-03-07,7,M,Clínica,MINSA,Accidente laboral,250101,Viudo
+85482164,Seve,Riera,Cañete,2023-12-29,9,F,Vía pública,RENIEC,COVID-19,020101,Viudo
+42595918,José Mari,Frutos,Murillo,2021-05-12,17,M,Vía pública,Municipalidad,Insuficiencia renal,100101,Casado
+70369365,Rebeca,Peláez,Bru,2025-03-31,90,F,Clínica,MINSA,Cáncer,020101,Viudo
+35566010,Aurelio,Ledesma,Pi,2021-01-09,16,M,Hospital,Municipalidad,Accidente laboral,190101,Soltero
+19768947,Godofredo,Gaya,Tello,2022-06-19,23,F,Clínica,RENIEC,Cáncer,200101,Viudo
+54689713,Marcio,Alcántara,Galán,2022-04-22,95,M,Clínica,Hospital Regional,COVID-19,210101,Soltero
+25745913,Margarita,Tejero,Herrera,2022-06-06,90,F,Vía pública,RENIEC,COVID-19,130101,Casado
+63235053,Yolanda,Heras,Montoya,2023-02-05,88,M,Domicilio,Hospital Regional,Accidente laboral,250101,Soltero
+61091554,Adelaida,Palomar,Mendez,2022-11-30,6,F,Vía pública,Municipalidad,Accidente de tránsito,050101,Divorciado
+58270683,Armida,Valencia,Solano,2021-07-12,48,F,Vía pública,RENIEC,Accidente laboral,160101,Casado
+73013937,María,Montero,Frutos,2023-11-04,20,F,Hospital,RENIEC,COVID-19,150101,Viudo
+51999682,Severiano,Arroyo,Giralt,2021-12-06,33,M,Hospital,Hospital Regional,Accidente de tránsito,060101,Casado
+12176998,Juan Carlos,Rios,Marquez,2021-12-26,93,M,Hospital,Hospital Regional,Neumonía,220101,Divorciado
+36332415,Narciso,Grau,Pino,2025-07-15,90,M,Vía pública,MINSA,Neumonía,050101,Casado
+42981324,Angelina,Nebot,Jiménez,2024-11-05,6,M,Domicilio,MINSA,Accidente de tránsito,050101,Viudo
+96126771,Manola,Trujillo,Serna,2022-02-13,84,F,Domicilio,MINSA,Infarto,080101,Divorciado
+57268285,Fortunato,Chaves,Torres,2022-04-03,73,F,Clínica,RENIEC,COVID-19,150101,Divorciado
+82764376,Felisa,Barral,Zamora,2020-12-23,11,F,Vía pública,MINSA,Infarto,150101,Casado
+19976458,Olimpia,Atienza,Agudo,2024-03-13,21,F,Hospital,Municipalidad,Accidente laboral,250101,Viudo
+28453800,Purificación,Guardia,Bayo,2021-12-22,100,F,Vía pública,Municipalidad,Insuficiencia renal,120101,Soltero
+11226946,Isaías,Vega,Sarmiento,2023-11-12,82,F,Clínica,Hospital Regional,Cáncer,110101,Casado
+18113477,Esmeralda,Tomas,Torrents,2020-10-27,57,M,Domicilio,Municipalidad,Cáncer,120101,Casado
+10887495,Bernardita,Reina,Albero,2020-10-30,34,M,Clínica,RENIEC,Infarto,240101,Viudo
+81057233,Lorenza,Llobet,Madrid,2020-11-01,69,F,Clínica,RENIEC,Accidente laboral,060101,Divorciado
+77406294,Odalis,Ros,Escobar,2021-08-07,68,F,Clínica,Municipalidad,COVID-19,040101,Divorciado
+22927031,Azucena,Comas,Hernando,2022-04-28,91,M,Clínica,RENIEC,Accidente laboral,030101,Casado
+93185576,Belen,Iniesta,Pablo,2022-12-18,21,M,Clínica,MINSA,Infarto,050101,Soltero
+63270536,Cayetano,Perea,Ramis,2024-08-05,87,F,Clínica,MINSA,Accidente laboral,220101,Viudo
+85833309,Jose Francisco,Gonzalez,Marín,2021-05-17,40,M,Hospital,Municipalidad,Neumonía,060101,Viudo
+97742922,Rosa,Angulo,Bueno,2024-02-20,35,F,Hospital,Municipalidad,Infarto,050101,Casado
+60903955,René,Tamarit,Barba,2020-10-08,18,M,Hospital,RENIEC,Accidente laboral,020101,Viudo
+33002714,Celestino,Valero,Roura,2023-07-05,52,F,Vía pública,Municipalidad,Neumonía,220101,Divorciado
+85947990,Rosa,Bustos,Álvarez,2021-01-19,4,M,Domicilio,Municipalidad,Accidente de tránsito,220101,Divorciado
+40838737,Héctor,Talavera,Linares,2021-01-31,4,F,Domicilio,MINSA,Infarto,160101,Viudo
+19978827,Isaura,Lozano,Aparicio,2022-03-20,47,M,Domicilio,Hospital Regional,COVID-19,120101,Divorciado
+52209421,Alcides,Galan,Cobos,2024-01-29,89,M,Clínica,MINSA,COVID-19,030101,Viudo
+20326375,Marcelino,Cámara,Hernandez,2025-07-05,34,F,Hospital,MINSA,Cáncer,130101,Divorciado
+62231715,Inés,Mármol,Plana,2021-11-17,94,F,Domicilio,RENIEC,Neumonía,210101,Soltero
+20526386,Angelita,Oliva,Baeza,2021-07-09,39,F,Clínica,RENIEC,Accidente de tránsito,130101,Casado
+68664992,Jesús,Benitez,Niño,2024-01-24,7,M,Hospital,Municipalidad,Infarto,110101,Casado
+53805532,Amor,Llano,Sanjuan,2024-11-11,35,F,Vía pública,Municipalidad,Insuficiencia renal,250101,Soltero
+40620216,Pelayo,Perez,Rosales,2022-04-09,30,F,Vía pública,Municipalidad,Accidente de tránsito,160101,Viudo
+88634827,Gertrudis,Pinto,Boada,2023-03-15,44,M,Domicilio,RENIEC,COVID-19,150101,Divorciado
+43077929,Leyre,Beltrán,Blanca,2022-12-20,6,M,Clínica,MINSA,Insuficiencia renal,140101,Casado
+30699187,Ricardo,Correa,Porras,2023-05-20,34,F,Hospital,RENIEC,Cáncer,200101,Casado
+58412365,Custodio,Bravo,Adadia,2023-04-24,76,M,Clínica,Hospital Regional,Neumonía,020101,Viudo
+69691437,Plácido,Lerma,Calatayud,2021-10-25,54,F,Domicilio,Municipalidad,COVID-19,130101,Divorciado
+21716836,Glauco,Rosa,Sanchez,2025-06-05,38,F,Hospital,RENIEC,Neumonía,240101,Viudo
+84455942,Ariel,Raya,Calderón,2020-11-29,71,F,Domicilio,RENIEC,Cáncer,040101,Viudo
+22028437,Paulino,Buendía,Morata,2023-12-19,35,F,Domicilio,Hospital Regional,Insuficiencia renal,230101,Viudo
+11656329,Lupe,Riba,Pons,2021-05-30,24,M,Clínica,RENIEC,Accidente laboral,220101,Divorciado
+85099723,Verónica,Herrero,Vázquez,2022-02-17,84,F,Clínica,RENIEC,Insuficiencia renal,160101,Viudo
+61100987,Fortunato,Chamorro,Leiva,2023-04-02,33,F,Vía pública,Municipalidad,Insuficiencia renal,080101,Casado
+46024950,América,Coello,Barroso,2022-02-10,43,M,Vía pública,Hospital Regional,Neumonía,020101,Casado
+68341261,Leoncio,Robledo,Marí,2024-10-22,84,M,Domicilio,RENIEC,Cáncer,200101,Viudo
+20324210,Poncio,Infante,Huerta,2024-11-27,92,M,Domicilio,RENIEC,Accidente de tránsito,110101,Casado
+89699345,Encarnita,Ferrán,Seco,2021-08-07,95,F,Vía pública,Hospital Regional,COVID-19,120101,Viudo
+28185096,Marco,Agudo,Priego,2023-07-08,59,M,Vía pública,RENIEC,Accidente laboral,230101,Soltero
+93240786,Ricardo,Mur,Sacristán,2023-07-15,60,M,Hospital,Municipalidad,Neumonía,020101,Divorciado
+67796330,Olalla,Cerdán,Mas,2023-06-02,6,M,Clínica,MINSA,COVID-19,050101,Divorciado
+90961645,Jordana,Font,Tello,2023-05-13,18,F,Clínica,RENIEC,Cáncer,100101,Casado
+33842070,Rómulo,Montaña,Manuel,2024-11-12,40,M,Hospital,Municipalidad,COVID-19,130101,Casado
+87293208,Merche,Herrera,Moreno,2023-11-21,73,M,Vía pública,RENIEC,Accidente de tránsito,220101,Divorciado
+47621248,Olga,Pozo,Patiño,2021-08-28,81,F,Vía pública,Municipalidad,Cáncer,060101,Soltero
+85678734,Heraclio,Escolano,Amores,2024-08-13,4,M,Domicilio,RENIEC,COVID-19,170101,Casado
+38138531,Urbano,Manuel,Bayón,2024-03-03,2,M,Clínica,MINSA,Insuficiencia renal,110101,Viudo
+77015343,Emilio,Mateo,Herranz,2022-11-03,16,M,Vía pública,Hospital Regional,Accidente de tránsito,040101,Soltero
+98404247,Fabio,Rocha,Pi,2021-04-26,38,F,Vía pública,Hospital Regional,Cáncer,240101,Casado
+70272714,Elba,Tello,Pérez,2025-03-27,43,F,Domicilio,MINSA,Accidente de tránsito,060101,Soltero
+77996397,Águeda,Ripoll,Arco,2023-10-01,29,M,Clínica,MINSA,Insuficiencia renal,150101,Casado
+82062301,Dorotea,Blázquez,Canales,2022-10-20,15,F,Hospital,Municipalidad,Insuficiencia renal,120101,Soltero
+98261798,Graciana,Padilla,Delgado,2021-01-24,76,M,Hospital,RENIEC,Infarto,250101,Divorciado
+85594147,Filomena,Pulido,Mármol,2024-05-08,56,F,Hospital,Hospital Regional,Cáncer,200101,Casado
+24219637,Agustín,Cabello,Jordán,2022-07-30,88,M,Domicilio,Municipalidad,Insuficiencia renal,250101,Viudo
+78541804,Margarita,Villena,Giner,2024-06-24,79,M,Vía pública,RENIEC,Neumonía,220101,Soltero
+60213478,Rosendo,Sierra,Vall,2021-12-21,36,M,Hospital,Municipalidad,Accidente de tránsito,220101,Casado
+56300738,Amador,Tolosa,Calvo,2023-03-15,99,F,Clínica,Hospital Regional,Insuficiencia renal,050101,Viudo
+65831276,Zoraida,Boada,Carmona,2021-11-23,20,M,Vía pública,MINSA,Insuficiencia renal,160101,Viudo
+56751880,Mateo,Novoa,Sarabia,2022-06-13,30,M,Hospital,RENIEC,Infarto,190101,Divorciado
+79942848,Almudena,Olivé,Tamayo,2021-07-09,19,M,Hospital,RENIEC,COVID-19,230101,Casado
+68809636,Lorenza,Santamaria,Montaña,2021-04-05,58,F,Domicilio,Municipalidad,Infarto,250101,Casado
+50300763,Arsenio,Cardona,Alsina,2023-08-10,5,F,Domicilio,Hospital Regional,Cáncer,250101,Soltero
+96969050,César,Córdoba,Hervás,2025-01-29,97,M,Hospital,MINSA,Insuficiencia renal,230101,Casado
+33414716,Carmina,Cuesta,Muro,2025-06-14,42,F,Vía pública,Hospital Regional,Insuficiencia renal,040101,Viudo
+67226329,Óscar,Guardiola,Quirós,2022-04-05,43,M,Hospital,Municipalidad,Cáncer,030101,Viudo
+35016429,Felicidad,Rosell,Priego,2020-12-08,49,F,Vía pública,MINSA,Infarto,200101,Soltero
+92424037,Sol,Figueroa,Sancho,2024-05-05,20,M,Vía pública,Municipalidad,Accidente laboral,190101,Divorciado
+62188655,Adalberto,Garmendia,Fuster,2023-01-21,23,F,Domicilio,RENIEC,Accidente laboral,240101,Casado
+18397164,Crescencia,Cal,Estévez,2023-10-20,61,F,Hospital,Municipalidad,Cáncer,080101,Soltero
+53752954,Haroldo,Seco,Carbonell,2022-12-03,33,F,Hospital,MINSA,Insuficiencia renal,100101,Soltero
+75697427,Belén,Millán,Pont,2024-01-11,55,M,Vía pública,Hospital Regional,Insuficiencia renal,240101,Divorciado
+88786439,Danilo,Oliveras,Ortiz,2024-08-01,19,M,Hospital,MINSA,Neumonía,160101,Divorciado
+92861016,Francisco Jose,Martorell,Blazquez,2021-10-30,21,M,Vía pública,Hospital Regional,Accidente de tránsito,100101,Viudo
+52035079,Desiderio,Gómez,Mayoral,2021-09-07,6,M,Vía pública,Municipalidad,Accidente laboral,140101,Soltero
+34567819,Raúl,Cid,Vicente,2023-12-29,58,F,Vía pública,RENIEC,Accidente laboral,160101,Divorciado
+66135102,Débora,Cervera,Pla,2024-04-15,40,M,Vía pública,RENIEC,Infarto,060101,Divorciado
+34931439,Amanda,Duran,Diaz,2024-11-08,4,M,Hospital,Hospital Regional,Neumonía,180101,Casado
+48766747,Enrique,Exposito,Miranda,2024-07-11,83,F,Domicilio,Hospital Regional,Accidente laboral,080101,Casado
+93135800,Balduino,Palomar,Agustí,2024-10-23,58,F,Vía pública,Hospital Regional,Insuficiencia renal,030101,Soltero
+28325379,Guiomar,Plana,Vega,2024-11-24,12,M,Hospital,Hospital Regional,COVID-19,230101,Viudo
+64913082,Isidora,Téllez,Ricart,2024-06-18,70,F,Hospital,RENIEC,Accidente de tránsito,160101,Casado
+75592138,Florencio,Blanch,Anguita,2022-07-26,91,F,Hospital,Hospital Regional,Neumonía,130101,Casado
+49203644,Anacleto,Llobet,Gomila,2025-04-06,15,F,Clínica,Municipalidad,Accidente laboral,130101,Viudo
+48744673,Florentino,Sebastián,Valbuena,2025-05-13,13,F,Hospital,RENIEC,Accidente laboral,030101,Divorciado
+78559218,Daniel,Carbonell,Leal,2025-04-23,84,M,Vía pública,RENIEC,Neumonía,080101,Divorciado
+59239353,Candela,Arnaiz,Sainz,2025-05-03,74,F,Clínica,MINSA,Insuficiencia renal,200101,Soltero
+39332201,Teodoro,Calatayud,Huertas,2023-03-22,49,F,Vía pública,Municipalidad,Neumonía,140101,Viudo
+14325890,Vinicio,Jódar,Olivé,2021-06-06,50,F,Domicilio,Municipalidad,Accidente laboral,200101,Casado
+68930964,Rosenda,Carpio,Gálvez,2022-06-23,52,F,Domicilio,MINSA,Accidente de tránsito,130101,Viudo
+88909809,Jennifer,Orozco,Roman,2022-02-06,87,F,Clínica,MINSA,Neumonía,180101,Viudo
+92698414,Emilio,Gabaldón,Gabaldón,2021-03-12,90,M,Domicilio,Municipalidad,Neumonía,190101,Divorciado
+86514083,Pascual,Lucas,Diéguez,2023-06-11,86,F,Vía pública,RENIEC,Neumonía,250101,Soltero
+49276764,Luis Miguel,Lastra,Vilar,2021-07-01,48,M,Hospital,RENIEC,Accidente de tránsito,120101,Casado
+28198434,Maricela,Reina,Barranco,2023-01-18,36,F,Clínica,RENIEC,Insuficiencia renal,020101,Casado
+98032908,Edmundo,Cazorla,Iborra,2021-12-07,96,M,Domicilio,Municipalidad,Infarto,220101,Casado
+53231088,Patricia,Huertas,Pozo,2024-11-07,95,F,Clínica,Hospital Regional,Insuficiencia renal,240101,Soltero
+29081953,Crescencia,Leiva,Ribas,2023-11-18,48,F,Vía pública,Hospital Regional,Neumonía,080101,Soltero
+70665302,Carlos,Buendía,Quintana,2025-01-27,95,F,Clínica,Municipalidad,Accidente laboral,140101,Viudo
+47342819,Jordana,Peinado,Sanz,2024-11-03,96,M,Clínica,Hospital Regional,Cáncer,210101,Soltero
+53928023,Cándida,Acedo,Buendía,2024-08-03,23,M,Hospital,Municipalidad,Infarto,050101,Viudo
+95206855,Graciana,Palma,Barroso,2025-03-27,71,F,Clínica,MINSA,Neumonía,120101,Soltero
+63380520,Isaías,Román,Galán,2024-11-24,42,F,Clínica,RENIEC,Accidente de tránsito,100101,Soltero
+46042404,Mohamed,Luque,Nebot,2025-05-06,99,F,Vía pública,Hospital Regional,Infarto,100101,Casado
+87568940,Eladio,Toro,Nuñez,2021-02-06,23,M,Clínica,Municipalidad,Neumonía,180101,Divorciado
+16166355,Conrado,Segura,Alegre,2021-09-29,11,F,Clínica,MINSA,Insuficiencia renal,100101,Viudo
+31204188,Valero,Sastre,Abascal,2024-04-30,46,F,Clínica,Municipalidad,Neumonía,230101,Soltero
+37154689,Jennifer,Catalán,Matas,2022-01-15,14,F,Vía pública,MINSA,Insuficiencia renal,220101,Casado
+46778269,Ciro,Palomo,Ibáñez,2021-05-23,5,F,Vía pública,RENIEC,Cáncer,120101,Viudo
+59908025,Graciana,Dalmau,Azorin,2024-01-23,3,F,Vía pública,Municipalidad,Infarto,020101,Casado
+93967184,Marcos,Guillén,Román,2021-06-19,41,M,Hospital,MINSA,Accidente laboral,180101,Soltero
+22775337,Abel,García,Tapia,2021-05-09,80,M,Clínica,MINSA,Accidente laboral,240101,Divorciado
+27810664,Dorita,Gonzalo,Vives,2024-06-22,13,M,Vía pública,RENIEC,Insuficiencia renal,240101,Casado
+11246473,Adán,Nuñez,Carreño,2024-04-13,3,F,Domicilio,RENIEC,Infarto,040101,Soltero
+27740248,Ale,Belda,Granados,2023-12-13,22,F,Hospital,MINSA,COVID-19,050101,Divorciado
+21989814,Lupe,Calatayud,Calderón,2023-05-10,57,F,Vía pública,Hospital Regional,Infarto,060101,Soltero
+59333294,Socorro,Martínez,Cerro,2023-12-12,68,M,Hospital,RENIEC,Insuficiencia renal,040101,Viudo
+27870584,Felipa,Clavero,Bayona,2025-03-15,64,M,Domicilio,Hospital Regional,Neumonía,040101,Viudo
+85603667,Adán,Córdoba,Sacristán,2023-09-05,97,F,Vía pública,Municipalidad,Accidente laboral,240101,Soltero
+38595818,Eusebia,Cordero,Requena,2024-06-14,60,M,Clínica,MINSA,Insuficiencia renal,060101,Viudo
+39158087,Chema,Cabrera,Chaves,2021-09-26,81,M,Domicilio,Hospital Regional,Infarto,180101,Casado
+89131271,Luna,Plana,Ortega,2024-05-05,15,M,Hospital,Municipalidad,Neumonía,180101,Soltero
+52211967,Máxima,Chaves,Huguet,2023-01-17,39,M,Domicilio,MINSA,Cáncer,230101,Casado
+96519508,Cesar,Hurtado,López,2020-12-01,20,M,Clínica,Hospital Regional,Accidente de tránsito,250101,Casado
+98369672,Sara,Mata,Fuertes,2025-02-03,85,M,Vía pública,RENIEC,COVID-19,240101,Soltero
+91460345,Araceli,Fabregat,Pou,2023-03-16,32,M,Clínica,Municipalidad,COVID-19,110101,Casado
+96727439,Baltasar,Heras,Uría,2023-12-21,85,M,Hospital,Hospital Regional,Neumonía,040101,Casado
+25132198,Jose Angel,Valero,Belda,2025-03-08,40,F,Vía pública,Hospital Regional,Neumonía,240101,Viudo
+11619606,Poncio,Moliner,Catalán,2023-12-24,88,M,Domicilio,Hospital Regional,Cáncer,210101,Soltero
+86286724,Sosimo,Pavón,Duque,2024-09-11,40,M,Clínica,Municipalidad,COVID-19,110101,Casado
+19796799,Ale,Bauzà,Alcalá,2022-12-02,86,F,Vía pública,Municipalidad,Cáncer,110101,Viudo
+38956527,Aníbal,Barrena,Puig,2024-12-30,62,M,Clínica,RENIEC,Accidente laboral,120101,Casado
+48451741,Eusebia,Vallejo,Ribes,2024-04-17,68,M,Domicilio,RENIEC,Insuficiencia renal,040101,Soltero
+63992760,Celestino,Corominas,Lobato,2021-05-26,64,M,Vía pública,MINSA,Infarto,180101,Viudo
+51594998,Cayetano,Vidal,Frutos,2022-01-04,69,F,Clínica,Hospital Regional,Cáncer,140101,Viudo
+81993070,Nacho,Portillo,Batalla,2023-04-30,17,F,Hospital,Municipalidad,COVID-19,170101,Soltero
+68718382,Luna,Gómez,Barco,2022-10-08,84,M,Clínica,MINSA,Cáncer,210101,Casado
+21571285,Ámbar,Rovira,Carmona,2024-07-18,72,M,Vía pública,Hospital Regional,Infarto,140101,Divorciado
+92181084,Emelina,Ballesteros,Mendoza,2022-03-08,29,M,Domicilio,Hospital Regional,Accidente de tránsito,080101,Casado
+26031369,Albano,Cervantes,Alberdi,2022-01-31,66,F,Vía pública,Municipalidad,Cáncer,080101,Soltero
+76627415,Ovidio,Zabala,Villar,2022-11-23,83,F,Hospital,Hospital Regional,Accidente laboral,120101,Casado
+32409388,Ramiro,Castañeda,Leiva,2021-09-10,48,F,Domicilio,RENIEC,Neumonía,120101,Divorciado
+13940129,Nico,Román,Lladó,2025-02-22,28,F,Domicilio,Hospital Regional,Cáncer,160101,Soltero
+18572753,Juan José,Benítez,Valderrama,2024-07-24,64,M,Vía pública,MINSA,Accidente de tránsito,040101,Viudo
+78555983,Plácido,Baquero,Valero,2025-07-06,27,M,Clínica,MINSA,COVID-19,220101,Soltero
+32398441,Quirino,Criado,Jara,2021-07-25,84,M,Vía pública,Hospital Regional,Insuficiencia renal,250101,Divorciado
+87029205,Ileana,Carlos,Gracia,2025-01-06,86,F,Vía pública,MINSA,Neumonía,210101,Divorciado
+10344739,Arsenio,Alberola,Hidalgo,2021-01-29,2,M,Hospital,MINSA,Neumonía,190101,Casado
+73319171,Prudencio,Piñol,Conesa,2022-03-19,17,M,Clínica,RENIEC,Accidente de tránsito,120101,Casado
+14746418,Carolina,Rius,Gomez,2023-06-05,66,F,Hospital,Hospital Regional,Infarto,130101,Divorciado
+43321320,Sigfrido,Montero,Linares,2021-05-08,77,F,Vía pública,MINSA,Accidente de tránsito,050101,Casado
+86710258,Ramón,Carreras,Vallés,2021-02-19,74,M,Domicilio,MINSA,Insuficiencia renal,240101,Viudo
+34071191,Jacinto,Villalobos,Arteaga,2024-02-06,58,M,Clínica,Municipalidad,Cáncer,200101,Soltero
+19251149,Saturnina,Sola,Lumbreras,2023-05-02,2,M,Vía pública,MINSA,Neumonía,250101,Casado
+53929586,Chema,Saura,Aguiló,2023-10-30,60,M,Hospital,RENIEC,Cáncer,240101,Casado
+36933626,Lupe,Mateu,Herrera,2024-08-20,77,M,Vía pública,Municipalidad,COVID-19,080101,Divorciado
+59428849,Domitila,Uriarte,Ferrán,2025-05-04,29,F,Vía pública,Hospital Regional,Neumonía,190101,Soltero
+42900372,Eutropio,Agudo,Redondo,2020-11-22,54,M,Domicilio,Municipalidad,Accidente laboral,140101,Soltero
+41272427,Camila,Olivares,Agustí,2023-07-16,36,F,Domicilio,MINSA,Infarto,150101,Soltero
+10196231,Martina,Peñalver,Meléndez,2021-07-28,66,M,Vía pública,MINSA,Insuficiencia renal,100101,Divorciado
+37540722,Benita,Gárate,Rivas,2024-11-15,46,M,Clínica,Municipalidad,Insuficiencia renal,190101,Viudo
+18038980,Erasmo,Losada,Buendía,2021-01-23,33,F,Domicilio,Hospital Regional,Insuficiencia renal,060101,Casado
+41067722,Teófila,Vizcaíno,Rey,2023-11-10,52,F,Clínica,Hospital Regional,Neumonía,180101,Divorciado
+71533194,Mariana,Blazquez,Bustos,2024-12-27,32,F,Domicilio,Municipalidad,Insuficiencia renal,200101,Soltero
+27919925,Febe,Prado,Benavides,2025-07-09,95,M,Vía pública,MINSA,Infarto,130101,Divorciado
+18359464,Trinidad,Castrillo,Guzmán,2023-03-04,100,F,Hospital,MINSA,Cáncer,230101,Soltero
+45029610,Renata,Miró,Pozo,2023-06-19,11,M,Vía pública,Municipalidad,Infarto,040101,Viudo
+52688984,Víctor,Llabrés,Guillen,2021-04-29,28,F,Hospital,RENIEC,Insuficiencia renal,060101,Divorciado
+37207628,Elías,Canales,Cortés,2021-08-03,78,F,Hospital,MINSA,Insuficiencia renal,160101,Divorciado
+32062036,Vinicio,Solano,Miralles,2024-02-23,1,M,Domicilio,MINSA,Infarto,220101,Casado
+26205010,Blanca,Palma,Galiano,2024-07-14,78,M,Hospital,Hospital Regional,Accidente de tránsito,230101,Soltero
+51380361,Abigaíl,Landa,Carretero,2021-06-16,20,M,Domicilio,Municipalidad,COVID-19,240101,Divorciado
+31154777,Noemí,Mayo,Arjona,2022-07-09,51,M,Hospital,RENIEC,Infarto,180101,Viudo
+53995720,Eusebio,Bou,Hurtado,2023-09-19,92,F,Domicilio,Hospital Regional,Accidente de tránsito,220101,Casado
+63183031,Armida,Avilés,Martínez,2022-11-26,58,F,Hospital,Hospital Regional,Accidente de tránsito,050101,Soltero
+33336132,Américo,Quiroga,Santamaria,2025-06-02,71,M,Domicilio,Hospital Regional,Infarto,170101,Viudo
+83835976,Josep,Busquets,Sevilla,2021-07-22,68,F,Vía pública,Municipalidad,Neumonía,160101,Casado
+28762704,Domingo,Albero,Barrio,2022-07-31,96,F,Vía pública,Municipalidad,Neumonía,150101,Divorciado
+27544302,Hector,Pérez,Perales,2021-05-28,14,F,Hospital,Municipalidad,Insuficiencia renal,140101,Casado
+88158177,Delia,Jove,Benavides,2020-11-15,40,F,Domicilio,RENIEC,Insuficiencia renal,120101,Casado
+18653290,Hector,Salcedo,Castells,2021-06-21,36,M,Vía pública,Hospital Regional,Infarto,180101,Casado
+54499873,Donato,Arnau,Serra,2021-02-13,60,F,Domicilio,MINSA,Neumonía,120101,Casado
+32547129,Ámbar,Rosselló,Prat,2024-11-28,95,M,Vía pública,MINSA,Accidente de tránsito,140101,Viudo
+13957046,Roberto,Roldan,Duque,2023-09-13,26,M,Clínica,MINSA,Accidente laboral,220101,Viudo
+38818707,Violeta,Exposito,Llopis,2023-01-26,19,M,Hospital,RENIEC,Insuficiencia renal,240101,Divorciado
+69862640,Sol,Comas,Aramburu,2022-10-12,78,M,Hospital,Municipalidad,COVID-19,220101,Viudo
+96876236,Manolo,Valenzuela,Requena,2025-05-16,63,F,Vía pública,MINSA,Accidente laboral,170101,Viudo
+74294443,Benjamín,Bonilla,Losa,2023-12-12,50,M,Clínica,RENIEC,Neumonía,050101,Divorciado
+28419506,Simón,Flores,Zaragoza,2022-10-23,69,M,Domicilio,Municipalidad,Accidente laboral,240101,Casado
+94658420,Nidia,Aliaga,Piñeiro,2023-09-29,58,M,Vía pública,Hospital Regional,Insuficiencia renal,150101,Soltero
+74382155,Candelas,Tormo,Núñez,2025-07-02,86,M,Vía pública,RENIEC,COVID-19,110101,Viudo
+77430081,Modesto,Pont,León,2022-03-21,23,F,Clínica,Hospital Regional,Cáncer,220101,Viudo
+13498112,Melchor,Gilabert,Andreu,2023-01-29,46,M,Vía pública,Municipalidad,Accidente de tránsito,050101,Viudo
+17863981,Nydia,Suarez,Ávila,2023-09-24,46,F,Domicilio,Municipalidad,Accidente de tránsito,190101,Casado
+88381665,Joan,Cuervo,Cabrera,2022-10-19,73,M,Hospital,Hospital Regional,Accidente laboral,140101,Divorciado
+98162850,Jose Angel,Larrea,Barba,2022-07-22,48,M,Clínica,MINSA,Cáncer,150101,Casado
+87268086,Raquel,Pont,Pacheco,2022-03-02,53,F,Clínica,Hospital Regional,Accidente laboral,160101,Viudo
+33635791,Jordi,Monreal,Palmer,2020-12-05,32,M,Vía pública,RENIEC,Insuficiencia renal,210101,Soltero
+57201978,Clementina,Cisneros,Fabra,2024-11-16,27,F,Vía pública,RENIEC,Cáncer,100101,Viudo
+82762732,Martin,Echevarría,Trujillo,2021-01-04,46,F,Domicilio,Hospital Regional,Infarto,050101,Soltero
+22114140,Basilio,Guerrero,Gilabert,2020-11-09,44,M,Clínica,Hospital Regional,COVID-19,100101,Divorciado
+80658723,Ale,Abascal,Mármol,2022-05-27,99,F,Hospital,Municipalidad,Neumonía,020101,Divorciado
+27514010,Noé,Elías,Morales,2021-03-13,80,M,Clínica,Hospital Regional,Cáncer,230101,Divorciado
+12941099,Eusebio,Cifuentes,Cantero,2025-03-02,9,M,Clínica,Hospital Regional,Accidente de tránsito,100101,Viudo
+58974686,Camilo,Pereira,Priego,2025-09-03,83,F,Domicilio,Municipalidad,COVID-19,030101,Viudo
+23560308,Nicodemo,Matas,Mora,2021-11-06,95,F,Vía pública,MINSA,Accidente de tránsito,150101,Casado
+31139813,Lupita,Rueda,Torrens,2023-05-22,93,M,Domicilio,RENIEC,Accidente de tránsito,210101,Divorciado
+33381086,Laura,Palacios,Godoy,2022-03-07,13,M,Hospital,Municipalidad,Neumonía,080101,Soltero
+60785855,Marino,Mariño,Castejón,2022-03-15,98,F,Hospital,RENIEC,COVID-19,220101,Casado
+10241310,Judith,Posada,Antúnez,2022-03-28,10,F,Domicilio,MINSA,Accidente de tránsito,020101,Divorciado
+90851238,Maximino,Giner,Calvet,2024-11-28,80,M,Clínica,MINSA,Infarto,080101,Viudo
+28876833,Natanael,Bermejo,Gárate,2023-08-22,41,F,Vía pública,Hospital Regional,Neumonía,030101,Casado
+52885071,Florencio,Borrego,Narváez,2024-06-27,89,M,Vía pública,Municipalidad,Neumonía,230101,Viudo
+11529494,Juan Manuel,Gallego,Iborra,2021-04-07,44,F,Clínica,RENIEC,Cáncer,020101,Viudo
+57040785,José María,Campoy,Abella,2021-02-05,52,F,Clínica,Hospital Regional,Infarto,150101,Casado
+61799600,Urbano,Rivas,Delgado,2024-03-18,44,F,Vía pública,RENIEC,Insuficiencia renal,160101,Divorciado
+76180344,Socorro,Pinedo,Ortega,2025-05-02,38,M,Vía pública,Hospital Regional,Neumonía,140101,Soltero
+60378298,Cosme,Tello,Gomis,2022-01-27,70,F,Clínica,Municipalidad,Neumonía,050101,Divorciado
+70570772,Candelario,Aragonés,Mariño,2020-11-10,31,M,Vía pública,Municipalidad,Accidente de tránsito,120101,Soltero
+52777459,Juan Carlos,Calvo,Benavent,2023-08-06,54,M,Domicilio,Hospital Regional,Insuficiencia renal,180101,Viudo
+32831133,Susanita,Perez,Cuevas,2021-04-30,52,M,Hospital,MINSA,Accidente de tránsito,020101,Soltero
+83423305,Tomasa,Buendía,Neira,2024-10-17,81,F,Vía pública,Hospital Regional,Insuficiencia renal,220101,Divorciado
+14159837,Tomás,Cózar,Rovira,2022-01-10,24,F,Hospital,MINSA,Infarto,180101,Soltero
+17188130,Cosme,Muñoz,Fuertes,2022-04-22,23,M,Domicilio,Hospital Regional,Accidente de tránsito,030101,Soltero
+64932613,Josefina,Lara,Lucena,2023-03-21,29,M,Clínica,RENIEC,Cáncer,130101,Viudo
+41883191,Clemente,Ayala,Pozo,2025-07-21,53,F,Vía pública,Hospital Regional,Cáncer,080101,Viudo
+83774469,Priscila,Tudela,Corral,2021-02-25,10,M,Hospital,Hospital Regional,Accidente laboral,060101,Soltero
+58429638,Abraham,Roma,Bonilla,2023-03-13,69,F,Clínica,MINSA,Accidente laboral,120101,Divorciado
+98854850,Eufemia,Tenorio,Flores,2021-07-07,1,M,Clínica,Municipalidad,Accidente laboral,030101,Casado
+13454186,Hilario,Donaire,Manzanares,2021-05-21,94,M,Clínica,Municipalidad,Insuficiencia renal,250101,Casado
+73561576,Rafaela,Carlos,Mendez,2024-01-26,60,F,Domicilio,Hospital Regional,Accidente de tránsito,230101,Soltero
+73209094,Amaya,Landa,Bou,2025-04-26,95,M,Domicilio,Municipalidad,Insuficiencia renal,020101,Casado
+62013009,Gil,Peláez,Pizarro,2023-10-31,46,M,Clínica,RENIEC,Accidente de tránsito,230101,Divorciado
+35042738,Victor Manuel,Arribas,Lago,2024-06-06,41,M,Clínica,Hospital Regional,Neumonía,250101,Divorciado
+72419022,Juan José,Gonzalo,Leiva,2025-06-28,31,M,Hospital,Municipalidad,Insuficiencia renal,220101,Casado
+18273096,Eutropio,Caballero,Boada,2023-08-13,47,M,Clínica,MINSA,Cáncer,040101,Viudo
+82672055,Severiano,Gordillo,Barrera,2023-12-25,97,M,Hospital,Hospital Regional,Insuficiencia renal,200101,Soltero
+80139805,Silvio,Taboada,Gutiérrez,2024-09-27,16,F,Clínica,Hospital Regional,Neumonía,230101,Viudo
+50111251,Cayetano,Prat,Arana,2024-12-16,56,M,Hospital,Municipalidad,COVID-19,200101,Viudo
+86667841,Valentina,Villanueva,Colom,2021-09-17,5,F,Vía pública,Hospital Regional,Neumonía,160101,Casado
+70269093,Fulgencio,Diego,Galán,2022-04-30,72,M,Domicilio,Hospital Regional,Insuficiencia renal,030101,Viudo
+26936398,Aristides,Roda,Bermudez,2024-05-23,76,M,Hospital,MINSA,Cáncer,020101,Viudo
+37101146,Pacífica,Coloma,Jordá,2023-05-30,69,F,Vía pública,RENIEC,Accidente laboral,230101,Divorciado
+18994192,Chucho,Pons,Puerta,2025-05-21,93,M,Hospital,Hospital Regional,Accidente laboral,220101,Casado
+53771998,Rocío,Llorente,Vizcaíno,2024-08-02,41,M,Vía pública,MINSA,Neumonía,240101,Divorciado
+11659440,Miriam,Yáñez,Rivas,2021-08-24,98,M,Domicilio,Hospital Regional,Cáncer,230101,Viudo
+65625517,Eutimio,Colomer,Cabrera,2021-08-03,14,M,Hospital,RENIEC,Accidente laboral,200101,Casado
+85522135,Melisa,Cabrero,Macias,2025-03-31,4,M,Hospital,Municipalidad,Accidente de tránsito,250101,Soltero
+56153339,Saturnina,Reig,Laguna,2023-12-13,73,F,Vía pública,Hospital Regional,Infarto,110101,Casado
+97884113,Amalia,Suárez,Arcos,2022-02-26,77,M,Hospital,MINSA,Insuficiencia renal,160101,Soltero
+46965460,Samuel,Cobo,Querol,2021-01-07,59,M,Domicilio,Municipalidad,Accidente laboral,110101,Soltero
+63122402,Tamara,Muñoz,Gámez,2021-02-09,78,F,Hospital,RENIEC,Accidente laboral,020101,Soltero
+73782705,Zoraida,Leiva,Perales,2020-11-10,27,M,Hospital,MINSA,Neumonía,060101,Casado
+55347617,Olimpia,Mateo,Mercader,2023-01-28,24,M,Clínica,Municipalidad,Insuficiencia renal,250101,Viudo
+75984013,Rosa,Cabello,Goñi,2021-10-31,86,F,Vía pública,RENIEC,Accidente de tránsito,210101,Divorciado
+50329802,Mar,Salazar,Montesinos,2022-12-25,64,F,Clínica,Municipalidad,COVID-19,100101,Viudo
+65938288,Elodia,Borrell,Expósito,2024-06-12,47,F,Vía pública,Hospital Regional,Neumonía,140101,Casado
+38372352,Xiomara,Ramírez,Tormo,2025-01-30,48,F,Domicilio,Municipalidad,Cáncer,060101,Soltero
+60185378,Otilia,Barbero,Villalba,2022-01-15,92,M,Domicilio,RENIEC,Neumonía,200101,Viudo
+18806960,María,Velázquez,Quintanilla,2021-11-04,0,F,Clínica,MINSA,Accidente laboral,100101,Soltero
+80368504,Serafina,Andres,Durán,2022-04-30,98,F,Clínica,RENIEC,Infarto,030101,Viudo
+36941091,Pilar,Barco,Ibañez,2020-12-20,19,M,Domicilio,Hospital Regional,Neumonía,140101,Casado
+71263503,Aureliano,Palomo,Flor,2023-01-08,32,F,Hospital,Municipalidad,Neumonía,130101,Soltero
+59439358,Palmira,Simó,Vazquez,2024-01-25,92,F,Vía pública,MINSA,Cáncer,190101,Soltero
+95283260,Águeda,Casals,Anglada,2022-09-30,76,F,Hospital,Municipalidad,Infarto,080101,Viudo
+59991642,Amaya,Salmerón,Elías,2024-09-22,44,F,Vía pública,RENIEC,Accidente laboral,140101,Soltero
+88769733,Carmen,Olmo,Ocaña,2022-01-30,81,F,Hospital,Hospital Regional,Neumonía,080101,Viudo
+44716747,Marianela,Botella,López,2020-12-03,69,M,Domicilio,MINSA,Accidente de tránsito,080101,Divorciado
+61883966,Augusto,Cánovas,Gargallo,2022-07-28,57,M,Clínica,Municipalidad,COVID-19,060101,Casado
+96889858,Jafet,Gabaldón,Leon,2024-03-04,16,F,Hospital,Municipalidad,Neumonía,080101,Divorciado
+78891441,Alex,Agullo,Sáez,2021-10-25,33,M,Vía pública,Municipalidad,Accidente laboral,200101,Casado
+96888739,Fulgencio,Aguirre,Goicoechea,2022-11-02,61,M,Vía pública,Municipalidad,Insuficiencia renal,190101,Casado
+91650533,Noa,Mayoral,Llopis,2024-04-17,71,M,Clínica,RENIEC,COVID-19,050101,Viudo
+60529679,Reyes,Oller,Segovia,2022-10-31,87,M,Hospital,Municipalidad,Cáncer,110101,Viudo
+39287523,Adelaida,Matas,Viñas,2024-01-25,24,F,Domicilio,RENIEC,Accidente laboral,020101,Casado
+88448538,Cristian,Aguilera,Vidal,2023-11-15,44,F,Clínica,Municipalidad,Infarto,140101,Casado
+85357498,Flor,Lumbreras,Martín,2021-08-10,87,F,Clínica,RENIEC,Infarto,080101,Casado
+74657836,Bernardo,Navarrete,Lloret,2023-06-16,79,M,Domicilio,RENIEC,COVID-19,250101,Viudo
+47162866,Juan Carlos,Martín,Fabra,2021-12-18,57,F,Hospital,Hospital Regional,Accidente de tránsito,180101,Casado
+79429969,María Del Carmen,Hernandez,Barberá,2024-02-16,26,F,Vía pública,MINSA,Insuficiencia renal,240101,Soltero
+98654879,Miguel,Chaves,Amigó,2024-12-02,48,M,Domicilio,MINSA,Infarto,020101,Casado
+49675382,Juan Antonio,Riquelme,Quiroga,2023-12-29,89,F,Hospital,Municipalidad,Insuficiencia renal,150101,Soltero
+14740436,Dalila,Falcó,Novoa,2022-07-31,49,F,Domicilio,RENIEC,Infarto,020101,Divorciado
+81757508,Felicia,Tamarit,Palmer,2025-01-02,29,F,Hospital,Hospital Regional,Cáncer,220101,Soltero
+50291467,Ramona,Domínguez,Escrivá,2023-03-10,23,M,Vía pública,RENIEC,Infarto,140101,Viudo
+23100061,Adriana,Castellanos,Jordán,2025-06-11,42,F,Vía pública,MINSA,Infarto,110101,Viudo
+34571018,Irma,Narváez,Borrell,2022-07-31,45,F,Clínica,Hospital Regional,Accidente laboral,080101,Viudo
+57685330,Jacinto,Melero,Rivero,2023-07-05,49,M,Domicilio,MINSA,Accidente de tránsito,100101,Divorciado
+59886371,Juan Bautista,Mariscal,Silva,2021-09-09,84,M,Hospital,Municipalidad,Neumonía,240101,Casado
+73154349,Balduino,Belda,Sureda,2022-05-06,53,M,Clínica,Municipalidad,COVID-19,220101,Viudo
+77172936,Dimas,Pizarro,Martín,2024-03-15,57,M,Clínica,MINSA,Neumonía,180101,Casado
+17256074,Sabina,Contreras,Cervantes,2022-05-24,17,F,Clínica,Municipalidad,Accidente laboral,200101,Casado
+55992373,Sebastián,Seco,Clemente,2023-05-19,40,M,Hospital,MINSA,COVID-19,200101,Soltero
+34207075,Melania,Berrocal,Torrent,2023-07-09,97,F,Vía pública,Municipalidad,COVID-19,030101,Viudo
+94695784,Galo,Millán,Barco,2020-09-23,19,M,Hospital,MINSA,Accidente de tránsito,150101,Viudo
+70673557,Leocadio,Gallart,Domingo,2025-08-04,77,M,Clínica,MINSA,Insuficiencia renal,150101,Viudo
+31264801,Amelia,Borja,Castilla,2024-05-18,10,F,Clínica,Municipalidad,Insuficiencia renal,230101,Viudo
+95025258,Timoteo,Quintanilla,Romeu,2024-10-01,23,F,Vía pública,Municipalidad,Accidente de tránsito,210101,Casado
+61447859,Adalberto,Arellano,Flores,2023-11-12,28,M,Vía pública,RENIEC,COVID-19,050101,Casado
+11889398,Tecla,Montserrat,Farré,2020-11-03,95,M,Clínica,RENIEC,Accidente de tránsito,030101,Divorciado
+10553491,Eugenia,Ibarra,Gonzalo,2023-08-14,88,F,Vía pública,MINSA,Cáncer,060101,Soltero
+51888314,Efraín,Calderon,Pla,2024-12-20,77,F,Domicilio,Municipalidad,Neumonía,190101,Soltero
+89010042,Mariano,Diego,Bas,2021-01-29,66,M,Vía pública,Municipalidad,Accidente laboral,080101,Casado
+50024028,Luis Ángel,Sarmiento,Viña,2025-02-23,66,F,Hospital,Municipalidad,Neumonía,230101,Soltero
+55343466,Toño,Cañete,Noriega,2024-11-09,24,F,Vía pública,Municipalidad,COVID-19,020101,Divorciado
+58217837,Maricela,Fabra,Cózar,2024-02-14,21,F,Domicilio,RENIEC,Insuficiencia renal,170101,Casado
+12566878,Javier,Gomez,Castro,2022-06-27,59,F,Hospital,RENIEC,Accidente de tránsito,190101,Casado
+12941149,Dolores,Vargas,Dominguez,2021-09-26,50,F,Domicilio,Municipalidad,Infarto,210101,Divorciado
+59203071,Leonor,Arcos,Perez,2022-11-12,75,M,Vía pública,RENIEC,COVID-19,100101,Casado
+81770706,Estrella,Atienza,Asensio,2021-08-10,91,M,Hospital,RENIEC,Insuficiencia renal,030101,Viudo
+97720360,Piedad,Aller,Asensio,2021-09-03,10,F,Clínica,Municipalidad,Neumonía,060101,Soltero
+65938669,Vicente,Pinto,Casals,2025-05-06,98,M,Domicilio,MINSA,Accidente de tránsito,200101,Casado
+43921959,Ainoa,Coronado,Fuertes,2020-10-07,98,M,Vía pública,Hospital Regional,COVID-19,030101,Viudo
+50415166,Sosimo,Cabrero,Viña,2022-12-26,80,M,Hospital,MINSA,Accidente de tránsito,150101,Viudo
+93590502,Eloísa,Cerro,Riquelme,2021-07-31,1,F,Vía pública,Municipalidad,Neumonía,150101,Divorciado
+78663747,Loida,Carranza,Lumbreras,2021-08-29,30,M,Vía pública,Municipalidad,Cáncer,030101,Soltero
+24262473,Anastasia,Fiol,Folch,2022-12-05,76,M,Clínica,Hospital Regional,Neumonía,230101,Casado
+80215481,Heriberto,Palma,Redondo,2023-03-15,6,M,Clínica,RENIEC,Insuficiencia renal,110101,Soltero
+31524980,Aníbal,Valderrama,Galiano,2024-10-11,18,M,Domicilio,Hospital Regional,Infarto,080101,Soltero
+54372866,Joel,Acedo,Alberto,2021-06-12,53,M,Clínica,Hospital Regional,Neumonía,240101,Casado
+24821786,Petrona,Uribe,Company,2021-06-15,58,F,Hospital,RENIEC,Accidente laboral,020101,Viudo
+78679929,Carlito,Cadenas,Jaén,2022-08-28,47,F,Hospital,Municipalidad,Accidente laboral,180101,Soltero
+71304112,Manu,Laguna,Simó,2021-02-11,37,F,Clínica,RENIEC,Insuficiencia renal,120101,Viudo
+23396125,Odalis,Díaz,Ariza,2023-02-28,67,F,Clínica,MINSA,Neumonía,080101,Soltero
+58347193,Nicolasa,Milla,Rojas,2021-09-04,73,M,Vía pública,Hospital Regional,Cáncer,220101,Viudo
+22750478,Renata,Arroyo,Agustí,2021-11-12,33,F,Clínica,Municipalidad,Neumonía,230101,Divorciado
+99034004,Flor,Donaire,Mulet,2023-09-24,63,M,Clínica,Hospital Regional,Accidente de tránsito,150101,Soltero
+68749047,Ester,Ledesma,Buendía,2023-11-10,3,F,Hospital,MINSA,Accidente laboral,220101,Divorciado
+55999465,Gervasio,Carbonell,Pérez,2024-02-04,52,M,Domicilio,Hospital Regional,Neumonía,230101,Casado
+71275585,Lalo,Pol,Tejera,2024-04-11,1,M,Domicilio,Hospital Regional,Accidente laboral,040101,Viudo
+97086700,Soraya,Diaz,Carbajo,2021-10-25,38,F,Hospital,RENIEC,Insuficiencia renal,100101,Viudo
+17871385,Rafaela,Cuervo,Calleja,2024-03-24,50,M,Clínica,MINSA,COVID-19,100101,Divorciado
+89289163,Almudena,Ríos,Escudero,2023-12-02,60,M,Clínica,Municipalidad,Accidente de tránsito,230101,Divorciado
+58130331,Emma,Andres,Castrillo,2024-10-18,68,F,Vía pública,Municipalidad,Insuficiencia renal,080101,Viudo
+75514730,Daniel,Reina,Saez,2021-01-29,72,F,Hospital,MINSA,Neumonía,240101,Viudo
+18500820,Juan Carlos,Miralles,Alberola,2025-02-25,45,M,Clínica,Hospital Regional,Accidente laboral,150101,Viudo
+87396519,Lourdes,Goicoechea,Neira,2025-02-07,48,M,Vía pública,MINSA,Neumonía,250101,Viudo
+80209719,Javiera,Bustos,Roselló,2022-10-21,90,F,Hospital,Hospital Regional,Cáncer,040101,Divorciado
+74683506,Osvaldo,Plaza,Comas,2025-06-09,30,F,Vía pública,Hospital Regional,Accidente de tránsito,170101,Viudo
+92263926,Baltasar,Alberdi,Crespo,2024-12-27,22,M,Domicilio,RENIEC,Accidente laboral,130101,Soltero
+72986894,Reyes,Valcárcel,Dalmau,2021-04-29,56,M,Vía pública,MINSA,Accidente de tránsito,100101,Divorciado
+75987872,Miguel Ángel,Hernando,Muro,2023-01-21,93,F,Domicilio,MINSA,Accidente laboral,250101,Casado
+16757958,Anunciación,Gisbert,Pinedo,2024-02-13,26,M,Vía pública,Municipalidad,Insuficiencia renal,170101,Soltero
+41541166,Cayetano,Segovia,Saldaña,2025-07-25,0,F,Hospital,RENIEC,COVID-19,030101,Soltero
+70142774,Chus,Valentín,Salvador,2023-05-18,13,F,Hospital,Hospital Regional,Insuficiencia renal,130101,Viudo
+25932563,Anastasia,Alemán,Calderon,2024-02-14,25,M,Domicilio,Hospital Regional,Neumonía,100101,Divorciado
+65343143,Andrés Felipe,Abad,Bou,2023-04-13,85,M,Domicilio,MINSA,Accidente de tránsito,120101,Soltero
+78227936,Chita,Gabaldón,Sastre,2023-08-03,1,M,Clínica,Hospital Regional,Neumonía,100101,Viudo
+58767001,Paola,Ballester,Gisbert,2024-07-21,18,F,Clínica,MINSA,Infarto,020101,Viudo
+54556611,Charo,Suárez,Parra,2024-07-15,69,F,Hospital,MINSA,Infarto,160101,Soltero
+25303956,Cleto,Girona,Abril,2023-08-05,13,F,Hospital,RENIEC,Cáncer,060101,Casado
+57665946,Paula,Manzanares,Yuste,2023-11-14,90,F,Domicilio,Hospital Regional,COVID-19,130101,Soltero
+24270328,Artemio,Córdoba,Ugarte,2021-11-19,96,F,Clínica,RENIEC,Accidente laboral,030101,Soltero
+64923338,Custodio,Izquierdo,Ferrández,2022-04-14,58,F,Vía pública,Municipalidad,Accidente de tránsito,140101,Casado
+26206227,Reyes,Pozo,Garriga,2024-07-29,78,F,Domicilio,Municipalidad,Accidente de tránsito,240101,Viudo
+35579048,Lilia,Neira,Campos,2024-03-19,100,F,Vía pública,Municipalidad,Infarto,040101,Divorciado
+16241172,Ángeles,Casal,Sanjuan,2024-07-31,14,F,Vía pública,Municipalidad,Accidente laboral,210101,Viudo
+98376561,Dolores,Varela,Cañizares,2024-12-06,98,F,Clínica,RENIEC,Cáncer,250101,Viudo
+10582186,Bernarda,Atienza,Roselló,2025-08-31,71,M,Domicilio,Municipalidad,Cáncer,190101,Divorciado
+74818030,Ámbar,Verdugo,Elorza,2025-08-11,30,M,Clínica,Municipalidad,Cáncer,040101,Viudo
+33306944,Lupe,Castellanos,Calleja,2023-12-26,26,F,Vía pública,Hospital Regional,Neumonía,140101,Casado
+98251083,Eli,Montserrat,Varela,2023-12-18,84,M,Vía pública,RENIEC,Neumonía,220101,Divorciado
+66192230,Emelina,Hurtado,Llanos,2024-01-28,41,M,Vía pública,MINSA,COVID-19,060101,Soltero
+56017729,Macario,Santamaría,Cañellas,2021-11-12,76,M,Vía pública,Hospital Regional,Cáncer,230101,Soltero
+65397759,Eligia,Vila,Martínez,2025-05-07,11,M,Clínica,RENIEC,Accidente laboral,200101,Casado
+52132393,Leonor,Gelabert,Font,2022-06-22,57,F,Vía pública,Municipalidad,Accidente de tránsito,130101,Viudo
+93774355,Lidia,Manso,Ojeda,2021-10-26,38,F,Vía pública,Hospital Regional,Infarto,190101,Soltero
+97253117,Gaspar,Vara,Mora,2021-09-02,78,F,Clínica,Hospital Regional,Infarto,110101,Soltero
+57276557,Chita,Tenorio,Rincón,2025-03-25,0,F,Hospital,Hospital Regional,Accidente laboral,150101,Casado
+48376603,Saturnina,Rocamora,Alberto,2025-02-19,55,F,Domicilio,Municipalidad,Cáncer,060101,Divorciado
+24290224,Amador,Piquer,Codina,2021-02-20,69,M,Clínica,Municipalidad,Accidente de tránsito,130101,Divorciado
+99959993,Basilio,Folch,Lasa,2022-01-22,46,F,Clínica,Hospital Regional,Accidente laboral,240101,Casado
+48468887,Isabela,Iglesia,Coll,2021-03-20,17,M,Hospital,RENIEC,Accidente de tránsito,160101,Divorciado
+49613096,Herminio,Antúnez,Palmer,2024-07-16,17,M,Clínica,Municipalidad,Accidente laboral,030101,Divorciado
+23754633,Encarnación,Gomez,Porcel,2022-09-17,79,M,Vía pública,Municipalidad,Neumonía,030101,Divorciado
+78574830,Milagros,Maestre,Arévalo,2023-12-08,45,M,Clínica,Municipalidad,Neumonía,150101,Divorciado
+62016704,Sigfrido,Milla,Balaguer,2020-10-19,93,M,Domicilio,Municipalidad,Neumonía,190101,Viudo
+43734435,Hermenegildo,Salazar,Gomis,2023-10-26,4,M,Vía pública,Hospital Regional,Infarto,190101,Divorciado
+88971743,Carina,Ferrándiz,Ferrer,2023-03-11,88,M,Clínica,Hospital Regional,Cáncer,170101,Soltero
+70238919,Galo,Benavente,Estévez,2022-03-02,66,M,Clínica,Municipalidad,Insuficiencia renal,240101,Soltero
+78967357,Dimas,Pi,Armas,2024-05-02,87,F,Hospital,Hospital Regional,Neumonía,150101,Divorciado
+47461811,Cayetana,Lamas,Castillo,2022-01-21,58,F,Domicilio,Municipalidad,COVID-19,020101,Viudo
+88381281,Raquel,Jara,Adán,2023-07-03,21,M,Domicilio,Hospital Regional,Infarto,230101,Divorciado
+72589932,Leire,Cortina,Ariño,2021-12-30,74,M,Hospital,Hospital Regional,Accidente laboral,220101,Soltero
+53302669,Edelmira,Azcona,Mascaró,2024-11-11,36,F,Hospital,MINSA,Neumonía,040101,Viudo
+86863404,Carmelita,Palma,Beltran,2023-05-24,32,M,Domicilio,Hospital Regional,Accidente laboral,120101,Soltero
+80517332,Isidro,Espejo,Viñas,2021-04-08,94,M,Clínica,MINSA,Insuficiencia renal,030101,Viudo
+77798790,Feliciano,Ricart,Quintanilla,2021-06-21,22,F,Clínica,Municipalidad,Accidente de tránsito,170101,Soltero
+56896070,Ismael,Garcés,Mármol,2023-07-04,43,M,Clínica,MINSA,Accidente laboral,160101,Divorciado
+58425464,Lázaro,Gil,Taboada,2025-06-19,98,F,Clínica,Municipalidad,Insuficiencia renal,230101,Casado
+97147586,Agapito,Carbó,Oliva,2024-06-24,26,F,Hospital,Hospital Regional,Accidente laboral,250101,Soltero
+42258945,Verónica,Hervás,Ariño,2023-06-03,21,F,Vía pública,Municipalidad,COVID-19,160101,Casado
+61186964,Yolanda,Carballo,Polo,2022-11-15,48,F,Vía pública,Hospital Regional,Accidente de tránsito,170101,Divorciado
+82509424,Lourdes,Luna,Amat,2025-01-31,1,F,Vía pública,Municipalidad,Insuficiencia renal,100101,Soltero
+60326016,Aroa,Verdugo,Salinas,2024-10-30,12,F,Vía pública,Hospital Regional,COVID-19,120101,Viudo
+15885670,Manu,Fernández,Montes,2025-01-22,12,F,Vía pública,Municipalidad,Accidente laboral,240101,Casado
+21052218,Clemente,Diego,Aguilera,2021-03-31,93,M,Domicilio,MINSA,COVID-19,180101,Soltero
+38290610,Herminia,Garcés,Rodrigo,2021-07-28,86,M,Hospital,RENIEC,Cáncer,250101,Soltero
+37592422,Brígida,Rozas,Bello,2021-12-30,87,F,Domicilio,MINSA,Insuficiencia renal,020101,Viudo
+13188066,Ángel,Mármol,Arellano,2021-06-07,24,M,Hospital,RENIEC,Infarto,220101,Casado
+19831184,Baltasar,Enríquez,Infante,2025-06-08,76,M,Hospital,RENIEC,Accidente laboral,220101,Casado
+19454577,Consuelo,Goñi,Jordán,2024-02-27,48,M,Hospital,MINSA,COVID-19,020101,Divorciado
+62080854,Virgilio,Quiroga,Roselló,2023-05-20,84,M,Vía pública,Hospital Regional,Accidente laboral,050101,Viudo
+12267067,Roque,Carrasco,Aguado,2021-03-24,32,M,Hospital,Hospital Regional,Accidente laboral,080101,Divorciado
+88598977,Artemio,Belmonte,Pallarès,2024-12-19,49,F,Hospital,Hospital Regional,Accidente laboral,120101,Casado
+24245271,Luis Miguel,Mata,Bolaños,2023-01-31,56,M,Vía pública,MINSA,Neumonía,060101,Casado
+68743898,Rico,Prats,Anguita,2024-09-20,82,F,Hospital,MINSA,Neumonía,050101,Casado
+30981381,Bibiana,Gimeno,Cerezo,2024-01-06,78,M,Vía pública,Hospital Regional,Infarto,080101,Soltero
+83245898,Manolo,Cobos,Martí,2023-11-12,9,F,Vía pública,RENIEC,Cáncer,200101,Soltero
+11496555,Carolina,Cid,Casal,2021-01-16,4,F,Domicilio,MINSA,Insuficiencia renal,100101,Divorciado
+10675093,Constanza,Prado,Blázquez,2023-04-13,73,M,Vía pública,Municipalidad,Cáncer,060101,Soltero
+38192821,Marianela,Núñez,Galán,2024-03-14,69,M,Hospital,Municipalidad,Insuficiencia renal,160101,Soltero
+96695458,Renata,Vila,Cisneros,2022-01-22,72,F,Domicilio,Hospital Regional,Cáncer,080101,Soltero
+34695085,Ismael,Iriarte,Ferrera,2021-08-31,46,F,Hospital,Municipalidad,Accidente laboral,020101,Casado
+34341456,Hilda,Ballester,Serra,2025-05-13,22,M,Vía pública,MINSA,COVID-19,060101,Soltero
+19817298,Luis Ángel,Bautista,Iglesia,2021-07-11,80,F,Vía pública,RENIEC,Insuficiencia renal,030101,Casado
+36496940,Lucila,Torrens,Muro,2023-09-23,17,M,Clínica,RENIEC,Insuficiencia renal,190101,Casado
+27208745,Hilda,Guitart,Cabo,2023-02-11,62,F,Hospital,Hospital Regional,Cáncer,180101,Divorciado
+93150000,Buenaventura,Ferrer,Moll,2024-10-27,2,M,Domicilio,RENIEC,COVID-19,080101,Divorciado
+70484679,Nando,Maza,Corominas,2025-07-02,15,M,Vía pública,MINSA,Insuficiencia renal,190101,Casado
+86082915,Pánfilo,Molina,Romero,2022-02-14,9,M,Clínica,Municipalidad,Insuficiencia renal,150101,Divorciado
+10648524,Matías,Hoz,Giralt,2024-05-25,79,M,Clínica,MINSA,Infarto,210101,Soltero
+47135338,Priscila,Palomares,Cañizares,2023-07-06,39,M,Vía pública,MINSA,Accidente laboral,190101,Soltero
+74418331,Óscar,Salinas,Palmer,2023-04-16,13,M,Vía pública,MINSA,Infarto,130101,Divorciado
+75360192,Carmen,Camps,Echevarría,2021-05-21,43,F,Domicilio,RENIEC,Insuficiencia renal,190101,Casado
+47663633,Rosa María,Chaves,Ferrándiz,2022-12-05,41,M,Hospital,MINSA,COVID-19,040101,Soltero
+94103363,Carmelo,Benet,Alfonso,2025-01-01,35,M,Vía pública,MINSA,Insuficiencia renal,110101,Casado
+94775473,Américo,Quirós,Garcia,2020-12-31,56,M,Hospital,MINSA,Infarto,230101,Divorciado
+84033693,Juan Bautista,Suarez,Comas,2023-10-20,99,M,Hospital,Municipalidad,Infarto,150101,Soltero
+62680236,Jacinto,Manso,Cañete,2024-08-22,22,M,Domicilio,Municipalidad,Insuficiencia renal,160101,Casado
+77259613,Arcelia,Botella,Puente,2023-10-14,26,M,Domicilio,Municipalidad,Cáncer,140101,Casado
+77399750,Agustín,Haro,Daza,2025-01-23,78,M,Clínica,Municipalidad,Neumonía,040101,Viudo
+28840235,Victor Manuel,Cuervo,Escamilla,2025-07-04,44,F,Hospital,MINSA,Accidente de tránsito,250101,Soltero
+85942072,Georgina,Coll,Tomás,2023-09-28,79,F,Clínica,Municipalidad,Accidente laboral,230101,Casado
+15425057,Isidoro,Torrent,Guardiola,2021-03-23,35,M,Clínica,RENIEC,Accidente laboral,200101,Divorciado
+45481411,Rafael,Guillén,Arnau,2022-06-13,63,M,Clínica,RENIEC,Infarto,230101,Viudo
+79509378,Vilma,Paniagua,Pons,2024-09-07,36,M,Vía pública,Hospital Regional,COVID-19,220101,Divorciado
+71021210,Socorro,Artigas,Ariño,2023-06-12,5,M,Hospital,MINSA,Accidente de tránsito,150101,Divorciado
+23854626,Juliana,Vázquez,Llanos,2022-12-06,65,M,Hospital,MINSA,Insuficiencia renal,030101,Viudo
+87662596,Candelas,Dávila,Peñas,2023-11-29,53,M,Domicilio,MINSA,Accidente laboral,250101,Viudo
+59029303,Diana,Bermejo,Villanueva,2022-10-30,29,M,Clínica,Municipalidad,Accidente laboral,130101,Divorciado
+60509993,Vilma,Gisbert,Villalonga,2024-02-21,28,M,Vía pública,Municipalidad,Infarto,050101,Casado
+57365168,Olga,Ochoa,Torrens,2024-10-15,27,F,Clínica,Municipalidad,COVID-19,200101,Divorciado
+91095825,Adolfo,Valls,Chamorro,2024-06-06,92,M,Domicilio,Hospital Regional,Accidente de tránsito,100101,Casado
+32227237,Jeremías,Benítez,Vilar,2023-01-29,4,M,Domicilio,MINSA,Infarto,030101,Divorciado
+38389345,Eutimio,Estévez,Criado,2023-10-09,53,M,Domicilio,MINSA,COVID-19,220101,Casado
+90801793,Liliana,Carrasco,Grau,2024-03-20,81,M,Clínica,RENIEC,Cáncer,170101,Divorciado
+54322017,Lola,Carballo,Tirado,2024-10-05,27,F,Vía pública,Hospital Regional,Infarto,050101,Casado
+74293132,Humberto,Cuéllar,Reig,2020-11-17,31,F,Vía pública,MINSA,Neumonía,200101,Soltero
+42704875,Armando,Castell,Cuevas,2021-11-01,53,M,Hospital,Municipalidad,Insuficiencia renal,170101,Soltero
+94495485,Ariel,Ariza,Collado,2021-03-01,54,F,Vía pública,RENIEC,Cáncer,160101,Casado
+32325960,Juan,Escolano,Villanueva,2024-02-20,10,M,Vía pública,MINSA,Accidente de tránsito,110101,Viudo
+90444404,Cintia,Alfonso,Luque,2021-06-02,30,M,Hospital,Municipalidad,Insuficiencia renal,020101,Casado
+39070676,Vidal,Soto,Tirado,2022-02-20,90,F,Hospital,Municipalidad,Cáncer,200101,Divorciado
+39442512,Paulina,Reig,Clavero,2025-08-24,23,F,Vía pública,RENIEC,Accidente laboral,230101,Soltero
+34412077,Estrella,Vicente,Lamas,2022-02-12,49,F,Hospital,Hospital Regional,Cáncer,120101,Casado
+55992559,Ágata,Santana,Bayona,2022-08-24,100,M,Domicilio,RENIEC,Neumonía,240101,Viudo
+60762668,Rogelio,Catalán,Camps,2020-10-30,6,M,Vía pública,Hospital Regional,Cáncer,220101,Soltero
+37158762,Azeneth,Varela,Rivas,2021-12-17,46,F,Clínica,RENIEC,Neumonía,130101,Casado
+91270313,Clemente,Elías,Tamarit,2021-01-08,42,M,Hospital,Municipalidad,Insuficiencia renal,190101,Casado
+81327320,Anita,Carpio,Buendía,2024-10-16,96,M,Domicilio,Hospital Regional,COVID-19,170101,Divorciado
+98502178,Eladio,Abella,Rosado,2025-02-16,35,M,Hospital,Hospital Regional,COVID-19,030101,Divorciado
+66463253,Raimundo,Aroca,Romeu,2022-08-22,64,M,Vía pública,Hospital Regional,Cáncer,220101,Viudo
+74709513,Montserrat,Piquer,Ordóñez,2025-08-03,86,M,Clínica,Municipalidad,Infarto,040101,Divorciado
+23115341,Teodoro,Cañete,Iñiguez,2024-09-30,22,F,Hospital,RENIEC,Accidente de tránsito,120101,Soltero
+41207351,Virginia,Blanes,Luque,2025-04-25,89,M,Vía pública,MINSA,Accidente laboral,130101,Soltero
+64847632,José Ángel,Fajardo,Adán,2020-10-01,37,F,Clínica,Municipalidad,COVID-19,050101,Divorciado
+87576121,Azeneth,Carranza,Vizcaíno,2020-10-01,94,M,Domicilio,MINSA,Infarto,150101,Casado
+60335658,Fátima,Fuertes,Moles,2024-03-02,66,F,Vía pública,Hospital Regional,Insuficiencia renal,230101,Viudo
+58623028,Custodio,Cortes,Rojas,2025-09-01,62,F,Vía pública,Hospital Regional,Neumonía,200101,Viudo
+44042008,Juan Carlos,Roda,Pavón,2023-01-13,21,F,Clínica,Municipalidad,COVID-19,020101,Soltero
+63345392,Marisol,Frías,Reyes,2025-05-21,18,F,Domicilio,Municipalidad,Accidente de tránsito,220101,Casado
+84834795,Almudena,Escamilla,Pellicer,2025-06-12,91,F,Clínica,MINSA,Accidente laboral,240101,Casado
+84478941,Alondra,Izaguirre,Melero,2025-08-08,20,M,Hospital,RENIEC,COVID-19,190101,Casado
+56218720,María Ángeles,Puig,Cervera,2021-09-13,56,F,Domicilio,MINSA,Accidente de tránsito,180101,Soltero
+40839382,Victoriano,Cáceres,Cabrera,2022-07-07,85,F,Domicilio,MINSA,COVID-19,030101,Casado
+78228715,Salvador,Nevado,Azorin,2022-01-21,68,F,Hospital,RENIEC,Cáncer,160101,Casado
+62224611,Fanny,Adadia,Bou,2021-12-04,58,F,Clínica,RENIEC,Insuficiencia renal,180101,Viudo
+73306295,Ángeles,Rozas,Borja,2021-03-27,82,F,Vía pública,Hospital Regional,Accidente laboral,190101,Casado
+45311610,Iván,Peláez,Bernal,2021-01-04,72,F,Domicilio,RENIEC,Insuficiencia renal,160101,Soltero
+61583363,Salvador,Vázquez,Macías,2021-03-06,17,M,Domicilio,RENIEC,Cáncer,220101,Casado
+33524492,Felicidad,Urrutia,Saavedra,2020-10-12,57,F,Hospital,Hospital Regional,Infarto,220101,Casado
+37072687,Remedios,Villegas,Macias,2022-05-07,74,M,Domicilio,MINSA,Infarto,040101,Divorciado
+14510970,Miguela,Vicens,Villalobos,2022-08-29,86,M,Vía pública,MINSA,Cáncer,100101,Soltero
+92569402,Fortunato,Araujo,Palomares,2022-09-22,85,F,Vía pública,MINSA,Insuficiencia renal,050101,Viudo
+97915178,Aarón,Criado,Bolaños,2023-01-14,49,F,Hospital,Hospital Regional,COVID-19,110101,Viudo
+63611082,Patricio,Prats,Ramirez,2025-09-03,57,M,Clínica,Municipalidad,Insuficiencia renal,050101,Divorciado
+36885204,Aura,Alcántara,Bayona,2021-06-16,36,M,Vía pública,Municipalidad,Accidente de tránsito,190101,Soltero
+83765077,Lucas,Oliveras,Olivera,2023-01-16,18,M,Domicilio,Municipalidad,Accidente laboral,170101,Viudo
+40372869,Eloísa,Ferreras,Sanz,2024-02-16,8,F,Hospital,RENIEC,Cáncer,230101,Viudo
+87162674,Adalberto,Julián,Díez,2024-02-25,53,M,Vía pública,MINSA,Accidente de tránsito,210101,Divorciado
+77946127,Custodio,Belmonte,Vaquero,2023-03-12,37,F,Hospital,Hospital Regional,Accidente laboral,190101,Viudo
+55629449,Demetrio,Vilanova,Jiménez,2025-04-07,63,F,Clínica,RENIEC,Accidente laboral,150101,Casado
+87160950,Josué,Salas,Pi,2025-06-24,33,F,Vía pública,RENIEC,Insuficiencia renal,240101,Viudo
+74911705,María Luisa,Hervia,Nicolás,2024-08-04,53,M,Vía pública,MINSA,Infarto,250101,Viudo
+71836850,Teófila,Amorós,Toledo,2021-09-05,63,M,Domicilio,Municipalidad,Neumonía,050101,Viudo
+44603983,Borja,Piñeiro,Giménez,2022-08-24,80,F,Hospital,Hospital Regional,Neumonía,190101,Soltero
+52376656,Seve,Osuna,Villalonga,2025-03-31,33,M,Hospital,MINSA,COVID-19,030101,Casado
+11305024,Juanita,Lago,Hurtado,2023-02-18,45,M,Hospital,Hospital Regional,COVID-19,050101,Viudo
+22483514,Sabas,Nogués,Benitez,2025-05-28,6,F,Domicilio,RENIEC,Neumonía,130101,Casado
+33955951,Alba,Mir,Otero,2022-07-20,97,M,Clínica,Hospital Regional,Accidente laboral,100101,Viudo
+87002404,Julio César,España,Falcón,2024-12-07,34,F,Hospital,Hospital Regional,Accidente laboral,200101,Soltero
+36798789,Joel,Herranz,Lara,2022-06-13,17,F,Domicilio,Municipalidad,Cáncer,100101,Casado
+40763714,Hermenegildo,Iborra,Palacio,2022-01-06,13,M,Clínica,MINSA,Accidente laboral,130101,Soltero
+24319594,Dimas,Bermudez,Ugarte,2020-09-29,53,F,Hospital,RENIEC,Accidente laboral,200101,Soltero
+82675403,Aristides,Toledo,Pera,2023-05-16,61,F,Domicilio,Hospital Regional,Accidente de tránsito,030101,Viudo
+76080806,Tomasa,Llobet,Tudela,2022-03-31,22,F,Hospital,RENIEC,Accidente de tránsito,200101,Casado
+78603195,Lino,Puga,Girona,2025-08-05,88,M,Domicilio,MINSA,Accidente de tránsito,200101,Soltero
+27212880,Baltasar,Zaragoza,Rocha,2024-10-04,54,M,Hospital,RENIEC,Accidente laboral,160101,Divorciado
+82580645,Anacleto,Valverde,Olivera,2024-01-15,5,M,Hospital,RENIEC,Accidente laboral,240101,Soltero
+33461307,Zacarías,Carreño,Villegas,2024-08-08,60,M,Domicilio,RENIEC,Infarto,020101,Soltero
+52365995,Jennifer,Aguirre,Albero,2022-06-25,96,M,Hospital,MINSA,Neumonía,130101,Casado
+60925964,Custodia,Cabrero,Morell,2023-10-07,85,F,Hospital,RENIEC,Accidente de tránsito,120101,Viudo
+92245683,Rosalva,Jover,Exposito,2025-05-10,45,M,Clínica,RENIEC,Infarto,190101,Soltero
+45279000,Jordi,Leon,Soto,2023-08-10,67,M,Clínica,Hospital Regional,Accidente de tránsito,180101,Soltero
+59113508,Gerónimo,Valenzuela,Rodrigo,2022-06-25,92,M,Clínica,Municipalidad,COVID-19,190101,Casado
+66249702,Juanita,Perales,Patiño,2024-02-05,56,M,Clínica,Hospital Regional,Cáncer,050101,Casado
+47531240,Virgilio,Escolano,Castro,2025-08-03,65,M,Vía pública,RENIEC,Accidente laboral,100101,Soltero
+40677709,Odalys,Cabo,Lerma,2022-09-11,59,M,Clínica,Municipalidad,Accidente laboral,110101,Viudo
+84536479,Toni,Piquer,Ferrández,2021-12-06,71,M,Hospital,Hospital Regional,Cáncer,250101,Divorciado
+30072000,Ainara,Agustí,Egea,2024-04-10,36,F,Domicilio,Municipalidad,Accidente de tránsito,180101,Divorciado
+77054885,Eloy,Villanueva,Moles,2024-10-29,37,F,Clínica,RENIEC,Accidente laboral,160101,Viudo
+50269906,Josué,Asenjo,Puig,2021-07-13,22,M,Vía pública,RENIEC,Cáncer,030101,Soltero
+31923376,Benito,Garriga,Izquierdo,2024-09-28,15,M,Vía pública,Municipalidad,Insuficiencia renal,190101,Soltero
+94538675,Clemente,Sandoval,Nadal,2022-11-25,94,M,Hospital,Hospital Regional,Accidente de tránsito,100101,Casado
+58447502,Plácido,Jiménez,Núñez,2020-11-09,76,F,Hospital,MINSA,Accidente laboral,050101,Divorciado
+65265613,Domingo,Ortega,Flor,2025-08-06,35,F,Vía pública,Hospital Regional,Cáncer,240101,Divorciado
+87295245,Florentina,Díaz,Luís,2023-09-17,62,F,Clínica,Municipalidad,Infarto,250101,Viudo
+53632879,Ignacia,Vicens,Torrent,2024-06-28,62,F,Clínica,MINSA,Infarto,250101,Soltero
+20523679,Rico,Macías,Silva,2021-12-03,8,F,Hospital,MINSA,Cáncer,220101,Viudo
+32491607,Felicidad,Navas,Robles,2025-07-21,19,F,Hospital,RENIEC,Insuficiencia renal,170101,Divorciado
+64327674,Reina,Bellido,Bernad,2022-01-25,59,M,Domicilio,Municipalidad,Cáncer,170101,Viudo
+56120632,Javier,Mir,Moliner,2023-03-03,69,F,Hospital,RENIEC,Cáncer,250101,Divorciado
+45899536,Elodia,Prats,Linares,2024-06-22,57,F,Vía pública,Municipalidad,Cáncer,080101,Soltero
+58743159,Mariana,Viñas,Sanjuan,2024-03-18,22,F,Clínica,Municipalidad,Cáncer,200101,Viudo
+32457056,Gerónimo,Alvarado,Casares,2022-09-07,91,F,Vía pública,RENIEC,Neumonía,240101,Divorciado
+98855162,José,Bernal,Galvez,2022-02-09,84,F,Vía pública,MINSA,Neumonía,080101,Divorciado
+63290556,Cristian,Bustos,Bartolomé,2024-09-18,33,F,Vía pública,Hospital Regional,Accidente laboral,020101,Viudo
+83609531,Baltasar,Amo,Puerta,2025-02-22,7,M,Hospital,MINSA,Accidente laboral,110101,Viudo
+21173787,Cristóbal,Jáuregui,Cortés,2021-05-28,94,M,Domicilio,Municipalidad,Infarto,050101,Viudo
+97890153,Sonia,Porta,Mendoza,2022-08-22,45,F,Domicilio,RENIEC,Insuficiencia renal,140101,Casado
+43204998,Malena,Luz,Salazar,2021-10-06,30,F,Hospital,RENIEC,Accidente laboral,020101,Soltero
+27619715,Belen,Donaire,Andrade,2020-12-27,43,M,Hospital,Hospital Regional,Infarto,030101,Divorciado
+99060057,Pepe,Morell,Tamayo,2024-08-30,72,F,Domicilio,RENIEC,Insuficiencia renal,160101,Soltero
+82555977,Lalo,Salgado,Cepeda,2025-04-11,40,F,Vía pública,Hospital Regional,Neumonía,250101,Divorciado
+33761455,Domitila,Saura,Royo,2025-02-21,12,M,Domicilio,Municipalidad,Neumonía,240101,Viudo
+95870691,Feliciana,Menendez,Olivera,2024-10-14,21,F,Domicilio,Municipalidad,Accidente de tránsito,160101,Soltero
+82433029,Javi,Borrás,Sala,2023-04-23,68,M,Domicilio,Hospital Regional,Infarto,020101,Divorciado
+59094606,Seve,Juan,Cortés,2023-04-10,28,M,Hospital,Hospital Regional,COVID-19,040101,Divorciado
+11416778,Aarón,Zabala,Cerezo,2023-08-13,54,M,Domicilio,RENIEC,Insuficiencia renal,020101,Viudo
+48488577,Adora,Aguirre,Téllez,2024-09-30,55,F,Clínica,Municipalidad,Cáncer,120101,Divorciado
+50213043,Agapito,Ros,Marco,2022-08-28,85,M,Hospital,MINSA,Neumonía,160101,Casado
+10968781,Carlota,Pereira,Fabregat,2024-03-11,84,F,Domicilio,Municipalidad,Neumonía,230101,Soltero
+85236332,Ulises,Prat,Iborra,2022-01-29,66,M,Domicilio,Municipalidad,Accidente de tránsito,140101,Casado
+96703417,Rosario,Pineda,Giménez,2022-12-05,95,F,Vía pública,Municipalidad,COVID-19,040101,Casado
+20631350,Telmo,Heras,Villanueva,2023-01-01,52,F,Domicilio,MINSA,COVID-19,240101,Casado
+48208680,Florencia,Leiva,Rey,2022-04-16,51,M,Hospital,MINSA,Accidente de tránsito,150101,Casado
+19189076,Germán,Cerezo,Manjón,2021-08-17,39,F,Vía pública,Municipalidad,Cáncer,230101,Soltero
+95482292,Xavier,Santamaría,Lladó,2024-11-15,25,M,Domicilio,MINSA,Infarto,120101,Viudo
+35204672,Miguel Ángel,Aliaga,Cornejo,2021-02-10,84,M,Hospital,Municipalidad,Accidente laboral,150101,Soltero
+81802559,Alfredo,Estevez,Calatayud,2023-02-02,10,F,Domicilio,RENIEC,Cáncer,110101,Soltero
+46130759,Edgardo,Ríos,Aguiló,2022-09-02,50,M,Clínica,RENIEC,Neumonía,170101,Soltero
+22106034,Eutropio,Alcolea,Uriarte,2022-07-15,66,F,Vía pública,RENIEC,Accidente de tránsito,220101,Soltero
+55890766,Sosimo,Mesa,Valentín,2023-11-06,98,F,Domicilio,Municipalidad,Accidente laboral,140101,Divorciado
+72234675,Josefina,Angulo,Murillo,2021-05-16,27,M,Hospital,MINSA,Accidente de tránsito,120101,Divorciado
+29607576,Basilio,Larrea,Poza,2021-04-18,52,F,Hospital,Municipalidad,Neumonía,110101,Soltero
+82905989,Adoración,Escudero,Fernandez,2022-10-25,40,F,Vía pública,MINSA,COVID-19,200101,Viudo
+61214452,Patricia,Alberola,Carro,2022-10-22,60,F,Domicilio,RENIEC,Insuficiencia renal,220101,Soltero
+61646699,María Manuela,Salazar,Huertas,2020-12-22,94,M,Clínica,Hospital Regional,Neumonía,060101,Viudo
+36733470,Édgar,Burgos,Vázquez,2022-06-18,81,F,Hospital,MINSA,Accidente laboral,030101,Divorciado
+73461570,Roque,Miguel,Moraleda,2022-01-14,1,F,Domicilio,Hospital Regional,Infarto,140101,Viudo
+94444996,Luisa,Arnal,Viñas,2021-09-23,26,M,Vía pública,Hospital Regional,Accidente laboral,230101,Divorciado
+43999060,Alicia,Martín,Fiol,2023-10-03,4,F,Hospital,Municipalidad,Cáncer,050101,Viudo
+16991067,Rosario,Gibert,Carbajo,2022-09-12,91,F,Hospital,MINSA,Insuficiencia renal,120101,Soltero
+94947603,Toño,Morata,Alcolea,2022-02-10,45,F,Domicilio,Municipalidad,Insuficiencia renal,150101,Soltero
+47057520,Daniela,Carretero,Priego,2022-10-04,82,M,Vía pública,MINSA,Infarto,060101,Casado
+11198544,Aristides,Talavera,Cortina,2023-11-06,80,F,Domicilio,RENIEC,Infarto,210101,Casado
+22009789,Jose Ramón,Criado,Valero,2021-06-19,66,M,Vía pública,Hospital Regional,Cáncer,160101,Casado
+93033107,Nilo,Barreda,Barreda,2023-09-18,33,M,Domicilio,Hospital Regional,Accidente de tránsito,040101,Divorciado
+96513378,Fabio,Campo,Casas,2024-11-02,47,M,Vía pública,Municipalidad,Accidente laboral,190101,Casado
+41229060,Maximiliano,Olivera,Ródenas,2022-05-01,2,M,Clínica,RENIEC,Cáncer,130101,Viudo
+12865928,Jennifer,Pina,Palma,2021-11-01,89,M,Hospital,Municipalidad,Neumonía,050101,Viudo
+43647879,Trini,Ariza,Toro,2024-05-30,19,M,Domicilio,MINSA,Neumonía,250101,Soltero
+85031037,Macario,Trillo,Falcó,2025-07-05,91,F,Vía pública,Municipalidad,Infarto,140101,Casado
+35048615,Candelaria,Oliveras,Morales,2024-09-03,24,F,Domicilio,Municipalidad,Cáncer,200101,Divorciado
+46953423,Rufina,Cueto,Bayón,2025-03-17,26,M,Domicilio,MINSA,Cáncer,210101,Divorciado
+30807167,Vinicio,Marqués,Lago,2025-04-18,18,M,Domicilio,Hospital Regional,Accidente de tránsito,220101,Divorciado
+59273033,Wilfredo,Abascal,Velasco,2023-11-30,31,F,Vía pública,RENIEC,Infarto,160101,Casado
+34901990,Sol,Alfonso,Pascual,2022-09-20,41,F,Clínica,Municipalidad,Insuficiencia renal,050101,Viudo
+53042832,Lorena,Barroso,Ponce,2022-04-21,9,M,Hospital,RENIEC,COVID-19,140101,Divorciado
+80339453,Isabela,Valencia,Correa,2023-02-05,45,M,Hospital,Hospital Regional,Neumonía,220101,Divorciado
+53298644,Sebastián,Montserrat,Cano,2021-07-05,38,F,Domicilio,MINSA,Neumonía,080101,Casado
+80222787,Genoveva,Batlle,Arranz,2021-10-17,33,M,Vía pública,Hospital Regional,Cáncer,200101,Soltero
+33976493,Samanta,Angulo,Franch,2021-08-07,40,F,Clínica,Hospital Regional,Infarto,100101,Soltero
+75145297,Gregorio,Cabeza,Antón,2025-07-19,16,F,Domicilio,Hospital Regional,Cáncer,020101,Viudo
+96134450,Piedad,Pont,Trillo,2025-02-28,78,F,Domicilio,Municipalidad,Accidente de tránsito,100101,Divorciado
+93747900,Judith,Jaén,Avilés,2023-10-22,97,M,Vía pública,RENIEC,Accidente de tránsito,200101,Soltero
+39624910,Eloísa,Belda,Alberto,2022-06-19,29,M,Hospital,Municipalidad,COVID-19,210101,Divorciado
+98013189,Amparo,Bernal,Solé,2021-03-16,55,M,Vía pública,RENIEC,Cáncer,110101,Divorciado
+58442674,Celestina,Ricart,Peinado,2021-03-09,58,F,Hospital,MINSA,Infarto,110101,Soltero
+92803389,Juan Pablo,Ángel,Armas,2021-04-15,26,F,Clínica,MINSA,Insuficiencia renal,170101,Viudo
+50789378,Casemiro,Garzón,Vives,2021-07-07,72,M,Hospital,MINSA,Cáncer,040101,Casado
+23586205,Luciana,Guardia,Pol,2022-04-20,98,F,Hospital,Hospital Regional,Infarto,020101,Soltero
+35920053,Begoña,Ibarra,Escamilla,2025-06-09,50,F,Hospital,Hospital Regional,Accidente de tránsito,150101,Soltero
+84912498,Severo,Camacho,Palma,2024-08-04,58,F,Vía pública,Hospital Regional,Neumonía,240101,Soltero
+99287317,Teófilo,Calvet,Diaz,2022-03-23,42,M,Vía pública,Hospital Regional,Insuficiencia renal,190101,Casado
+83815115,Samu,Vargas,Nebot,2022-01-13,27,M,Domicilio,Hospital Regional,Accidente laboral,080101,Soltero
+81658908,Eli,Salazar,Ortuño,2023-05-16,70,F,Hospital,Municipalidad,COVID-19,210101,Casado
+83830667,Moreno,Peral,Revilla,2024-05-08,98,F,Hospital,RENIEC,Accidente laboral,130101,Casado
+53412847,Emelina,Hernandez,Gargallo,2023-11-18,49,F,Domicilio,MINSA,Infarto,020101,Divorciado
+83851788,Ángeles,Izquierdo,Palomino,2024-07-15,55,F,Clínica,Hospital Regional,Insuficiencia renal,250101,Viudo
+70062404,Régulo,Abad,Aramburu,2023-02-09,65,M,Vía pública,Municipalidad,Cáncer,160101,Viudo
+89961933,Alcides,Villaverde,Cepeda,2023-04-04,72,F,Hospital,Municipalidad,Accidente laboral,110101,Casado
+10881653,Marcelo,Girona,Garmendia,2023-05-15,55,F,Hospital,RENIEC,Neumonía,100101,Divorciado
+12912708,María Pilar,Llorente,Vidal,2025-06-03,86,M,Clínica,Municipalidad,Neumonía,230101,Soltero
+86593789,Ángeles,Cortes,Busquets,2021-01-04,37,F,Vía pública,RENIEC,Accidente laboral,160101,Viudo
+71789789,Pelayo,Costa,Chacón,2022-12-11,19,M,Domicilio,MINSA,Neumonía,050101,Viudo
+59269031,Tamara,Iborra,Guijarro,2022-11-14,72,M,Hospital,RENIEC,Neumonía,250101,Divorciado
+50305910,Cirino,Pulido,Gelabert,2021-05-06,52,M,Vía pública,Hospital Regional,COVID-19,120101,Soltero
+53579429,Mónica,Tolosa,Duran,2024-11-04,98,M,Hospital,Municipalidad,Accidente de tránsito,210101,Divorciado
+87340611,Oriana,Bustos,Mas,2021-01-03,5,M,Vía pública,Hospital Regional,COVID-19,190101,Divorciado
+87347488,Rico,Bermudez,Barba,2023-07-14,96,F,Domicilio,Hospital Regional,Accidente laboral,210101,Casado
+56698401,Serafina,Rovira,Riera,2021-09-18,23,M,Domicilio,RENIEC,Cáncer,180101,Soltero
+40429530,Mariana,Alberdi,Piñeiro,2021-02-24,0,F,Hospital,RENIEC,Accidente de tránsito,230101,Divorciado
+50907334,Azucena,Armengol,Montaña,2025-04-13,58,F,Vía pública,Hospital Regional,Neumonía,220101,Viudo
+85821325,Eutimio,Morillo,Vallés,2022-07-26,88,F,Domicilio,RENIEC,Accidente de tránsito,200101,Soltero
+30561818,Aureliano,Pozo,Salinas,2025-08-01,24,M,Hospital,MINSA,Accidente laboral,150101,Casado
+77743626,Cipriano,Girona,Rosales,2023-02-26,61,M,Clínica,Municipalidad,Accidente laboral,230101,Casado
+62925057,Eusebio,Catalán,Navarrete,2021-05-23,11,F,Vía pública,MINSA,Cáncer,050101,Soltero
+73868130,Concha,Avilés,Pujol,2022-12-03,14,M,Clínica,Municipalidad,Cáncer,160101,Soltero
+21419108,Sabas,Valls,Rovira,2021-10-19,57,M,Clínica,Hospital Regional,Neumonía,060101,Soltero
+28102047,Alicia,Figuerola,Torrents,2024-01-20,42,M,Hospital,Municipalidad,Cáncer,160101,Viudo
+97543303,Concha,Ferrández,Zamora,2022-10-14,4,F,Vía pública,Municipalidad,Neumonía,190101,Divorciado
+42522981,Calixto,Larrea,Ropero,2023-06-10,29,M,Hospital,Municipalidad,Neumonía,100101,Soltero
+87311859,Chuy,Capdevila,Riba,2024-04-16,34,F,Vía pública,RENIEC,Cáncer,220101,Viudo
+59025393,Pablo,Farré,Montes,2023-08-15,57,F,Hospital,MINSA,COVID-19,130101,Divorciado
+89708841,Gabriela,Amador,Mayol,2022-02-16,44,F,Clínica,MINSA,Neumonía,240101,Viudo
+56938140,Encarnita,Salamanca,Coello,2024-06-08,77,F,Clínica,Hospital Regional,Insuficiencia renal,060101,Divorciado
+16023362,Ámbar,Guillen,Flores,2023-11-14,86,F,Vía pública,MINSA,Neumonía,130101,Viudo
+30936786,Marita,Boada,Capdevila,2021-02-25,88,M,Vía pública,MINSA,Accidente de tránsito,130101,Casado
+42621391,Estela,Coloma,Maestre,2020-10-21,77,F,Hospital,Municipalidad,Cáncer,020101,Casado
+56073103,Joaquina,Cantero,Mayol,2024-07-08,26,M,Hospital,Hospital Regional,COVID-19,110101,Casado
+73242092,Alonso,Mármol,Gallart,2025-04-07,22,M,Hospital,Hospital Regional,Cáncer,250101,Casado
+38437423,Herminio,Zabala,Jordán,2025-05-11,15,M,Vía pública,Hospital Regional,COVID-19,110101,Soltero
+74830696,Esther,Cid,Alfaro,2023-11-23,98,F,Clínica,RENIEC,Insuficiencia renal,080101,Divorciado
+88249598,Vicenta,Zurita,Arranz,2022-11-11,58,M,Hospital,RENIEC,Accidente laboral,180101,Soltero
+32859916,Benito,Luz,Font,2022-12-30,64,M,Clínica,RENIEC,Accidente laboral,130101,Viudo
+17124981,Adela,Aguirre,Batlle,2023-12-30,20,F,Vía pública,Municipalidad,Insuficiencia renal,250101,Casado
+98633740,Kike,Palomino,Campos,2020-11-07,82,F,Domicilio,MINSA,Infarto,130101,Divorciado
+49258091,Rufina,Pomares,Guardia,2023-12-05,53,M,Clínica,Municipalidad,COVID-19,020101,Casado
+78255127,Leire,Cabezas,Moles,2024-10-23,10,F,Domicilio,Municipalidad,COVID-19,230101,Casado
+90142265,Bernardita,Borja,Estrada,2022-05-19,19,F,Clínica,MINSA,Accidente laboral,050101,Divorciado
+77196215,Zacarías,Almeida,Ariño,2022-10-17,52,F,Domicilio,RENIEC,Cáncer,200101,Soltero
+81056927,Marcos,Múgica,Trillo,2024-01-14,91,M,Hospital,Hospital Regional,COVID-19,060101,Casado
+31072888,Alejandro,Oliver,Ortiz,2023-09-18,55,M,Vía pública,RENIEC,Insuficiencia renal,230101,Casado
+93917080,Marciano,Guzman,Vallejo,2023-01-14,73,M,Domicilio,Municipalidad,Cáncer,240101,Viudo
+18322800,Eufemia,Jiménez,Pombo,2020-12-09,92,F,Domicilio,RENIEC,Accidente laboral,120101,Casado
+84482698,Lino,Gomis,Cordero,2023-08-06,89,F,Vía pública,MINSA,Neumonía,220101,Divorciado
+62726977,Gala,Cervantes,Bonilla,2023-12-10,89,F,Vía pública,MINSA,COVID-19,040101,Soltero
+79889565,Irene,Gordillo,Rincón,2022-09-25,68,F,Vía pública,MINSA,Neumonía,180101,Viudo
+86893142,Ezequiel,Roldan,Miguel,2023-06-29,27,M,Domicilio,Hospital Regional,Accidente laboral,230101,Casado
+70286467,Candela,Catalá,Gabaldón,2021-11-13,2,M,Domicilio,MINSA,Accidente laboral,020101,Divorciado
+87984620,Camila,Francisco,Cervera,2023-04-27,64,M,Hospital,Hospital Regional,COVID-19,230101,Viudo
+80303981,Virginia,Cepeda,Ropero,2021-12-03,15,M,Hospital,Municipalidad,COVID-19,190101,Soltero
+98077934,Clara,Cruz,Moll,2021-04-07,58,F,Clínica,MINSA,COVID-19,020101,Viudo
+84804948,Berta,Carrasco,Espinosa,2023-05-23,85,M,Vía pública,MINSA,Infarto,100101,Casado
+29531743,Lucía,Andreu,Montalbán,2024-03-18,99,F,Vía pública,RENIEC,Accidente de tránsito,050101,Divorciado
+65197277,Marcio,Salazar,Llanos,2021-12-25,10,M,Hospital,Municipalidad,Accidente de tránsito,160101,Casado
+35224021,Custodio,Catalá,Esteban,2020-11-29,57,M,Domicilio,Municipalidad,Neumonía,180101,Divorciado
+92138779,Encarnita,Lasa,Gual,2022-08-31,33,F,Vía pública,Municipalidad,Insuficiencia renal,160101,Divorciado
+40992534,Jacinta,Amo,Palomar,2021-05-13,20,M,Clínica,Municipalidad,Insuficiencia renal,030101,Casado
+73968467,Eloy,Vallés,Somoza,2023-11-14,90,M,Clínica,Municipalidad,Cáncer,080101,Casado
+34692904,Reyes,Ponce,Tur,2024-09-20,71,F,Hospital,Municipalidad,Infarto,250101,Viudo
+28456645,Fernando,Ferrando,Gonzalo,2020-12-18,73,F,Hospital,MINSA,Infarto,110101,Viudo
+64839908,María Cristina,Alcolea,Lerma,2024-03-15,47,F,Domicilio,Municipalidad,Infarto,200101,Casado
+39870720,Manuelita,Franco,Fuente,2021-04-02,100,F,Hospital,Hospital Regional,COVID-19,130101,Casado
+33767033,Áurea,Saavedra,Trillo,2023-06-15,94,F,Hospital,RENIEC,Neumonía,110101,Soltero
+71410640,Susana,Huerta,Roma,2024-02-18,5,F,Vía pública,Hospital Regional,Neumonía,030101,Viudo
+15613827,Ema,Pintor,Milla,2024-01-16,100,F,Vía pública,MINSA,Accidente laboral,200101,Divorciado
+92074794,Manuelita,Zapata,Arenas,2025-02-12,97,F,Vía pública,MINSA,Accidente laboral,100101,Soltero
+24672184,Vito,Saura,Arnal,2022-10-12,79,F,Vía pública,MINSA,Cáncer,100101,Soltero
+79619091,Brígida,Priego,Ariza,2025-06-07,85,F,Domicilio,RENIEC,Accidente laboral,210101,Soltero
+61995659,Ascensión,Avilés,Falcó,2023-03-02,73,F,Hospital,RENIEC,Accidente de tránsito,220101,Soltero
+68995922,Rómulo,Mayo,Macias,2024-08-12,72,M,Vía pública,RENIEC,Infarto,240101,Casado
+32345453,Telmo,Mariscal,Ballester,2025-02-01,2,F,Clínica,MINSA,Accidente laboral,190101,Divorciado
+29091078,Abigaíl,Sans,Botella,2024-12-12,10,F,Vía pública,RENIEC,Cáncer,150101,Viudo
+25189633,Geraldo,Cerdá,Pozuelo,2024-03-16,55,M,Vía pública,RENIEC,Accidente laboral,170101,Viudo
+53414191,Virgilio,Amaya,Escamilla,2024-07-19,48,F,Hospital,RENIEC,Infarto,180101,Casado
+89230801,Teófila,Franch,Sanz,2021-06-16,36,M,Clínica,Hospital Regional,Accidente laboral,040101,Casado
+43565477,Moisés,Céspedes,Casals,2021-06-19,39,F,Clínica,RENIEC,Neumonía,100101,Casado
+25322958,Lara,Sancho,Parejo,2021-06-01,3,M,Domicilio,Municipalidad,Infarto,100101,Casado
+80305568,Laura,Plana,Vidal,2022-01-18,52,F,Domicilio,Municipalidad,Accidente laboral,250101,Soltero
+60825385,Carmelita,Pintor,Arranz,2022-02-21,25,M,Clínica,Municipalidad,Neumonía,170101,Divorciado
+54988861,Clarisa,Conesa,Cámara,2021-12-02,14,F,Hospital,Hospital Regional,Cáncer,180101,Divorciado
+34007090,María José,Aznar,Rivas,2023-04-24,8,F,Hospital,Municipalidad,Insuficiencia renal,140101,Soltero
+51542843,Luna,Salmerón,Malo,2022-03-24,34,M,Clínica,MINSA,COVID-19,190101,Divorciado
+25777827,Trini,Catalá,Franco,2020-09-19,57,M,Clínica,MINSA,COVID-19,180101,Casado
+93558632,María Del Carmen,Isern,Alberola,2024-08-03,100,M,Vía pública,Municipalidad,Infarto,150101,Divorciado
+76790446,Rita,Valenzuela,Adán,2024-11-20,79,F,Clínica,RENIEC,Infarto,160101,Viudo
+41927492,Isaac,Tamarit,Santiago,2024-03-06,76,F,Vía pública,Hospital Regional,Accidente laboral,230101,Casado
+69307507,Cebrián,Agudo,Hierro,2025-05-06,74,F,Hospital,MINSA,Insuficiencia renal,180101,Soltero
+47327686,Estefanía,Galiano,Avilés,2022-04-06,38,M,Vía pública,RENIEC,Accidente laboral,200101,Viudo
+29898606,Bartolomé,Oller,Arco,2021-12-04,55,M,Domicilio,Hospital Regional,Insuficiencia renal,120101,Divorciado
+14352961,Guadalupe,Martín,Muñoz,2021-06-08,34,M,Domicilio,Hospital Regional,Accidente de tránsito,030101,Viudo
+16580878,César,Riera,Escalona,2022-01-23,2,M,Hospital,Municipalidad,Infarto,150101,Casado
+48168910,Emiliana,Elías,Sarabia,2025-08-12,52,F,Vía pública,RENIEC,Accidente laboral,230101,Soltero
+58343701,Andrés Felipe,Buendía,Martínez,2023-06-08,68,M,Vía pública,RENIEC,COVID-19,060101,Viudo
+59468550,Tomasa,Pinilla,Bauzà,2024-04-28,49,M,Hospital,RENIEC,Cáncer,110101,Casado
+83882978,Berto,Marco,Sotelo,2021-11-01,56,M,Clínica,RENIEC,Accidente laboral,120101,Viudo
+26377680,Jordana,Llobet,Mur,2025-03-04,24,M,Domicilio,MINSA,Accidente de tránsito,160101,Viudo
+65533646,Beatriz,Gallego,Gallart,2021-03-08,4,F,Vía pública,MINSA,Infarto,130101,Divorciado
+24670297,Concha,Ángel,Bonilla,2024-10-20,14,F,Vía pública,MINSA,Neumonía,130101,Casado
+91171931,Modesta,Madrigal,Roldán,2023-05-20,8,M,Hospital,MINSA,COVID-19,190101,Casado
+44850980,Begoña,Otero,Castilla,2025-06-23,66,F,Clínica,RENIEC,Insuficiencia renal,240101,Viudo
+76625267,Aurora,Valenciano,Ugarte,2022-03-21,87,F,Hospital,Municipalidad,Insuficiencia renal,240101,Soltero
+91793056,Joan,Manrique,Ferrer,2020-09-13,41,F,Vía pública,Hospital Regional,Infarto,240101,Divorciado
+25865493,Amado,Sola,Carranza,2022-06-15,63,F,Hospital,MINSA,Infarto,120101,Divorciado
+92585240,Severino,Riba,Arroyo,2023-07-13,68,F,Domicilio,RENIEC,Cáncer,130101,Viudo
+56929234,Charo,Garay,Alberdi,2022-05-27,10,M,Clínica,Municipalidad,Infarto,140101,Casado
+47799296,José Manuel,Bauzà,Mena,2023-03-30,21,F,Domicilio,RENIEC,Insuficiencia renal,230101,Soltero
+78006730,Carmelita,Morante,Aguado,2021-08-28,3,F,Vía pública,RENIEC,Neumonía,230101,Viudo
+54732472,Néstor,Prieto,Andres,2022-03-08,32,M,Hospital,Municipalidad,Accidente de tránsito,100101,Soltero
+36040330,Natalio,Neira,Tello,2024-09-22,42,M,Hospital,Municipalidad,Accidente laboral,250101,Divorciado
+14772547,Flavia,Cerdán,Tirado,2022-01-04,74,M,Hospital,RENIEC,Infarto,060101,Viudo
+94181424,Édgar,Naranjo,Sevillano,2024-03-18,88,M,Clínica,RENIEC,Accidente laboral,030101,Soltero
+17519183,Petrona,Vázquez,Marí,2025-06-30,38,F,Hospital,RENIEC,Insuficiencia renal,080101,Soltero
+52346074,Catalina,Alfonso,Galindo,2025-08-07,37,F,Vía pública,RENIEC,Neumonía,050101,Casado
+54522609,Nerea,Otero,Batalla,2021-12-16,76,M,Vía pública,Municipalidad,Cáncer,050101,Soltero
+47642707,Priscila,Anguita,Nicolau,2023-11-18,43,M,Vía pública,Hospital Regional,Neumonía,130101,Soltero
+94088862,Bienvenida,Daza,Porras,2022-04-14,13,M,Hospital,MINSA,Neumonía,200101,Viudo
+89885300,Demetrio,Mendez,Miranda,2020-12-16,45,F,Vía pública,Municipalidad,Accidente de tránsito,140101,Casado
+46439766,Severiano,Bolaños,Valdés,2022-09-17,5,M,Clínica,Hospital Regional,Neumonía,050101,Viudo
+59873103,Vito,Mate,Garzón,2025-02-26,39,M,Clínica,Municipalidad,COVID-19,220101,Viudo
+50576475,Gabino,Caparrós,Perelló,2021-01-03,37,F,Hospital,MINSA,Infarto,140101,Soltero
+37125189,Xiomara,Bru,Salcedo,2024-12-29,54,F,Clínica,MINSA,Insuficiencia renal,130101,Soltero
+13346688,Nerea,Tolosa,Vall,2021-12-31,43,M,Vía pública,Municipalidad,Neumonía,100101,Viudo
+35529779,Noé,Tomás,Zabaleta,2023-05-01,78,F,Vía pública,Hospital Regional,Accidente de tránsito,250101,Divorciado
+53934556,Eric,Cabello,Villalonga,2021-10-26,5,F,Clínica,RENIEC,Insuficiencia renal,140101,Casado
+37539747,Lourdes,Arce,Segovia,2023-12-27,59,M,Clínica,Municipalidad,Insuficiencia renal,100101,Divorciado
+80107942,David,Acosta,Mercader,2021-01-23,26,F,Clínica,RENIEC,COVID-19,150101,Soltero
+89763928,Salomé,Bonet,Mínguez,2024-08-29,45,M,Hospital,MINSA,COVID-19,030101,Casado
+16192775,Cristian,Viñas,Miguel,2020-11-17,80,F,Hospital,RENIEC,Accidente de tránsito,130101,Viudo
+87518768,Marta,Miguel,Gallego,2023-06-02,22,M,Domicilio,MINSA,COVID-19,180101,Casado
+36918105,Guadalupe,Macías,Lloret,2025-03-20,22,M,Hospital,MINSA,Accidente laboral,120101,Soltero
+52835559,María Teresa,Sainz,Carpio,2023-01-04,2,M,Vía pública,RENIEC,COVID-19,130101,Viudo
+30041488,Fausto,Llanos,Carbó,2020-10-26,58,M,Domicilio,Hospital Regional,Insuficiencia renal,210101,Divorciado
+93610257,Charo,Vilaplana,Calatayud,2022-06-12,91,M,Hospital,MINSA,Accidente de tránsito,130101,Casado
+82816971,Pancho,Montalbán,Linares,2021-11-22,68,F,Domicilio,Hospital Regional,Neumonía,050101,Casado
+48019546,Consuela,Hierro,Donoso,2021-04-18,5,M,Domicilio,MINSA,COVID-19,140101,Soltero
+51792388,Emperatriz,Nevado,Salcedo,2021-02-13,80,F,Clínica,Municipalidad,Accidente de tránsito,040101,Divorciado
+27458237,Ambrosio,Sotelo,Ayuso,2021-08-04,84,M,Clínica,Municipalidad,Accidente laboral,230101,Viudo
+61485872,Baltasar,Boix,Roldan,2024-01-09,63,F,Clínica,Hospital Regional,Insuficiencia renal,110101,Divorciado
+34022690,Julie,Salmerón,Pagès,2023-05-07,91,F,Vía pública,Hospital Regional,Neumonía,060101,Soltero
+54604858,Olimpia,Figuerola,Bermudez,2024-08-25,26,M,Clínica,Municipalidad,Accidente laboral,140101,Divorciado
+86207390,Eleuterio,Buendía,Solís,2021-07-08,27,F,Vía pública,Municipalidad,Neumonía,210101,Viudo
+71147472,Martín,Solana,Sosa,2022-08-29,32,M,Clínica,RENIEC,COVID-19,030101,Viudo
+40037183,Ernesto,Jordá,Parra,2024-01-10,29,M,Vía pública,Hospital Regional,Cáncer,030101,Divorciado
+34609232,Juana,Murillo,Morcillo,2024-07-18,55,F,Domicilio,Municipalidad,COVID-19,120101,Divorciado
+75432046,Amor,Bas,Talavera,2021-08-25,3,M,Vía pública,MINSA,COVID-19,230101,Soltero
+57169588,Alejandra,Serra,Donaire,2023-02-02,45,M,Domicilio,RENIEC,Accidente laboral,120101,Casado
+56790372,Elisabet,Castejón,Verdejo,2021-07-25,12,M,Hospital,Hospital Regional,Infarto,180101,Casado
+64450250,Olimpia,Campo,Moreno,2025-06-02,42,M,Domicilio,Hospital Regional,COVID-19,240101,Viudo
+97167893,Calisto,Matas,Serra,2024-02-06,24,M,Domicilio,RENIEC,Accidente laboral,020101,Viudo
+89260394,Severiano,Gómez,Hervás,2025-05-08,44,F,Vía pública,RENIEC,Cáncer,230101,Casado
+31343341,Alma,Plana,Batalla,2023-08-03,50,M,Clínica,MINSA,Cáncer,140101,Divorciado
+37949250,Odalys,Rosa,Rozas,2025-07-07,92,F,Domicilio,RENIEC,COVID-19,130101,Divorciado
+55929418,Candelas,Guzman,Duran,2021-05-09,98,F,Clínica,Municipalidad,Cáncer,180101,Soltero
+87066247,Piedad,Torrecilla,Carbó,2024-08-17,47,M,Clínica,Hospital Regional,Insuficiencia renal,150101,Divorciado
+53671508,Catalina,Cabanillas,Salgado,2022-03-10,84,F,Domicilio,MINSA,Cáncer,050101,Divorciado
+51343854,Santiago,Baños,Camps,2023-11-30,97,F,Domicilio,RENIEC,Neumonía,080101,Casado
+53943990,Ana Belén,Barriga,Botella,2022-07-17,19,F,Vía pública,Municipalidad,Accidente de tránsito,060101,Soltero
+28645088,Susana,Abad,Collado,2021-12-16,68,F,Clínica,Municipalidad,Infarto,100101,Divorciado
+70797197,Bernardita,Manuel,Porta,2025-08-09,81,F,Hospital,MINSA,Infarto,240101,Casado
+70016768,Gustavo,Fuster,Moliner,2023-03-29,4,F,Hospital,MINSA,Accidente de tránsito,040101,Divorciado
+86541203,Narcisa,Mayo,Royo,2023-08-14,36,M,Clínica,Hospital Regional,Insuficiencia renal,170101,Soltero
+21983952,Dafne,Aguiló,Vicens,2024-02-16,58,M,Domicilio,RENIEC,Accidente de tránsito,100101,Divorciado
+27120235,Reyes,Mariscal,Barrios,2023-10-31,50,M,Hospital,MINSA,Neumonía,050101,Divorciado
+83670115,Balduino,Abascal,Palomar,2021-08-15,95,M,Vía pública,MINSA,Accidente de tránsito,130101,Viudo
+47877483,Rosenda,Anguita,Gutierrez,2024-05-12,55,F,Clínica,Hospital Regional,Neumonía,130101,Divorciado
+89210454,Rufino,Monreal,Piñeiro,2024-02-22,35,M,Hospital,MINSA,Cáncer,040101,Divorciado
+61212793,Trinidad,Galván,Durán,2024-09-23,77,M,Domicilio,Municipalidad,Cáncer,030101,Soltero
+28665507,Godofredo,Planas,Palomino,2024-03-28,94,M,Domicilio,Municipalidad,COVID-19,020101,Divorciado
+30705405,Luis,Casas,Cañizares,2020-10-15,78,M,Vía pública,MINSA,Accidente de tránsito,220101,Divorciado
+19629584,Flora,Alcázar,Cobo,2024-10-30,58,F,Clínica,RENIEC,Cáncer,080101,Casado
+98305426,Ulises,Cerdán,Blazquez,2021-11-09,20,F,Domicilio,RENIEC,Insuficiencia renal,130101,Divorciado
+96200382,Noelia,Ricart,Sarmiento,2024-04-23,52,M,Domicilio,RENIEC,Accidente laboral,250101,Viudo
+93650995,Geraldo,Santos,Vergara,2024-04-18,52,F,Clínica,Hospital Regional,Accidente de tránsito,170101,Soltero
+84094900,Oriana,Sandoval,Planas,2023-09-17,59,M,Hospital,Municipalidad,Cáncer,100101,Divorciado
+40298433,Gilberto,Rodriguez,Aguilera,2025-08-09,24,F,Hospital,RENIEC,COVID-19,250101,Casado
+76861495,Rebeca,Guzmán,Valls,2022-12-24,41,F,Vía pública,Municipalidad,Infarto,040101,Casado
+65141717,Ángeles,Pedraza,Aragonés,2021-01-04,91,F,Clínica,Municipalidad,Accidente laboral,120101,Casado
+86255745,Almudena,Pedrosa,Carbajo,2025-08-16,21,M,Hospital,MINSA,COVID-19,250101,Divorciado
+74630252,Jessica,Bernal,Cifuentes,2025-03-02,21,M,Hospital,Hospital Regional,Accidente de tránsito,030101,Viudo
+47503167,Adela,Villanueva,Bermudez,2025-02-21,22,M,Hospital,MINSA,Cáncer,080101,Soltero
+91882291,Chus,Higueras,Sureda,2021-05-09,49,F,Vía pública,RENIEC,Neumonía,150101,Soltero
+95052118,Calista,Miguel,Baena,2023-08-12,98,F,Clínica,MINSA,COVID-19,140101,Casado
+81810948,Melania,Alba,Somoza,2024-07-20,11,M,Vía pública,RENIEC,Infarto,100101,Casado
+78808477,Vicenta,Somoza,Muñoz,2024-04-09,87,M,Clínica,RENIEC,Accidente laboral,240101,Casado
+57367387,Nazaret,Mariño,Mancebo,2022-02-11,92,M,Hospital,Municipalidad,Neumonía,250101,Viudo
+14741407,Jordana,Mateu,Juliá,2021-03-18,41,M,Clínica,Municipalidad,Cáncer,250101,Casado
+94463223,Ainara,Dominguez,Aznar,2023-03-04,27,M,Domicilio,Hospital Regional,Accidente de tránsito,150101,Divorciado
+93794410,Amando,Madrid,Tormo,2021-05-23,83,F,Hospital,Municipalidad,Accidente de tránsito,030101,Casado
+27021671,Anselma,Benítez,Lobo,2022-11-01,8,F,Domicilio,RENIEC,Infarto,130101,Divorciado
+27789051,Encarnación,Lucas,Llopis,2022-11-16,38,F,Hospital,MINSA,COVID-19,250101,Viudo
+11906295,Manuela,Cantón,Díaz,2021-12-22,80,F,Clínica,Hospital Regional,Accidente de tránsito,230101,Viudo
+98470372,Victoriano,Pelayo,Echevarría,2022-11-29,85,F,Hospital,Hospital Regional,Infarto,220101,Divorciado
+41701674,Amada,Escrivá,Álamo,2020-12-20,48,M,Hospital,MINSA,Infarto,220101,Soltero
+56016278,Cesar,Codina,Correa,2024-11-27,39,M,Vía pública,MINSA,Neumonía,040101,Soltero
+65424925,María Luisa,Piñol,Gárate,2024-06-07,17,F,Vía pública,Hospital Regional,Accidente de tránsito,200101,Divorciado
+95573823,Florencio,Galvez,Ochoa,2021-02-24,26,M,Clínica,Municipalidad,Insuficiencia renal,100101,Casado
+96202825,Juan Luis,Carmona,Badía,2022-02-11,35,F,Hospital,Municipalidad,Insuficiencia renal,020101,Soltero
+72279029,Sabas,Tamayo,Mata,2024-09-27,29,F,Domicilio,MINSA,Accidente de tránsito,180101,Soltero
+81473736,Joaquín,Pino,Porta,2024-09-22,85,M,Clínica,Municipalidad,Neumonía,100101,Casado
+45248951,Espiridión,Royo,Albero,2023-02-23,56,M,Hospital,Municipalidad,Infarto,130101,Soltero
+70239684,Roberto,Moles,Armengol,2021-07-08,81,M,Clínica,MINSA,Infarto,210101,Casado
+81308986,Febe,Otero,Rosales,2023-01-03,30,M,Vía pública,Municipalidad,COVID-19,210101,Casado
+54958564,Julián,Lasa,Cabello,2022-11-11,31,F,Clínica,MINSA,COVID-19,020101,Divorciado
+97824468,Daniela,Posada,Serra,2022-09-30,81,M,Domicilio,Municipalidad,Infarto,110101,Divorciado
+89017236,María Luisa,Ferrero,Vizcaíno,2023-07-24,48,M,Vía pública,Municipalidad,Cáncer,170101,Divorciado
+34148004,Matías,Alarcón,Aguirre,2021-04-08,97,M,Vía pública,RENIEC,Accidente laboral,060101,Divorciado
+11605433,Sergio,Cabañas,Zapata,2021-07-28,10,F,Clínica,MINSA,COVID-19,060101,Divorciado
+69853349,Pascual,Gimenez,Luque,2022-10-31,39,F,Domicilio,Municipalidad,Neumonía,220101,Divorciado
+35914696,Anastasio,Alvarez,Briones,2021-03-04,9,F,Clínica,Municipalidad,Accidente de tránsito,200101,Casado
+89743930,Gala,Gaya,Carro,2021-09-16,0,M,Domicilio,Municipalidad,Cáncer,050101,Divorciado
+21594582,Roberta,Castillo,Peña,2025-07-03,95,F,Vía pública,Municipalidad,COVID-19,230101,Soltero
+34799223,Teresita,Cantero,Espinosa,2022-11-05,52,M,Hospital,Municipalidad,Neumonía,210101,Casado
+49536330,Adelia,Benitez,Santana,2023-01-15,97,F,Domicilio,Hospital Regional,Neumonía,160101,Viudo
+67308741,Jesusa,Morales,Jiménez,2022-01-25,89,M,Vía pública,Municipalidad,Insuficiencia renal,140101,Casado
+19931717,Leonel,Barrios,Piñeiro,2023-12-30,61,M,Domicilio,RENIEC,Insuficiencia renal,240101,Casado
+54648162,Benito,Jordá,Landa,2022-03-15,33,F,Clínica,Hospital Regional,Accidente de tránsito,220101,Casado
+69132953,Buenaventura,Téllez,Fonseca,2024-01-11,1,M,Hospital,Municipalidad,Cáncer,190101,Soltero
+33950102,Filomena,Téllez,Camps,2021-11-29,66,M,Vía pública,MINSA,Accidente laboral,050101,Viudo
+82562419,María José,Rosado,Gil,2021-08-05,88,F,Vía pública,Hospital Regional,Insuficiencia renal,050101,Soltero
+69268093,Ligia,Jove,Calderón,2020-12-26,13,F,Clínica,Hospital Regional,Insuficiencia renal,130101,Divorciado
+19787090,Calisto,Iglesia,Salmerón,2020-11-06,89,F,Hospital,MINSA,Accidente laboral,160101,Soltero
+76800348,Eustaquio,Abascal,Arellano,2024-01-05,12,M,Vía pública,Municipalidad,Insuficiencia renal,020101,Divorciado
+45760499,Evaristo,Murcia,Posada,2025-07-30,21,M,Domicilio,MINSA,Insuficiencia renal,200101,Casado
+10497109,Aránzazu,Trujillo,Tejera,2024-05-25,62,M,Hospital,Municipalidad,Neumonía,130101,Casado
+64212251,Rafaela,Becerra,Gonzalez,2020-09-19,25,M,Clínica,MINSA,COVID-19,050101,Divorciado
+61596498,Jennifer,Toledo,Carrión,2025-07-07,80,M,Clínica,RENIEC,COVID-19,040101,Divorciado
+81847296,Plinio,Mínguez,Mateo,2024-02-05,15,F,Hospital,Hospital Regional,Infarto,190101,Casado
+17408103,Evelia,Botella,Pavón,2025-03-28,61,F,Hospital,RENIEC,Infarto,120101,Soltero
+55642455,Cecilio,Segura,Manjón,2022-06-02,85,M,Hospital,MINSA,Neumonía,150101,Divorciado
+33705307,Casandra,Ariza,Plana,2022-04-25,77,F,Vía pública,Municipalidad,Accidente laboral,100101,Divorciado
+50113698,Josefa,Porta,Campillo,2023-09-30,43,F,Domicilio,Hospital Regional,Accidente laboral,140101,Viudo
+75297400,Cesar,Río,Falcó,2021-11-17,85,F,Vía pública,RENIEC,COVID-19,100101,Soltero
+14791343,Guadalupe,Amaya,Gómez,2024-11-06,0,F,Vía pública,MINSA,Infarto,220101,Soltero
+62179495,Bernardino,Mena,Valero,2025-03-25,67,F,Clínica,Hospital Regional,Cáncer,220101,Divorciado
+70305001,Alcides,Arco,Nicolau,2021-03-02,65,F,Clínica,RENIEC,Insuficiencia renal,100101,Soltero
+55327823,Mirta,Arnau,Ramirez,2021-09-11,81,F,Hospital,Hospital Regional,Insuficiencia renal,030101,Casado
+38410963,Noemí,Zabala,Sedano,2025-04-03,77,F,Vía pública,RENIEC,COVID-19,050101,Divorciado
+29992217,Manu,Guijarro,Bello,2021-01-01,84,M,Vía pública,Hospital Regional,Neumonía,130101,Casado
+29003951,Amaya,Aliaga,Soto,2021-01-29,66,M,Clínica,Municipalidad,Accidente laboral,040101,Viudo
+42572300,Judith,Castrillo,Alcaraz,2022-02-26,86,F,Clínica,Municipalidad,Infarto,160101,Casado
+94914383,Aureliano,Meléndez,Cabanillas,2024-07-27,31,M,Clínica,RENIEC,Infarto,050101,Soltero
+92037350,Francisco,Bartolomé,Camino,2021-08-29,20,F,Vía pública,Hospital Regional,Accidente de tránsito,120101,Divorciado
+76725470,Dulce,Giménez,Barroso,2022-05-31,85,M,Clínica,Municipalidad,Infarto,100101,Casado
+67205134,Nicolás,Quesada,Morata,2021-09-19,73,M,Domicilio,Municipalidad,Insuficiencia renal,060101,Divorciado
+87304983,Caridad,Cervantes,Montoya,2022-07-03,29,M,Domicilio,RENIEC,COVID-19,040101,Soltero
+16118522,Dorita,Durán,Narváez,2021-03-24,11,F,Clínica,RENIEC,Neumonía,110101,Casado
+26206185,Leocadio,Cid,Ribes,2022-02-13,40,F,Hospital,Hospital Regional,Infarto,190101,Casado
+59650807,Carolina,Cózar,Ródenas,2022-10-05,49,F,Domicilio,Hospital Regional,Accidente laboral,240101,Casado
+88112812,Apolinar,Cañellas,Cabo,2023-11-21,66,M,Hospital,Municipalidad,Infarto,180101,Divorciado
+31173338,Alcides,Torrens,Berrocal,2020-09-28,40,M,Domicilio,MINSA,Cáncer,240101,Divorciado
+10969588,Gastón,Borrell,Luz,2024-03-25,18,F,Clínica,RENIEC,Neumonía,100101,Viudo
+73889312,Jesusa,Castañeda,Fábregas,2021-11-27,64,M,Domicilio,Municipalidad,Insuficiencia renal,130101,Divorciado
+95875952,Kike,Zabala,Sanjuan,2024-03-12,37,F,Hospital,Hospital Regional,Accidente de tránsito,130101,Casado
+42112095,Félix,Arellano,Escolano,2024-12-10,89,M,Clínica,Municipalidad,Insuficiencia renal,060101,Viudo
+92147935,Chus,Mascaró,Oliveras,2024-04-02,84,M,Hospital,Municipalidad,COVID-19,050101,Divorciado
+10613380,Celestina,Gutiérrez,Fernandez,2021-09-09,44,F,Vía pública,RENIEC,Neumonía,020101,Viudo
+81162107,Claudio,Paredes,Vera,2022-07-22,89,M,Vía pública,RENIEC,Accidente de tránsito,100101,Soltero
+72306017,María Luisa,Galindo,Lloret,2021-02-20,90,F,Vía pública,MINSA,Neumonía,200101,Divorciado
+36000523,Daniel,Company,Sánchez,2024-12-02,89,F,Domicilio,MINSA,Accidente de tránsito,130101,Casado
+33665782,Feliciano,Aroca,Balaguer,2023-10-15,94,M,Domicilio,RENIEC,Insuficiencia renal,200101,Divorciado
+48260712,Hugo,Royo,Iglesias,2023-07-14,54,M,Hospital,RENIEC,COVID-19,160101,Casado
+92788091,Noa,Santana,Aroca,2021-07-30,6,M,Domicilio,Municipalidad,Accidente de tránsito,230101,Divorciado
+17040602,Ángela,Echeverría,Cruz,2020-12-08,31,M,Hospital,MINSA,Cáncer,160101,Viudo
+75103838,Aránzazu,Carmona,Belda,2022-09-10,88,M,Vía pública,RENIEC,Accidente laboral,030101,Divorciado
+69702849,Dora,Moreno,Rius,2022-05-19,35,F,Domicilio,RENIEC,Infarto,250101,Soltero
+53712695,Jeremías,Canet,Moreno,2022-08-17,15,F,Clínica,RENIEC,Neumonía,190101,Divorciado
+23161945,Jordi,Revilla,Folch,2023-11-19,35,M,Clínica,Municipalidad,Cáncer,230101,Divorciado
+39616854,Candelario,Sotelo,Tormo,2021-02-24,38,M,Hospital,Hospital Regional,Infarto,180101,Casado
+68500818,Espiridión,Garzón,Sanz,2022-03-16,51,M,Vía pública,Municipalidad,Infarto,170101,Soltero
+61986593,Raúl,Cerezo,Seco,2022-05-05,96,M,Hospital,MINSA,Accidente laboral,220101,Casado
+94828438,Plinio,Lerma,Francisco,2023-07-19,0,F,Domicilio,RENIEC,Infarto,200101,Casado
+27074074,Amílcar,Barreda,Lozano,2021-11-07,83,M,Hospital,Hospital Regional,Accidente laboral,080101,Soltero
+24912833,Reyes,Solana,Segarra,2024-03-31,15,F,Domicilio,MINSA,Cáncer,240101,Soltero
+32978251,Martirio,Nuñez,Gimeno,2023-03-15,31,F,Hospital,Hospital Regional,Insuficiencia renal,180101,Divorciado
+91018650,Faustino,Domínguez,Gras,2021-06-04,17,F,Domicilio,Hospital Regional,Neumonía,180101,Casado
+65256920,Rocío,Vélez,Torrijos,2022-07-13,88,M,Hospital,MINSA,Infarto,130101,Casado
+89400640,Ainara,Sevillano,Lorenzo,2020-10-24,38,M,Clínica,MINSA,Neumonía,110101,Viudo
+67460000,Magdalena,Huerta,Huguet,2023-06-22,16,F,Hospital,Hospital Regional,COVID-19,060101,Casado
+68283876,Cruz,Girón,Company,2025-07-27,51,F,Hospital,Hospital Regional,Insuficiencia renal,050101,Casado
+10681501,Silvestre,Arregui,Arjona,2024-09-10,68,M,Hospital,Hospital Regional,Insuficiencia renal,230101,Casado
+77674770,Anastasio,Roig,Prado,2024-10-07,91,F,Clínica,Municipalidad,Accidente laboral,200101,Viudo
+23153230,Víctor,Valbuena,Hernandez,2021-05-25,100,F,Vía pública,RENIEC,Neumonía,140101,Soltero
+84958851,Marisa,Alberola,Ramos,2022-07-18,34,M,Hospital,Municipalidad,Infarto,100101,Soltero
+27812303,Plinio,Marqués,Haro,2021-06-17,46,F,Domicilio,MINSA,Accidente laboral,140101,Viudo
+12138110,Alexandra,Mayol,Cáceres,2024-08-05,1,M,Vía pública,MINSA,Cáncer,250101,Soltero
+86555214,Mariana,Amador,Sanz,2024-08-19,22,F,Vía pública,RENIEC,Neumonía,110101,Viudo
+28605786,Sandra,Ramirez,Esteban,2023-11-03,70,F,Hospital,RENIEC,Accidente de tránsito,100101,Divorciado
+94129142,Abril,Abella,Bejarano,2023-12-18,23,F,Vía pública,Municipalidad,Neumonía,200101,Viudo
+54681905,Bernarda,Antúnez,Martin,2024-04-24,1,M,Clínica,MINSA,Cáncer,190101,Viudo
+46210517,José,Galan,Berrocal,2023-07-18,6,F,Clínica,Municipalidad,Insuficiencia renal,030101,Casado
+17356698,Aránzazu,Pascual,Aznar,2021-08-19,56,F,Vía pública,Hospital Regional,COVID-19,050101,Casado
+61399349,Pío,Solana,Armas,2023-10-19,39,M,Domicilio,Municipalidad,Accidente laboral,100101,Soltero
+59181804,Gabino,Bautista,Fuentes,2021-11-13,81,M,Hospital,MINSA,Infarto,210101,Soltero
+54953500,Jorge,Carballo,Tejera,2025-08-16,10,F,Vía pública,RENIEC,Cáncer,240101,Casado
+38158070,Marisa,Gomis,Montes,2023-09-09,61,F,Hospital,Municipalidad,Infarto,220101,Casado
+45884163,Anita,Rocha,Lluch,2021-02-25,95,M,Vía pública,Hospital Regional,Accidente de tránsito,240101,Soltero
+18505267,Ramón,Ojeda,Santamaria,2024-10-28,77,F,Clínica,MINSA,Accidente de tránsito,040101,Viudo
+77303492,Belen,Casado,Soriano,2025-03-19,17,F,Hospital,Municipalidad,Cáncer,060101,Casado
+81518649,Trinidad,Manzano,Sans,2023-10-27,47,M,Domicilio,MINSA,Accidente laboral,180101,Soltero
+18808386,Godofredo,Seco,Bonet,2021-05-16,37,F,Vía pública,Hospital Regional,COVID-19,130101,Soltero
+62436517,Tomasa,Escamilla,Maldonado,2021-05-06,94,F,Clínica,Hospital Regional,Insuficiencia renal,170101,Soltero
+24678711,Fidel,Llorente,Caparrós,2021-12-12,59,F,Hospital,Hospital Regional,Infarto,220101,Divorciado
+76616115,Eutropio,Fuente,Viñas,2020-11-18,42,F,Domicilio,RENIEC,Infarto,110101,Casado
+49348536,Sigfrido,Catalán,Sáez,2023-08-22,51,F,Hospital,RENIEC,Cáncer,160101,Casado
+66388890,Vicente,Almazán,Manzanares,2022-04-19,10,M,Vía pública,RENIEC,Cáncer,150101,Casado
+18448940,Alfredo,Guerra,Vizcaíno,2023-07-19,98,F,Clínica,Municipalidad,Cáncer,110101,Viudo
+65256328,Cristina,Novoa,Morera,2024-10-28,46,F,Clínica,Hospital Regional,Infarto,030101,Divorciado
+89639062,Graciela,Salgado,Seco,2023-04-11,20,M,Domicilio,Municipalidad,Infarto,110101,Casado
+86135229,Eligio,Medina,Duarte,2022-11-25,14,M,Domicilio,RENIEC,Accidente de tránsito,060101,Divorciado
+40438156,Alondra,Peral,Maldonado,2021-02-03,95,F,Hospital,MINSA,Insuficiencia renal,130101,Divorciado
+29909634,Patricio,Luís,Sarmiento,2022-02-07,85,F,Hospital,Municipalidad,Cáncer,180101,Divorciado
+93031143,Ámbar,Cuevas,Machado,2022-03-29,87,M,Domicilio,Municipalidad,Neumonía,060101,Casado
+33536332,Primitiva,Corral,Cuéllar,2022-09-18,14,M,Hospital,MINSA,Accidente de tránsito,110101,Soltero
+25692379,Ariel,Moliner,Castañeda,2024-06-09,98,M,Hospital,Hospital Regional,Cáncer,220101,Soltero
+44951262,Rafael,Espinosa,Fuertes,2025-06-22,55,F,Domicilio,Hospital Regional,Cáncer,040101,Divorciado
+14655890,Graciela,Molins,Núñez,2021-12-12,31,M,Clínica,MINSA,COVID-19,250101,Viudo
+60051795,Vidal,Cámara,Mata,2021-09-21,89,M,Vía pública,MINSA,Cáncer,250101,Casado
+13345404,Sandalio,Valera,Codina,2024-08-02,24,M,Clínica,RENIEC,Accidente de tránsito,060101,Soltero
+52978923,Fabricio,Acosta,Vera,2023-07-05,35,M,Clínica,Municipalidad,Infarto,220101,Casado
+96871612,Julieta,Marqués,Sáez,2023-02-26,11,M,Vía pública,Municipalidad,Neumonía,020101,Casado
+87004412,Griselda,Colom,Salamanca,2023-07-28,28,F,Vía pública,Municipalidad,Infarto,170101,Divorciado
+25074747,Lupita,Tejero,Arjona,2021-11-16,82,M,Domicilio,RENIEC,COVID-19,110101,Viudo
+83948598,Demetrio,Mena,Amat,2024-02-08,44,F,Clínica,Hospital Regional,Infarto,210101,Soltero
+92882398,Prudencia,Giménez,Salmerón,2023-09-24,0,M,Domicilio,MINSA,COVID-19,160101,Viudo
+22412607,Nacho,Ballesteros,Ferrero,2025-08-26,77,M,Vía pública,MINSA,COVID-19,160101,Viudo
+80656754,Iván,Lobo,Ferrán,2020-11-18,42,F,Hospital,RENIEC,Insuficiencia renal,150101,Casado
+21219199,Bárbara,Salinas,Bonet,2025-01-16,42,F,Domicilio,Hospital Regional,Accidente de tránsito,230101,Viudo
+62938641,Guiomar,Trujillo,Moll,2025-01-15,26,F,Hospital,RENIEC,Accidente de tránsito,230101,Soltero
+17522583,Violeta,Paniagua,Puga,2021-12-12,5,M,Clínica,Municipalidad,Infarto,040101,Viudo
+67396933,Rafael,Polo,Peralta,2020-10-16,38,F,Clínica,MINSA,Infarto,200101,Casado
+48205125,Onofre,Ortega,Mena,2024-06-24,53,F,Domicilio,Hospital Regional,Cáncer,230101,Soltero
+85300576,Chucho,Garriga,Saldaña,2024-03-23,55,M,Vía pública,Municipalidad,Neumonía,170101,Soltero
+69391930,Luis,Céspedes,Rodrigo,2024-03-18,21,F,Clínica,Hospital Regional,Infarto,190101,Soltero
+28732457,Petrona,Boix,Cobo,2022-06-16,88,M,Vía pública,Municipalidad,Insuficiencia renal,180101,Soltero
+50698994,Aitana,Zapata,Naranjo,2021-04-02,21,F,Vía pública,Municipalidad,Cáncer,220101,Viudo
+89279578,Maristela,Peña,Borrego,2020-09-29,26,M,Hospital,MINSA,Neumonía,130101,Soltero
+64956876,Feliciana,Llano,Ribas,2022-03-06,65,F,Domicilio,Hospital Regional,Accidente laboral,140101,Viudo
+84600071,Óscar,Cerro,Flores,2022-04-09,90,F,Hospital,MINSA,Accidente de tránsito,080101,Casado
+61240239,Luis Miguel,Trujillo,Arnal,2023-04-05,37,M,Clínica,Hospital Regional,Accidente de tránsito,120101,Soltero
+88545322,Marco,Uribe,Silva,2022-08-07,82,M,Clínica,RENIEC,Infarto,230101,Viudo
+13602405,Máxima,Acedo,Correa,2022-12-04,80,F,Domicilio,RENIEC,Insuficiencia renal,180101,Viudo
+50288055,Felicidad,Sureda,Casanova,2023-02-19,92,M,Vía pública,Hospital Regional,COVID-19,080101,Soltero
+65989834,Gastón,Téllez,Hierro,2020-12-06,45,M,Domicilio,MINSA,COVID-19,150101,Soltero
+26019511,María Del Carmen,Lluch,Ureña,2021-04-04,92,F,Domicilio,MINSA,Accidente laboral,030101,Casado
+90381832,Marcia,Pardo,Terrón,2025-07-02,41,F,Clínica,Municipalidad,Accidente de tránsito,030101,Casado
+68528124,Ruperta,Jordá,Tamarit,2021-09-15,93,F,Domicilio,MINSA,Cáncer,040101,Divorciado
+60090353,Ariel,Alemany,Jover,2022-01-27,23,F,Clínica,MINSA,Accidente de tránsito,190101,Divorciado
+88068345,Bautista,Coll,Montenegro,2024-08-11,93,M,Domicilio,RENIEC,COVID-19,210101,Casado
+28186152,Pepe,Cárdenas,Baena,2023-01-04,50,M,Hospital,MINSA,Infarto,050101,Casado
+58474537,Simón,Palacio,Atienza,2023-02-26,58,F,Hospital,MINSA,Insuficiencia renal,150101,Soltero
+49146492,Benita,Benítez,Vilaplana,2022-05-04,48,F,Hospital,RENIEC,Accidente laboral,150101,Soltero
+94292753,Gervasio,Busquets,Diego,2025-04-25,16,M,Hospital,Hospital Regional,Accidente de tránsito,230101,Soltero
+53299559,Salud,Molina,Mascaró,2022-12-31,1,M,Domicilio,RENIEC,Accidente de tránsito,200101,Divorciado
+58656970,Clemente,Ortiz,Cobo,2020-10-19,97,F,Clínica,Hospital Regional,COVID-19,160101,Casado
+28381043,Aura,Lucena,Peralta,2024-10-24,31,M,Domicilio,RENIEC,Infarto,080101,Soltero
+65296966,Noé,Cánovas,Calatayud,2022-07-17,69,F,Hospital,Municipalidad,Accidente de tránsito,150101,Casado
+30744009,Anita,Giner,Fabra,2025-06-10,3,M,Vía pública,Municipalidad,Accidente de tránsito,110101,Viudo
+92332960,Jenny,Zaragoza,Carbonell,2024-03-28,28,F,Hospital,Municipalidad,Accidente de tránsito,250101,Casado
+71806103,Yésica,Benito,Carnero,2021-10-21,13,F,Domicilio,RENIEC,Neumonía,100101,Soltero
+12332623,Alexandra,Olivé,Mesa,2023-10-10,46,M,Hospital,MINSA,Accidente de tránsito,050101,Viudo
+28658140,Olga,Salamanca,Zabala,2023-08-07,76,M,Vía pública,MINSA,Insuficiencia renal,240101,Viudo
+33113253,Leire,Mayo,Andrade,2021-09-12,79,F,Domicilio,RENIEC,COVID-19,160101,Viudo
+39844365,Eduardo,Cisneros,González,2023-04-22,33,M,Hospital,MINSA,Accidente laboral,230101,Casado
+26823411,Hugo,Castillo,Bermudez,2024-04-20,40,M,Vía pública,Municipalidad,Insuficiencia renal,160101,Soltero
+24995099,Casemiro,Alfonso,Tomé,2024-05-10,14,F,Domicilio,MINSA,Infarto,100101,Casado
+15706527,Haroldo,Campos,Aparicio,2025-01-21,23,F,Domicilio,Hospital Regional,Cáncer,050101,Divorciado
+89614758,Benigno,Somoza,Carrera,2022-11-04,88,F,Domicilio,MINSA,Accidente laboral,230101,Casado
+15809144,Blas,Mata,Alarcón,2021-07-05,49,F,Vía pública,Municipalidad,Neumonía,180101,Casado
+26615289,Zoraida,Fuertes,Folch,2022-04-06,49,M,Vía pública,MINSA,Insuficiencia renal,040101,Casado
+57182050,Ambrosio,Botella,Coello,2023-01-18,46,M,Clínica,RENIEC,COVID-19,180101,Divorciado
+87812909,Pablo,Ortuño,Cueto,2024-12-12,17,M,Hospital,Hospital Regional,COVID-19,200101,Viudo
+92269619,Jose Antonio,Vazquez,Bayo,2021-07-13,58,M,Vía pública,MINSA,Accidente de tránsito,140101,Soltero
+87595788,María Carmen,Alcalá,Ángel,2022-07-15,95,M,Hospital,MINSA,Cáncer,150101,Divorciado
+35709072,Lope,Duarte,Acosta,2021-07-12,47,M,Hospital,RENIEC,Cáncer,220101,Casado
+38724658,Zoraida,Varela,Taboada,2023-10-22,3,M,Domicilio,MINSA,Infarto,140101,Soltero
+89105321,Gil,Sabater,Campo,2022-03-24,1,F,Clínica,MINSA,Cáncer,200101,Viudo
+57623448,Reynaldo,Rodrigo,Gargallo,2025-01-23,60,F,Domicilio,Municipalidad,Accidente laboral,230101,Soltero
+40541809,Saturnino,Carbajo,Miralles,2021-09-28,36,M,Clínica,RENIEC,Insuficiencia renal,080101,Casado
+72532267,Damián,Vizcaíno,Cerdán,2024-11-27,64,M,Hospital,Municipalidad,Accidente laboral,050101,Divorciado
+58486215,Julie,Maldonado,Armas,2021-05-22,70,F,Domicilio,MINSA,Cáncer,210101,Viudo
+54038904,Ana,Carlos,Plaza,2023-02-07,11,F,Clínica,MINSA,Cáncer,220101,Soltero
+71330222,Eli,Mesa,Saldaña,2022-08-11,28,F,Clínica,RENIEC,Accidente laboral,030101,Divorciado
+84345332,Saturnino,Manso,Roman,2022-04-18,40,F,Vía pública,MINSA,Infarto,110101,Divorciado
+19342782,Teresa,Tamarit,Pedrero,2022-03-20,24,F,Hospital,RENIEC,Infarto,110101,Viudo
+11716086,Ileana,Tur,Calzada,2024-01-23,3,M,Domicilio,MINSA,Neumonía,250101,Soltero
+68795196,Azeneth,Blázquez,Carreras,2021-11-28,27,M,Domicilio,MINSA,Neumonía,130101,Soltero
+62990697,Salvador,Cal,Domingo,2021-03-29,30,F,Hospital,RENIEC,Neumonía,160101,Soltero
+58816328,Heliodoro,Nevado,Fonseca,2024-02-17,6,F,Hospital,Hospital Regional,Infarto,110101,Viudo
+26476859,Joan,Rodriguez,Valera,2023-01-22,50,M,Domicilio,Municipalidad,Insuficiencia renal,110101,Casado
+88103795,Dorita,Llano,Páez,2023-09-20,89,M,Domicilio,Municipalidad,Insuficiencia renal,170101,Soltero
+73864322,Griselda,Quiroga,Tormo,2025-01-14,64,M,Hospital,Municipalidad,Cáncer,190101,Soltero
+47432067,Eugenio,Sanz,Campoy,2021-09-23,37,M,Clínica,Municipalidad,Infarto,230101,Soltero
+43647023,Amelia,Valencia,Gual,2021-11-01,91,M,Clínica,MINSA,Accidente laboral,210101,Viudo
+13989423,Conrado,Baena,Bayo,2024-12-04,57,M,Domicilio,Hospital Regional,COVID-19,220101,Divorciado
+13590174,Gastón,Piñeiro,Morillo,2021-12-27,5,F,Clínica,MINSA,Neumonía,220101,Soltero
+50634767,Ester,Bárcena,Benito,2025-02-10,19,F,Hospital,RENIEC,Accidente de tránsito,020101,Soltero
+76060289,Mónica,Solano,Franch,2023-03-10,63,M,Vía pública,Hospital Regional,Accidente de tránsito,020101,Casado
+98864649,Anastasia,Trujillo,Vargas,2022-11-30,8,F,Domicilio,Hospital Regional,Infarto,040101,Casado
+82804811,Olegario,Alemán,Angulo,2024-05-08,90,F,Domicilio,Municipalidad,COVID-19,030101,Casado
+25989909,Rodolfo,Sandoval,Miranda,2023-11-22,15,F,Hospital,Hospital Regional,Accidente laboral,020101,Divorciado
+69398880,Ángel,Araujo,Aparicio,2022-03-12,52,M,Vía pública,Hospital Regional,Neumonía,220101,Viudo
+84714519,Georgina,Mateo,Córdoba,2024-11-13,47,M,Vía pública,Municipalidad,COVID-19,240101,Soltero
+67805041,Eloy,Miguel,Porcel,2024-11-01,79,M,Clínica,RENIEC,Accidente de tránsito,250101,Viudo
+24681002,Cloe,Trujillo,Soriano,2024-09-26,48,M,Vía pública,RENIEC,Accidente de tránsito,060101,Divorciado
+85464643,Ricarda,Crespi,Velázquez,2021-03-01,85,M,Domicilio,Municipalidad,Cáncer,230101,Divorciado
+62530781,Juan José,Uría,Pina,2023-09-09,13,M,Clínica,RENIEC,Cáncer,050101,Casado
+48176560,Miguel Ángel,Barriga,Anaya,2021-01-27,51,F,Hospital,Hospital Regional,COVID-19,220101,Divorciado
+27206452,Pilar,Pazos,Oller,2025-08-28,27,F,Hospital,Hospital Regional,Cáncer,080101,Casado
+13610435,María Del Carmen,Nogueira,Pintor,2021-07-08,60,M,Clínica,Hospital Regional,Neumonía,080101,Divorciado
+67465077,Onofre,Palau,Requena,2023-09-05,7,F,Vía pública,Municipalidad,Accidente de tránsito,080101,Casado
+17576489,Gisela,Hidalgo,Huguet,2022-09-07,2,F,Domicilio,Hospital Regional,Insuficiencia renal,210101,Soltero
+96984204,Mateo,Blazquez,Bastida,2023-04-14,18,M,Domicilio,Municipalidad,Infarto,020101,Divorciado
+25364077,Nicolás,Doménech,Aller,2025-04-08,53,M,Domicilio,MINSA,Accidente laboral,080101,Soltero
+53770661,Anselmo,Serna,Rocamora,2025-07-09,54,F,Domicilio,MINSA,Accidente de tránsito,110101,Divorciado
+79089893,Valeria,Robledo,Lasa,2020-11-11,61,F,Clínica,Municipalidad,COVID-19,190101,Divorciado
+73042053,Dionisia,Alonso,Moliner,2023-11-26,1,M,Hospital,MINSA,COVID-19,240101,Viudo
+86551556,Rosario,Mora,Cabañas,2024-11-04,1,M,Vía pública,MINSA,Cáncer,100101,Soltero
+23429380,Jessica,Fuster,Navarrete,2024-11-30,86,F,Domicilio,RENIEC,Cáncer,200101,Divorciado
+77480448,Obdulia,Nicolás,Diaz,2023-03-28,81,M,Hospital,MINSA,Insuficiencia renal,130101,Divorciado
+58765904,Tristán,Franch,Valdés,2021-05-01,89,M,Vía pública,MINSA,COVID-19,130101,Casado
+81918425,Iker,Madrigal,Lara,2021-02-03,86,M,Domicilio,Hospital Regional,Infarto,020101,Viudo
+49905650,Consuela,Quesada,Gonzalez,2021-06-21,64,M,Vía pública,Municipalidad,Cáncer,050101,Viudo
+87603784,Claudio,Navarro,Llano,2021-04-05,45,F,Domicilio,RENIEC,Accidente de tránsito,030101,Divorciado
+86024718,Nicolasa,Talavera,Roldán,2022-06-22,47,M,Clínica,Municipalidad,Cáncer,020101,Divorciado
+56616029,Natalia,Benítez,Matas,2024-12-24,81,F,Hospital,RENIEC,Accidente laboral,250101,Soltero
+50253107,Toribio,Millán,Folch,2024-03-19,83,M,Vía pública,RENIEC,Cáncer,220101,Soltero
+63995920,José,Villalba,Santana,2025-05-07,81,F,Hospital,Hospital Regional,Accidente laboral,050101,Casado
+34239835,Socorro,Alfonso,Villalonga,2022-04-11,28,F,Vía pública,RENIEC,Accidente de tránsito,160101,Soltero
+87422596,Angelina,Garcés,Solsona,2022-12-20,44,F,Vía pública,Municipalidad,Infarto,110101,Casado
+95621026,Berta,Roura,Barreda,2025-02-17,64,F,Domicilio,Hospital Regional,COVID-19,050101,Casado
+36930522,Pánfilo,Sevillano,Coloma,2022-09-25,0,F,Hospital,RENIEC,Infarto,200101,Viudo
+30196097,Margarita,Marín,Rozas,2024-03-06,66,F,Domicilio,MINSA,Neumonía,050101,Casado
+52768905,Rosalina,Baró,Frutos,2024-03-13,71,F,Clínica,Municipalidad,Accidente laboral,080101,Divorciado
+45827376,Palmira,Madrid,Cueto,2022-11-14,16,F,Clínica,Municipalidad,COVID-19,170101,Casado
+90696029,Jonatan,Ramis,Gómez,2021-08-27,55,M,Hospital,MINSA,Neumonía,250101,Divorciado
+30127592,Gregorio,Amorós,Higueras,2023-05-01,97,F,Clínica,Hospital Regional,Accidente de tránsito,040101,Soltero
+72298460,Amalia,Rubio,Roca,2021-01-01,3,F,Hospital,MINSA,Infarto,220101,Soltero
+37110707,Feliciano,Llamas,Cerezo,2020-12-08,73,F,Hospital,MINSA,Cáncer,230101,Viudo
+44681437,Montserrat,Lobato,Echeverría,2021-01-18,23,M,Clínica,Hospital Regional,Accidente de tránsito,180101,Casado
+75208604,Micaela,Aller,Baquero,2021-05-27,92,F,Domicilio,RENIEC,COVID-19,040101,Casado
+52131585,Eligia,Martí,Bartolomé,2024-02-25,80,M,Hospital,RENIEC,Cáncer,220101,Soltero
+58779318,Hilda,Bosch,Puente,2021-11-19,13,M,Domicilio,Hospital Regional,Accidente de tránsito,040101,Soltero
+41680907,Dani,Vall,Carrillo,2025-02-16,63,F,Clínica,Municipalidad,Infarto,160101,Soltero
+99149714,Patricia,Zapata,Infante,2024-11-29,52,M,Vía pública,RENIEC,Accidente de tránsito,240101,Divorciado
+22112987,Jordán,Carvajal,Millán,2023-06-29,48,F,Vía pública,MINSA,Accidente de tránsito,020101,Soltero
+88426937,Maite,Porta,Guzman,2024-04-14,22,M,Hospital,Hospital Regional,COVID-19,160101,Soltero
+39260590,Ernesto,Campillo,Díez,2022-07-06,20,F,Hospital,MINSA,Neumonía,150101,Soltero
+46849119,Valerio,Real,Izquierdo,2021-03-01,66,M,Clínica,Hospital Regional,Infarto,130101,Soltero
+75814814,Bibiana,Perera,Carbajo,2023-05-20,41,M,Clínica,RENIEC,Insuficiencia renal,200101,Viudo
+83248658,Teo,Taboada,Hoz,2023-01-19,35,F,Clínica,RENIEC,COVID-19,180101,Viudo
+29449696,Primitivo,Talavera,Pedro,2023-04-24,59,F,Vía pública,Municipalidad,Accidente de tránsito,120101,Casado
+12828532,Filomena,Arana,Ballester,2022-09-23,25,F,Vía pública,RENIEC,Neumonía,190101,Viudo
+43954789,Carmina,Planas,Mendoza,2023-10-11,21,M,Vía pública,Municipalidad,Cáncer,050101,Viudo
+26381779,Bienvenida,Guzmán,Salas,2023-12-29,40,M,Vía pública,Municipalidad,Accidente de tránsito,190101,Viudo
+11055770,Virginia,Pozo,Jaume,2023-04-01,47,M,Vía pública,MINSA,Infarto,170101,Viudo
+22113193,Pacífica,Gutiérrez,Martorell,2022-06-24,75,F,Domicilio,Hospital Regional,Cáncer,150101,Soltero
+31505334,Yolanda,Ródenas,Molins,2024-02-23,23,F,Vía pública,MINSA,COVID-19,140101,Soltero
+14547522,Leocadio,Bernat,Tur,2024-09-11,27,F,Domicilio,MINSA,Accidente laboral,100101,Soltero
+65426729,Ángeles,Méndez,Rocamora,2021-07-17,1,F,Hospital,Hospital Regional,Accidente de tránsito,030101,Viudo
+31520919,Jovita,Julián,Velasco,2021-04-03,29,M,Vía pública,Hospital Regional,Neumonía,130101,Casado
+57225359,Sosimo,Morillo,Santana,2020-12-02,13,F,Hospital,Municipalidad,Insuficiencia renal,050101,Viudo
+16992585,Felipa,Espejo,Salcedo,2021-11-05,40,M,Clínica,RENIEC,Accidente laboral,160101,Divorciado
+10412827,Salvador,Folch,Mayoral,2023-05-11,5,F,Vía pública,RENIEC,Infarto,030101,Casado
+87283822,Celestino,Cano,Cruz,2022-10-24,76,F,Vía pública,MINSA,Neumonía,150101,Viudo
+79305456,Leyre,Castillo,Reguera,2023-05-29,2,M,Vía pública,Hospital Regional,Accidente de tránsito,060101,Soltero
+70597948,Ale,Cañellas,Juliá,2022-03-01,68,M,Domicilio,RENIEC,Infarto,160101,Soltero
+89593852,Pascuala,Morán,Luján,2022-05-19,53,F,Domicilio,Hospital Regional,Accidente laboral,110101,Divorciado
+21327835,Severino,Pedrero,Espada,2024-01-14,10,F,Vía pública,RENIEC,Cáncer,020101,Divorciado
+60643036,Perlita,Gomez,Almansa,2020-11-19,63,M,Domicilio,RENIEC,Infarto,140101,Soltero
+84964625,Flor,Granados,Borrell,2024-08-15,1,M,Hospital,Hospital Regional,Accidente laboral,050101,Casado
+36610839,Juan Francisco,Domingo,Ayala,2024-02-06,21,M,Clínica,Hospital Regional,Accidente laboral,180101,Soltero
+92947099,Timoteo,Juan,Company,2021-06-12,88,M,Domicilio,RENIEC,Infarto,080101,Viudo
+59381407,Francisco,Carpio,Alcalá,2025-02-28,9,F,Domicilio,Municipalidad,COVID-19,210101,Casado
+68406016,María Teresa,Santiago,Urrutia,2021-09-12,74,F,Hospital,MINSA,COVID-19,200101,Divorciado
+40129725,Leyre,Frutos,Farré,2022-12-15,81,F,Hospital,MINSA,Neumonía,160101,Divorciado
+48649601,Margarita,Urrutia,Piña,2021-10-18,35,F,Vía pública,MINSA,Infarto,120101,Viudo
+67889258,Roberta,Gabaldón,Garriga,2023-02-05,91,M,Domicilio,MINSA,Insuficiencia renal,230101,Casado
+35415894,Silvio,Escribano,Real,2021-12-06,88,M,Hospital,Municipalidad,Infarto,130101,Soltero
+13861862,Luis Ángel,Juárez,Gutiérrez,2024-07-11,85,M,Vía pública,Municipalidad,Accidente de tránsito,160101,Soltero
+43328672,Rafael,Sedano,Boada,2020-10-11,43,M,Domicilio,Hospital Regional,Insuficiencia renal,030101,Casado
+72932224,Eliseo,Morales,Puga,2022-06-30,64,M,Clínica,MINSA,COVID-19,060101,Divorciado
+61471888,Leandra,Rocha,Jaén,2021-04-23,79,M,Vía pública,MINSA,Infarto,120101,Divorciado
+22788187,Cecilia,Barral,Azorin,2023-07-10,21,F,Hospital,MINSA,Cáncer,250101,Soltero
+41519884,Adriana,Pablo,Arroyo,2020-09-25,30,M,Vía pública,MINSA,COVID-19,150101,Divorciado
+44045250,Anna,Piquer,Mate,2024-01-18,84,F,Domicilio,Hospital Regional,Infarto,180101,Soltero
+59781518,Eligio,Armengol,Escobar,2022-11-26,45,F,Clínica,MINSA,Cáncer,170101,Divorciado
+32799095,Anita,Ureña,Nicolau,2024-09-02,65,F,Hospital,Municipalidad,COVID-19,110101,Soltero
+27705940,Chuy,Molins,Roselló,2021-11-23,6,F,Vía pública,MINSA,COVID-19,130101,Divorciado
+44951103,Demetrio,Millán,Arregui,2021-10-11,22,F,Vía pública,Municipalidad,Infarto,240101,Soltero
+77002914,Salomé,Lucas,Palomo,2024-05-07,82,M,Hospital,MINSA,Infarto,080101,Soltero
+47973618,Vanesa,Lago,Laguna,2025-02-01,73,F,Clínica,RENIEC,Neumonía,250101,Viudo
+52011533,Tristán,Cózar,Moles,2024-11-13,28,F,Vía pública,Municipalidad,Infarto,140101,Viudo
+30302410,Cayetana,Sacristán,Baena,2022-04-18,63,M,Clínica,MINSA,COVID-19,230101,Viudo
+29947547,Baltasar,Gras,Español,2020-12-29,90,F,Hospital,RENIEC,Accidente de tránsito,170101,Divorciado
+73115555,Juan Bautista,Cárdenas,Solera,2024-05-26,94,F,Clínica,MINSA,COVID-19,240101,Soltero
+25572483,Teresa,Uría,Armas,2024-06-11,21,M,Domicilio,Municipalidad,Accidente de tránsito,150101,Divorciado
+57851319,Leire,Toro,Seco,2024-11-18,54,F,Hospital,MINSA,COVID-19,040101,Casado
+25098270,Raquel,Colomer,Casals,2023-08-31,86,M,Domicilio,Municipalidad,Neumonía,150101,Divorciado
+22559810,Herminio,Luz,Escribano,2022-02-13,31,F,Hospital,RENIEC,Accidente laboral,150101,Viudo
+78281626,Pacífica,Llamas,Garay,2025-08-27,29,M,Clínica,RENIEC,Infarto,020101,Viudo
+10553745,Begoña,Escribano,Rico,2021-05-05,57,F,Domicilio,Hospital Regional,Insuficiencia renal,160101,Viudo
+43038691,María Jesús,Valentín,Busquets,2023-06-27,46,F,Hospital,Hospital Regional,COVID-19,100101,Divorciado
+13484583,Lucas,Carro,Prado,2023-11-13,14,F,Hospital,MINSA,Cáncer,140101,Casado
+89233891,Úrsula,Camino,Morales,2021-12-30,45,F,Hospital,MINSA,Neumonía,050101,Viudo
+13875470,Ceferino,Seguí,Tena,2024-07-20,26,M,Clínica,Municipalidad,Insuficiencia renal,250101,Viudo
+94336613,Julio César,Adán,Mur,2021-01-23,80,F,Clínica,Hospital Regional,Insuficiencia renal,110101,Viudo
+98070016,Esther,Santamaría,Morcillo,2025-07-13,50,F,Domicilio,Hospital Regional,Accidente de tránsito,080101,Viudo
+27357063,Héctor,Atienza,Luna,2023-06-10,78,M,Vía pública,Municipalidad,Neumonía,110101,Viudo
+17453784,Mar,Bejarano,Pizarro,2021-06-23,14,M,Vía pública,MINSA,Cáncer,240101,Casado
+63533881,José Mari,Enríquez,Heredia,2024-01-31,66,F,Clínica,Hospital Regional,Cáncer,020101,Soltero
+21970652,Alfonso,Galindo,Cánovas,2023-12-30,37,M,Vía pública,RENIEC,Accidente de tránsito,020101,Soltero
+64008708,Lucas,Correa,Carreño,2023-03-25,6,F,Domicilio,RENIEC,Cáncer,110101,Soltero
+75880113,Nicolasa,Rosell,Menéndez,2021-10-21,6,F,Clínica,Hospital Regional,COVID-19,170101,Casado
+58190104,Graciela,Báez,Pedrero,2025-01-18,11,F,Clínica,MINSA,Cáncer,190101,Soltero
+36826266,Amelia,Salinas,Pons,2024-09-28,37,M,Hospital,Municipalidad,COVID-19,140101,Divorciado
+46034695,Chus,Rocha,Bosch,2024-04-13,54,F,Hospital,Hospital Regional,COVID-19,220101,Viudo
+59423803,Encarna,Estrada,Rovira,2024-04-24,22,F,Domicilio,MINSA,Insuficiencia renal,130101,Viudo
+22475197,Apolinar,Vilanova,Noguera,2024-08-19,17,F,Clínica,Hospital Regional,COVID-19,040101,Viudo
+40095669,Flora,Cortina,Valbuena,2025-03-05,72,F,Clínica,Municipalidad,Accidente laboral,050101,Soltero
+94498056,Flor,Zamorano,Blanes,2023-03-01,17,F,Domicilio,Hospital Regional,Cáncer,110101,Divorciado
+72843313,Ulises,Bernad,Tejedor,2023-03-31,59,F,Vía pública,Municipalidad,Infarto,180101,Soltero
+29945631,Edu,Mas,Ibarra,2025-02-20,98,F,Hospital,MINSA,Neumonía,020101,Casado
+67409191,Manolo,Asenjo,Benito,2021-01-27,74,F,Clínica,Hospital Regional,Infarto,060101,Casado
+78909330,Cándido,Vicens,Rodríguez,2024-03-15,51,M,Vía pública,Municipalidad,Accidente laboral,080101,Soltero
+22681476,Abril,Isern,Padilla,2022-11-09,7,F,Hospital,Hospital Regional,Neumonía,250101,Viudo
+88593591,Ceferino,Vara,Alegre,2021-08-28,72,F,Domicilio,RENIEC,Infarto,190101,Soltero
+98795539,Óscar,Escobar,Esparza,2024-01-12,89,M,Clínica,Municipalidad,Accidente de tránsito,140101,Casado
+16074522,Celso,Rico,Martorell,2023-05-12,38,F,Hospital,Municipalidad,Neumonía,130101,Soltero
+88813775,Lourdes,Sanz,Sandoval,2022-12-11,8,M,Clínica,RENIEC,Neumonía,250101,Casado
+55813124,Zaida,Exposito,Galván,2022-04-07,26,M,Vía pública,RENIEC,Accidente laboral,170101,Divorciado
+20498581,Margarita,Jover,Camino,2024-05-18,50,M,Hospital,Hospital Regional,Cáncer,160101,Casado
+81722733,Alejandro,Adán,Prat,2021-09-06,30,F,Vía pública,RENIEC,Cáncer,200101,Soltero
+11785713,Francisco Javier,Tejada,Seguí,2024-02-19,23,M,Clínica,MINSA,Neumonía,180101,Casado
+98277293,Marcela,Torrecilla,Mateo,2023-10-04,60,F,Domicilio,Hospital Regional,Insuficiencia renal,250101,Divorciado
+63015631,Nilda,Mate,Bonilla,2021-10-02,47,F,Vía pública,Municipalidad,Insuficiencia renal,250101,Divorciado
+28134687,Alberto,Farré,Caparrós,2020-10-28,53,F,Clínica,RENIEC,COVID-19,030101,Soltero
+35262608,Rosa María,Amor,Gallart,2024-10-12,72,F,Hospital,Hospital Regional,Infarto,230101,Divorciado
+97056735,Espiridión,Herranz,Ruano,2025-04-09,5,F,Clínica,Municipalidad,Insuficiencia renal,030101,Viudo
+35624104,Chema,Mascaró,Silva,2021-12-13,1,M,Domicilio,MINSA,COVID-19,170101,Divorciado
+73617738,Telmo,Almeida,Carnero,2022-02-07,65,M,Clínica,MINSA,COVID-19,230101,Viudo
+30457766,Mamen,Salgado,Toro,2024-09-12,58,M,Domicilio,Hospital Regional,Cáncer,040101,Divorciado
+12634395,Rosalina,Sancho,Herrera,2022-05-27,48,F,Clínica,Hospital Regional,Accidente de tránsito,100101,Viudo
+49571601,Clotilde,Pou,Azcona,2023-07-13,74,F,Hospital,RENIEC,Infarto,210101,Casado
+11056868,Cristian,Rosales,Ricart,2024-11-27,12,M,Vía pública,Municipalidad,COVID-19,140101,Casado
+87666600,Débora,Manso,Arco,2024-11-01,13,M,Vía pública,Municipalidad,Infarto,080101,Viudo
+63644191,Amalia,Vilanova,Torrents,2022-08-30,14,M,Hospital,Municipalidad,Accidente laboral,110101,Soltero
+18147644,Belén,Alfonso,Roca,2025-08-04,22,F,Hospital,Municipalidad,Cáncer,200101,Casado
+52392689,Carolina,Bartolomé,Leal,2024-03-28,25,F,Vía pública,Municipalidad,Insuficiencia renal,020101,Casado
+73530347,Demetrio,Uría,Oliver,2024-07-02,25,M,Vía pública,MINSA,Infarto,190101,Soltero
+68549800,Alfonso,Cuéllar,Maestre,2022-04-29,80,M,Clínica,RENIEC,Accidente laboral,200101,Soltero
+72980385,Omar,Ríos,Guerra,2025-01-03,46,F,Hospital,Hospital Regional,Accidente de tránsito,240101,Divorciado
+39487949,Diana,Nicolau,Solís,2021-10-21,24,M,Vía pública,Hospital Regional,COVID-19,220101,Casado
+49378681,Loreto,Portero,Riera,2023-10-03,8,F,Vía pública,Municipalidad,Accidente laboral,040101,Soltero
+73394367,Nerea,Cáceres,Galan,2023-02-03,16,F,Hospital,RENIEC,Cáncer,140101,Soltero
+21568480,Guadalupe,Tolosa,Castelló,2022-03-01,76,F,Hospital,MINSA,Accidente laboral,020101,Viudo
+36774319,Faustino,Téllez,Cabrero,2024-03-24,49,F,Hospital,MINSA,COVID-19,040101,Casado
+76266658,Marcio,Guitart,Gallart,2025-06-05,66,F,Vía pública,RENIEC,Neumonía,250101,Divorciado
+16314854,Alejandro,Palmer,Julián,2023-09-23,33,M,Hospital,Hospital Regional,Cáncer,120101,Casado
+31287665,Félix,Vara,Antón,2021-03-25,42,M,Clínica,MINSA,Neumonía,100101,Soltero
+55329991,Tito,Carbonell,González,2021-09-18,30,F,Hospital,RENIEC,COVID-19,040101,Divorciado
+85427873,Jacobo,Torrecilla,Jordá,2023-08-02,76,M,Vía pública,MINSA,COVID-19,080101,Soltero
+57679636,María José,Artigas,Lastra,2021-12-22,4,F,Clínica,Hospital Regional,Cáncer,160101,Viudo
+79174131,Elisabet,Calvet,Ayuso,2024-05-31,100,M,Hospital,RENIEC,Infarto,130101,Divorciado
+71355706,Prudencia,Cantero,Camacho,2021-07-22,87,M,Vía pública,RENIEC,Cáncer,060101,Casado
+85493830,Ariel,Vendrell,Calzada,2022-02-09,55,F,Clínica,RENIEC,Cáncer,250101,Viudo
+94547252,Desiderio,Fuertes,Pardo,2022-01-09,45,M,Domicilio,Municipalidad,Infarto,140101,Casado
+49208083,Leandra,Sala,Velasco,2024-12-05,11,M,Clínica,Municipalidad,Insuficiencia renal,180101,Soltero
+23327047,Fabio,Parra,Nadal,2021-11-11,1,M,Hospital,RENIEC,Infarto,200101,Divorciado
+26506561,Regina,Franch,Saavedra,2024-03-23,23,F,Hospital,Hospital Regional,COVID-19,220101,Casado
+10884169,Jose Luis,Sáez,Noguera,2023-02-16,37,M,Vía pública,Municipalidad,Insuficiencia renal,250101,Soltero
+77783003,Francisco Javier,Blázquez,Larrañaga,2023-11-10,9,F,Clínica,Municipalidad,Insuficiencia renal,110101,Casado
+65701512,Poncio,Higueras,Cordero,2025-03-12,56,F,Domicilio,Hospital Regional,Accidente laboral,230101,Casado
+66602596,Mirta,Gracia,Cervera,2024-05-03,67,F,Domicilio,RENIEC,Infarto,110101,Divorciado
+65486872,Zaida,Recio,Segarra,2025-01-29,90,F,Domicilio,RENIEC,Accidente de tránsito,200101,Casado
+58556533,Amor,Salas,Coello,2020-10-09,39,M,Hospital,Hospital Regional,Insuficiencia renal,200101,Soltero
+79437366,Buenaventura,Blazquez,Neira,2023-05-15,30,F,Vía pública,RENIEC,Infarto,160101,Soltero
+63908666,María Pilar,Córdoba,Roura,2021-03-18,34,F,Vía pública,Hospital Regional,Accidente laboral,040101,Soltero
+62783304,Martina,Arco,Corbacho,2025-07-30,35,F,Vía pública,RENIEC,Accidente laboral,060101,Divorciado
+17759103,Evangelina,Vizcaíno,Marqués,2024-04-03,56,M,Clínica,MINSA,Cáncer,210101,Divorciado
+63955904,Soraya,Mayo,Mir,2023-08-14,68,M,Domicilio,RENIEC,Neumonía,110101,Soltero
+11060619,Pascuala,Losa,Álamo,2021-12-09,77,F,Domicilio,MINSA,Accidente laboral,150101,Viudo
+64215650,Victor Manuel,Fuertes,Salamanca,2023-08-17,92,F,Vía pública,RENIEC,Accidente laboral,250101,Divorciado
+97074691,Sandalio,Figueroa,Mata,2021-05-28,92,F,Vía pública,Municipalidad,Neumonía,190101,Viudo
+14962052,Brígida,Nadal,Porta,2021-10-05,20,F,Vía pública,MINSA,Accidente de tránsito,150101,Viudo
+79856260,Calixta,Luz,García,2021-06-24,87,F,Hospital,MINSA,Accidente laboral,180101,Viudo
+78675400,Carmina,Miguel,Vázquez,2023-08-03,43,F,Hospital,Hospital Regional,COVID-19,120101,Viudo
+95320264,Feliciano,Alvarado,Anaya,2025-04-13,100,M,Hospital,Hospital Regional,Neumonía,240101,Viudo
+89524487,Juan,Hernández,Mateu,2024-04-14,33,M,Vía pública,Municipalidad,Infarto,030101,Soltero
+77816807,Dan,Barreda,Peralta,2022-11-25,59,M,Domicilio,Municipalidad,Insuficiencia renal,180101,Casado
+94153110,Anunciación,Pablo,Casals,2021-02-04,52,M,Hospital,Hospital Regional,Neumonía,180101,Viudo
+97370696,Edelmiro,Sanchez,Martí,2025-07-23,8,F,Clínica,Hospital Regional,Accidente laboral,120101,Viudo
+10699730,Wilfredo,Nicolau,Guzman,2025-08-20,63,M,Clínica,MINSA,Accidente de tránsito,220101,Soltero
+85913174,Lidia,Guillen,Ordóñez,2023-03-27,29,M,Hospital,MINSA,Insuficiencia renal,170101,Divorciado
+48189707,Griselda,Chaves,Pina,2025-02-09,74,F,Hospital,MINSA,Infarto,120101,Viudo
+43236783,Cruz,Mosquera,Villalonga,2025-08-23,2,F,Hospital,MINSA,COVID-19,250101,Soltero
+35844329,Pacífica,Paniagua,Santos,2021-07-10,64,F,Hospital,RENIEC,Accidente de tránsito,130101,Viudo
+29670044,Leonor,Roig,Requena,2021-05-21,73,F,Vía pública,RENIEC,Insuficiencia renal,050101,Viudo
+22381399,Bernabé,Rodríguez,Castillo,2024-09-27,18,M,Domicilio,Hospital Regional,COVID-19,050101,Viudo
+38827874,Victor Manuel,Bermejo,Peiró,2025-03-02,60,F,Hospital,MINSA,COVID-19,080101,Viudo
+64056687,Dionisia,Villena,Prat,2022-12-07,19,M,Hospital,MINSA,Accidente laboral,100101,Viudo
+88423925,Andrea,Roda,Sacristán,2024-11-07,27,F,Hospital,MINSA,Cáncer,230101,Soltero
+65958370,Palmira,Cánovas,Cobos,2024-12-28,9,M,Vía pública,RENIEC,Accidente laboral,170101,Soltero
+27062291,Amada,Seco,Castelló,2025-01-20,77,F,Vía pública,Hospital Regional,COVID-19,130101,Viudo
+81020117,Desiderio,Garcia,Sarabia,2024-09-18,31,F,Clínica,Hospital Regional,Accidente de tránsito,030101,Viudo
+14376489,Margarita,Crespo,Peiró,2021-09-12,95,M,Clínica,Municipalidad,Insuficiencia renal,050101,Viudo
+90745413,Reyes,Real,Canet,2021-09-19,10,F,Hospital,Hospital Regional,Insuficiencia renal,160101,Casado
+59604988,Concha,Manjón,Arjona,2025-02-19,57,F,Clínica,MINSA,Neumonía,140101,Divorciado
+30576183,Desiderio,Pera,Mayol,2023-11-16,86,M,Domicilio,Hospital Regional,COVID-19,100101,Soltero
+50702879,Macario,Torre,Anaya,2021-11-26,10,F,Vía pública,MINSA,Neumonía,160101,Casado
+29077681,Miguela,Robles,Atienza,2023-04-15,23,F,Hospital,MINSA,Infarto,050101,Viudo
+48048350,Ildefonso,España,Torrijos,2020-09-15,97,F,Hospital,MINSA,Accidente laboral,080101,Divorciado
+26418573,Carla,Oller,Bauzà,2021-01-25,3,M,Hospital,MINSA,Neumonía,170101,Divorciado
+66045988,Alicia,Menendez,Santamaria,2023-07-25,54,F,Clínica,Municipalidad,Insuficiencia renal,180101,Casado
+60641104,Aitana,Cazorla,Chacón,2024-12-25,91,F,Hospital,Hospital Regional,Accidente laboral,100101,Soltero
+95424250,Édgar,Sandoval,Sanchez,2021-12-15,92,M,Hospital,Hospital Regional,Cáncer,050101,Divorciado
+53649791,Chuy,Recio,Ponce,2022-09-02,94,F,Domicilio,Municipalidad,Insuficiencia renal,200101,Casado
+63069304,Norberto,Arroyo,Salazar,2023-01-18,92,M,Clínica,RENIEC,Neumonía,190101,Viudo
+96693449,Chus,Daza,Amat,2025-07-22,86,F,Vía pública,Hospital Regional,Cáncer,210101,Viudo
+94571826,Natividad,Mendizábal,Casals,2025-06-12,98,M,Clínica,Hospital Regional,Cáncer,100101,Soltero
+21428912,Guadalupe,Baena,Vélez,2022-04-20,72,F,Domicilio,Hospital Regional,Cáncer,100101,Casado
+73865585,Ani,Alfonso,Carreño,2025-03-19,18,M,Clínica,Municipalidad,Neumonía,120101,Viudo
+34124750,Alejo,Llopis,Fuster,2022-10-11,12,F,Domicilio,MINSA,Infarto,020101,Viudo
+87786253,Vicente,Blazquez,Montes,2024-02-09,62,F,Clínica,MINSA,COVID-19,120101,Soltero
+89039884,Artemio,Tur,Alvarado,2023-08-01,29,F,Clínica,RENIEC,Accidente de tránsito,180101,Casado
+68655485,Geraldo,Ribera,Amador,2025-03-07,3,M,Clínica,RENIEC,Cáncer,150101,Viudo
+52598349,Roberto,Jimenez,Bou,2021-08-31,26,F,Vía pública,Municipalidad,Neumonía,200101,Divorciado
+23332334,Camila,Diéguez,Machado,2021-11-30,37,M,Hospital,Municipalidad,Cáncer,160101,Viudo
+34517408,José Mari,Borrás,Correa,2023-04-20,11,M,Domicilio,RENIEC,COVID-19,040101,Casado
+64663717,Irene,Dominguez,Barral,2023-06-16,93,M,Domicilio,MINSA,Neumonía,100101,Viudo
+34354859,Amando,Barragán,Martí,2024-01-03,58,M,Domicilio,RENIEC,Cáncer,250101,Viudo
+23253224,Miguel,Cisneros,Rey,2023-06-13,24,M,Hospital,MINSA,Accidente de tránsito,190101,Divorciado
+44619354,Remigio,Carrillo,Azorin,2022-05-31,28,M,Domicilio,Municipalidad,Accidente de tránsito,160101,Casado
+42161649,Marina,Guzmán,Ureña,2025-01-06,93,F,Domicilio,MINSA,Accidente de tránsito,230101,Soltero
+77702274,Rogelio,Cardona,Leon,2021-03-16,66,M,Hospital,Municipalidad,Infarto,160101,Casado
+52726394,Abril,Ramírez,Bastida,2024-10-22,90,M,Hospital,Municipalidad,Insuficiencia renal,120101,Divorciado
+13879756,Saturnino,Guillen,Alfonso,2022-12-24,80,M,Domicilio,Municipalidad,Neumonía,240101,Casado
+84366722,Delia,Cadenas,Hoz,2025-05-29,38,M,Domicilio,Municipalidad,Cáncer,230101,Divorciado
+97449682,Mireia,Casas,Mayo,2025-07-10,76,F,Vía pública,Hospital Regional,Infarto,140101,Soltero
+64592513,Victor Manuel,Blanes,Vall,2022-06-03,96,F,Vía pública,Municipalidad,COVID-19,140101,Divorciado
+29108179,Raúl,Diéguez,Higueras,2025-04-06,14,M,Vía pública,Hospital Regional,Insuficiencia renal,250101,Viudo
+66875091,Viviana,Sans,Arnaiz,2020-09-12,89,F,Clínica,Municipalidad,Accidente laboral,160101,Divorciado
+72364542,Paula,Mancebo,Diego,2020-09-10,87,M,Hospital,Hospital Regional,COVID-19,170101,Casado
+18076555,África,Toledo,Llano,2022-10-28,100,F,Hospital,Hospital Regional,COVID-19,240101,Viudo
+61023340,Pascual,Garcia,Vicens,2023-01-31,52,F,Vía pública,Municipalidad,Cáncer,120101,Soltero
+16104857,Felix,Becerra,Mas,2021-06-14,34,F,Clínica,Hospital Regional,Insuficiencia renal,080101,Viudo
+63056925,Jovita,Casado,Chaves,2025-06-03,57,F,Clínica,MINSA,Neumonía,130101,Soltero
+47508257,Selena,Rosales,Galvez,2024-12-25,78,F,Clínica,RENIEC,Insuficiencia renal,150101,Divorciado
+52722031,Soledad,Noriega,Jurado,2024-07-16,11,F,Domicilio,RENIEC,Insuficiencia renal,080101,Casado
+46643203,Jose Luis,Montoya,Noguera,2022-06-25,46,M,Clínica,Municipalidad,Accidente laboral,140101,Viudo
+71713222,Elena,Moya,Alcázar,2021-10-29,20,F,Domicilio,Municipalidad,Accidente de tránsito,180101,Casado
+96764149,Ágata,Abril,Tamayo,2020-09-22,1,M,Hospital,RENIEC,Neumonía,060101,Divorciado
+11285619,Hortensia,Durán,Reyes,2025-06-01,5,M,Domicilio,Hospital Regional,Infarto,140101,Casado
+75629343,María Belén,Pozo,Bertrán,2021-05-07,4,F,Hospital,Municipalidad,Insuficiencia renal,060101,Casado
+82296289,Américo,Salgado,Casal,2023-09-10,94,F,Hospital,RENIEC,Infarto,170101,Divorciado
+60516391,Pastora,Palma,Pombo,2022-03-13,2,M,Clínica,RENIEC,Insuficiencia renal,190101,Divorciado
+11131640,Edelmiro,Sevillano,Pellicer,2022-05-01,24,F,Domicilio,Municipalidad,Neumonía,150101,Viudo
+69670203,Agapito,Giralt,Aller,2023-01-30,35,F,Clínica,RENIEC,COVID-19,230101,Divorciado
+58025924,Gregorio,Bosch,Mateo,2022-07-28,48,F,Vía pública,RENIEC,Accidente de tránsito,050101,Viudo
+41441568,Ana,Parejo,Arco,2023-01-29,61,F,Clínica,Municipalidad,Infarto,160101,Divorciado
+76147579,Verónica,Gallart,Aguilar,2022-05-11,47,M,Vía pública,MINSA,Neumonía,150101,Divorciado
+95689443,Ruy,Cantero,Lobato,2025-07-13,98,M,Vía pública,Hospital Regional,Cáncer,190101,Soltero
+77152570,Ana,Donaire,Ferrer,2025-07-02,82,F,Domicilio,MINSA,Accidente laboral,230101,Soltero
+90929605,Clara,Echevarría,Bas,2021-10-12,12,M,Clínica,Municipalidad,Neumonía,140101,Soltero
+18730772,Edu,Jover,Goñi,2025-02-20,18,F,Vía pública,MINSA,Infarto,160101,Viudo
+46819677,Gregorio,Alvarado,Iriarte,2025-06-15,52,F,Domicilio,MINSA,Infarto,100101,Divorciado
+70924933,Abilio,Roldán,Azorin,2023-06-09,0,F,Clínica,Municipalidad,Neumonía,160101,Viudo
+68055632,Rafaela,Ramírez,Lledó,2021-09-22,83,M,Domicilio,Municipalidad,Insuficiencia renal,160101,Soltero
+79564413,Adelaida,Valbuena,Pardo,2025-02-02,13,F,Hospital,Municipalidad,Accidente de tránsito,150101,Casado
+15833729,Soledad,Gomez,Arévalo,2023-01-20,66,M,Clínica,MINSA,Cáncer,250101,Soltero
+66379776,Berta,Sanchez,Molina,2020-09-25,54,F,Clínica,Municipalidad,Accidente de tránsito,180101,Divorciado
+62594409,Guiomar,Nadal,Bilbao,2025-07-21,51,M,Domicilio,RENIEC,Cáncer,020101,Viudo
+13405363,Malena,Gonzalez,Roda,2021-04-28,66,F,Domicilio,MINSA,Accidente de tránsito,020101,Casado
+43552306,Haroldo,Córdoba,Mur,2023-05-02,78,F,Domicilio,Municipalidad,Cáncer,130101,Viudo
+18434795,Eugenia,Caballero,Anaya,2024-10-09,95,M,Clínica,Municipalidad,Infarto,100101,Divorciado
+67975205,Nuria,Amador,Múñiz,2022-10-26,22,M,Vía pública,RENIEC,Infarto,020101,Casado
+43172390,Cándido,Sáenz,Gómez,2023-08-03,25,M,Vía pública,Hospital Regional,Infarto,080101,Divorciado
+17305854,Paca,Múgica,Vizcaíno,2022-09-14,76,M,Hospital,Hospital Regional,Insuficiencia renal,180101,Casado
+19785926,Maura,Ródenas,Bustos,2024-06-27,44,M,Clínica,Hospital Regional,COVID-19,050101,Viudo
+87703269,Edelmiro,Boada,Barrera,2020-12-21,47,F,Domicilio,MINSA,Infarto,190101,Casado
+60653117,Matías,Bas,Castell,2021-03-20,13,M,Domicilio,MINSA,COVID-19,190101,Soltero
+69313284,Bartolomé,Mata,Rosales,2021-04-01,16,F,Domicilio,Hospital Regional,Accidente laboral,220101,Divorciado
+23667066,Inés,Barba,Azorin,2023-03-14,26,M,Hospital,MINSA,Accidente de tránsito,040101,Casado
+61198088,Samu,Báez,Reig,2022-09-03,18,M,Vía pública,RENIEC,COVID-19,040101,Soltero
+90473708,Mirta,Alarcón,Santana,2023-12-15,17,F,Vía pública,Municipalidad,COVID-19,020101,Soltero
+72305089,Natalia,Roman,Cadenas,2023-07-31,30,F,Vía pública,Municipalidad,Insuficiencia renal,160101,Viudo
+97365194,Imelda,Amo,Santiago,2025-02-01,39,F,Hospital,MINSA,Accidente de tránsito,230101,Viudo
+54049408,Diana,Fernández,Campoy,2021-07-25,91,M,Vía pública,Municipalidad,Cáncer,120101,Soltero
+11649345,Dulce,Bauzà,Ferrer,2025-07-25,71,F,Domicilio,MINSA,Infarto,110101,Divorciado
+26908967,Febe,Verdú,Jaén,2023-09-18,98,F,Vía pública,MINSA,Neumonía,180101,Casado
+66506603,Alicia,Sales,Estevez,2022-10-04,48,F,Clínica,RENIEC,Accidente de tránsito,030101,Viudo
+28478117,Nayara,Arregui,Barrena,2021-10-10,67,M,Hospital,Hospital Regional,COVID-19,250101,Viudo
+51831217,Daniela,Ruano,Vilalta,2023-09-25,32,M,Domicilio,RENIEC,Insuficiencia renal,120101,Divorciado
+51766978,Dalila,Coello,Colom,2024-09-06,50,M,Domicilio,Hospital Regional,Insuficiencia renal,080101,Soltero
+51429578,Elisa,Novoa,Manuel,2023-10-29,91,F,Vía pública,Municipalidad,Accidente de tránsito,160101,Soltero
+11084726,Aura,Coca,Barceló,2022-09-16,4,F,Hospital,MINSA,Insuficiencia renal,210101,Casado
+78062865,Olivia,Ballester,Roca,2023-08-13,10,F,Hospital,RENIEC,Cáncer,230101,Soltero
+36227100,Herberto,Fortuny,Bayona,2023-08-06,40,M,Domicilio,MINSA,Insuficiencia renal,220101,Soltero
+35414874,Guadalupe,Tamarit,Solsona,2023-07-04,42,F,Clínica,Hospital Regional,Neumonía,150101,Divorciado
+87632976,Clarisa,Narváez,Marí,2024-04-01,53,M,Hospital,MINSA,Accidente laboral,170101,Casado
+54106502,Fermín,Calvo,Santos,2021-01-18,93,F,Hospital,MINSA,Cáncer,080101,Viudo
+76562688,Isidoro,Acevedo,Gisbert,2022-08-25,77,M,Vía pública,MINSA,Insuficiencia renal,150101,Viudo
+72617503,Estrella,Garcés,Haro,2024-10-11,35,F,Hospital,Hospital Regional,Cáncer,190101,Soltero
+54495204,Noemí,Peña,Fuertes,2024-02-04,72,F,Hospital,RENIEC,Infarto,210101,Soltero
+34728879,Paola,Agudo,Parejo,2020-10-09,23,F,Hospital,MINSA,Accidente laboral,150101,Casado
+19896028,Pepito,Andrés,Cardona,2021-11-25,81,F,Vía pública,RENIEC,Insuficiencia renal,140101,Viudo
+49000479,Valerio,Ferreras,Palomino,2021-01-23,87,M,Clínica,Hospital Regional,Infarto,060101,Viudo
+13984330,Heliodoro,Figuerola,Luz,2022-03-04,22,F,Clínica,Hospital Regional,Cáncer,140101,Casado
+39386305,Sonia,Juárez,Dávila,2023-07-31,34,M,Clínica,Hospital Regional,COVID-19,030101,Viudo
+84424395,Jose Luis,Escalona,Ferrández,2020-11-14,11,F,Domicilio,Hospital Regional,COVID-19,230101,Divorciado
+33632711,Pía,Juárez,Cadenas,2020-11-13,80,M,Hospital,Municipalidad,Accidente de tránsito,180101,Casado
+28420515,Reynaldo,Cantero,Nevado,2022-06-24,89,F,Domicilio,Hospital Regional,Accidente de tránsito,100101,Viudo
+50946121,Yago,Heredia,Pelayo,2023-11-09,11,M,Domicilio,MINSA,Cáncer,120101,Soltero
+98705666,Francisco Javier,Águila,Roura,2021-03-31,14,M,Vía pública,MINSA,Cáncer,190101,Viudo
+25903904,Ernesto,Castrillo,Falcó,2022-04-27,47,F,Hospital,Hospital Regional,Insuficiencia renal,250101,Viudo
+81478283,Reyes,Perelló,Monreal,2024-05-05,1,M,Vía pública,Municipalidad,COVID-19,100101,Soltero
+95381661,Jose Ignacio,Arteaga,Fajardo,2025-03-30,23,F,Domicilio,MINSA,Cáncer,180101,Casado
+49484539,Montserrat,Comas,Mosquera,2022-10-16,96,M,Vía pública,Municipalidad,Neumonía,190101,Divorciado
+17148298,Eva,Losada,Cases,2025-01-05,93,F,Vía pública,MINSA,COVID-19,110101,Viudo
+88394188,Soraya,Torrijos,Gallart,2021-05-19,61,F,Domicilio,RENIEC,Accidente de tránsito,170101,Soltero
+73171894,Morena,Barón,Diego,2025-01-06,53,F,Domicilio,Municipalidad,Neumonía,150101,Casado
+62092026,Maricruz,Verdú,Perelló,2024-12-06,65,M,Domicilio,MINSA,Neumonía,200101,Casado
+79644554,Abril,Escamilla,Montserrat,2023-11-14,84,F,Hospital,RENIEC,COVID-19,200101,Viudo
+80528150,Jordana,Tomas,Uría,2024-09-19,58,F,Clínica,Municipalidad,Infarto,240101,Casado
+46015375,Cándida,Quero,Arce,2022-06-14,25,M,Domicilio,Hospital Regional,Infarto,210101,Casado
+39464318,Teresa,Franco,Sans,2022-09-07,26,F,Hospital,MINSA,Accidente de tránsito,240101,Viudo
+63136795,Isaías,Maza,Rodríguez,2023-11-24,0,F,Clínica,Hospital Regional,Infarto,160101,Divorciado
+86688035,Faustino,Perelló,Iñiguez,2025-05-16,89,M,Vía pública,Municipalidad,Accidente laboral,030101,Casado
+21376149,Eloy,Blasco,Marquez,2024-06-21,97,M,Vía pública,MINSA,COVID-19,200101,Divorciado
+79634938,Pastor,Grau,Armengol,2024-08-24,98,F,Domicilio,Municipalidad,Neumonía,060101,Soltero
+78754653,Ester,Navarrete,Rojas,2024-07-11,44,F,Hospital,MINSA,Neumonía,210101,Casado
+72753631,Toni,Rebollo,Pedrero,2024-12-02,47,F,Domicilio,RENIEC,Neumonía,220101,Divorciado
+52549761,Leandro,Piñeiro,Amat,2022-03-20,9,M,Clínica,Municipalidad,Accidente de tránsito,080101,Casado
+69282426,Joaquín,Lara,Benitez,2023-09-29,38,F,Hospital,Hospital Regional,Cáncer,230101,Casado
+21062025,Macario,Valls,Vilalta,2025-05-04,54,M,Domicilio,Hospital Regional,Cáncer,240101,Divorciado
+96389831,Cayetano,Lloret,Goñi,2021-07-11,4,F,Vía pública,MINSA,Accidente de tránsito,060101,Soltero
+25916596,Calixto,Palomino,Arenas,2025-05-02,59,M,Domicilio,RENIEC,Insuficiencia renal,060101,Soltero
+36884696,Nazario,Ferrándiz,Mur,2022-10-25,20,F,Clínica,Municipalidad,Insuficiencia renal,030101,Soltero
+50629797,Marcia,Llobet,Farré,2021-11-11,62,F,Vía pública,RENIEC,COVID-19,050101,Viudo
+82897088,Ximena,Julián,Aguirre,2023-03-28,94,M,Vía pública,Hospital Regional,Accidente laboral,160101,Viudo
+47828631,Pacífica,Olivares,Quintero,2024-02-21,68,F,Hospital,MINSA,Cáncer,180101,Divorciado
+87840078,Marita,Albero,Suarez,2025-01-18,86,M,Clínica,RENIEC,COVID-19,190101,Viudo
+30036175,Rosenda,Puga,Goñi,2022-08-15,25,F,Vía pública,RENIEC,Cáncer,020101,Soltero
+38168948,Ainoa,Guillen,Villalobos,2025-09-06,15,F,Vía pública,Hospital Regional,Infarto,220101,Viudo
+84170763,Marita,Solís,Serra,2023-08-03,32,F,Domicilio,Hospital Regional,Accidente laboral,150101,Viudo
+21526062,Matías,Expósito,Romeu,2024-03-29,22,F,Domicilio,Municipalidad,Infarto,030101,Viudo
+38129989,Valentín,Sandoval,Andrés,2023-11-17,38,M,Hospital,Hospital Regional,Insuficiencia renal,080101,Divorciado
+28649583,Crescencia,Castellanos,Mayoral,2020-10-09,31,M,Hospital,RENIEC,Accidente de tránsito,200101,Divorciado
+77082048,Nélida,Pacheco,Nicolás,2022-08-10,55,F,Domicilio,Municipalidad,Insuficiencia renal,220101,Casado
+66257000,Teodoro,Quintanilla,Marí,2023-06-19,93,F,Hospital,RENIEC,COVID-19,110101,Soltero
+88779778,Alonso,Antón,Chamorro,2021-12-30,18,M,Vía pública,RENIEC,COVID-19,230101,Viudo
+54325475,Clementina,Portillo,Piquer,2022-06-05,54,F,Hospital,MINSA,Insuficiencia renal,120101,Soltero
+62430296,Bernardo,Pomares,Fabra,2024-09-23,55,M,Clínica,Hospital Regional,COVID-19,220101,Casado
+24581193,Nando,Sanmiguel,Mayo,2021-06-25,88,M,Domicilio,Municipalidad,Accidente de tránsito,050101,Viudo
+33008094,Cristóbal,Elías,Antón,2024-11-05,95,M,Domicilio,RENIEC,Neumonía,060101,Casado
+13602203,Glauco,Flor,Baños,2023-12-21,86,F,Domicilio,RENIEC,Cáncer,130101,Soltero
+48093356,Hernán,Guijarro,Manuel,2025-02-24,100,F,Clínica,Hospital Regional,COVID-19,030101,Viudo
+19392480,Wálter,Barceló,Pedrosa,2025-02-06,12,M,Clínica,RENIEC,Insuficiencia renal,100101,Casado
+11482715,Francisco Javier,Morillo,Reig,2024-01-07,8,F,Vía pública,Municipalidad,Insuficiencia renal,220101,Viudo
+31076941,Dan,Castelló,Ripoll,2024-10-03,69,F,Vía pública,RENIEC,COVID-19,100101,Viudo
+19229212,Roque,Fábregas,Castillo,2022-06-10,44,F,Clínica,Municipalidad,Accidente laboral,160101,Casado
+51574904,Toni,Taboada,Cuenca,2025-07-31,68,M,Vía pública,Hospital Regional,Cáncer,080101,Soltero
+51649604,Diana,Franco,Valverde,2024-08-04,80,F,Domicilio,RENIEC,Accidente de tránsito,170101,Viudo
+46969062,Heriberto,Aguilera,Clavero,2024-06-24,38,F,Domicilio,Municipalidad,Insuficiencia renal,030101,Soltero
+18585913,Paloma,Pujol,Huerta,2025-02-28,19,M,Domicilio,Municipalidad,Cáncer,150101,Viudo
+54143064,Visitación,Tudela,Seguí,2024-08-16,71,F,Clínica,Municipalidad,Neumonía,200101,Divorciado
+87327229,Aníbal,Bou,Maestre,2024-07-27,77,M,Hospital,Municipalidad,Accidente de tránsito,130101,Soltero
+56544270,Juanita,Martorell,Portillo,2022-03-07,73,F,Clínica,MINSA,Accidente laboral,060101,Divorciado
+65707438,Josep,Escobar,Rosales,2024-08-01,45,M,Vía pública,Hospital Regional,COVID-19,110101,Soltero
+61628861,Visitación,Español,Bustos,2024-01-14,85,F,Vía pública,MINSA,Accidente laboral,060101,Divorciado
+15860545,Jose,Cruz,Llanos,2025-04-06,96,F,Domicilio,Municipalidad,Accidente de tránsito,210101,Divorciado
+49176757,Griselda,Batlle,Gaya,2024-11-20,36,M,Domicilio,Municipalidad,Insuficiencia renal,210101,Soltero
+65200819,María Belén,Carrión,Peinado,2021-05-04,49,F,Vía pública,Municipalidad,Accidente de tránsito,230101,Soltero
+24123001,Anna,Moreno,Redondo,2024-07-11,79,M,Clínica,RENIEC,Neumonía,190101,Divorciado
+32124330,José Antonio,Galan,Velasco,2021-01-25,2,F,Clínica,MINSA,Neumonía,230101,Divorciado
+72031070,Amando,Beltran,Serrano,2023-12-07,87,M,Domicilio,RENIEC,Insuficiencia renal,220101,Divorciado
+56124957,Marcia,Pujol,Ferreras,2024-01-24,70,M,Clínica,Municipalidad,COVID-19,140101,Casado
+15070029,Agustín,Iglesia,Carbó,2021-11-07,60,M,Domicilio,MINSA,COVID-19,040101,Soltero
+53904009,Herminia,Simó,Tormo,2024-08-12,26,F,Vía pública,MINSA,Insuficiencia renal,220101,Divorciado
+19158638,Celestino,Herrera,Río,2021-11-18,30,M,Vía pública,RENIEC,Accidente laboral,220101,Viudo
+73188059,Otilia,Lorenzo,Cuéllar,2022-02-21,20,M,Vía pública,RENIEC,Infarto,080101,Divorciado
+12424794,Elvira,Cabrera,Elorza,2023-03-11,66,F,Vía pública,RENIEC,Accidente laboral,050101,Viudo
+26663316,Bienvenida,Portillo,Diéguez,2021-05-08,91,M,Hospital,Municipalidad,Cáncer,080101,Viudo
+11504663,Inés,Llano,Corral,2024-06-09,50,M,Domicilio,Municipalidad,Insuficiencia renal,170101,Divorciado
+58061622,Gaspar,Gascón,Aramburu,2025-03-20,54,M,Hospital,MINSA,Accidente laboral,120101,Soltero
+39013376,Vasco,Asenjo,Yáñez,2021-07-25,92,M,Domicilio,Municipalidad,Insuficiencia renal,100101,Casado
+62427912,Jenny,Mendez,Saldaña,2021-02-18,31,F,Clínica,Hospital Regional,Infarto,100101,Soltero
+90289763,Adalberto,Atienza,Pi,2022-05-28,58,F,Clínica,Hospital Regional,COVID-19,020101,Divorciado
+43514137,Reinaldo,Gómez,Folch,2021-06-19,42,F,Domicilio,Hospital Regional,Neumonía,080101,Casado
+12152643,Tadeo,Anaya,Alcaraz,2023-07-23,18,F,Hospital,MINSA,COVID-19,190101,Viudo
+35790180,Irma,Barroso,Giménez,2021-07-06,91,F,Domicilio,MINSA,Neumonía,230101,Viudo
+99135168,Florencio,Diego,Arregui,2024-03-23,60,F,Domicilio,MINSA,Insuficiencia renal,200101,Casado
+78786599,Cándido,Morillo,Mora,2025-06-21,77,F,Vía pública,Hospital Regional,Insuficiencia renal,140101,Soltero
+94125851,Goyo,Galan,Prats,2024-04-30,27,F,Clínica,RENIEC,COVID-19,110101,Divorciado
+26214033,Jesús,García,Camacho,2023-09-21,61,M,Domicilio,MINSA,Neumonía,170101,Viudo
+53401695,Fulgencio,Alcolea,Quesada,2023-05-19,66,F,Vía pública,Municipalidad,Insuficiencia renal,210101,Divorciado
+11608113,Roque,Garcia,Segarra,2022-07-24,22,F,Vía pública,RENIEC,Insuficiencia renal,040101,Viudo
+18860555,Gema,Lopez,Peinado,2021-01-23,28,F,Clínica,MINSA,Accidente de tránsito,120101,Soltero
+19037049,Sonia,Gil,Reig,2023-04-03,83,M,Domicilio,Municipalidad,Cáncer,190101,Soltero
+90378849,Angelina,Cal,Duarte,2022-10-31,95,M,Clínica,Hospital Regional,Insuficiencia renal,080101,Divorciado
+22716400,Eli,Morata,Pont,2021-10-27,80,M,Domicilio,RENIEC,COVID-19,180101,Soltero
+54566533,Gabino,Monreal,Toledo,2021-04-06,7,F,Clínica,MINSA,COVID-19,210101,Casado
+54977061,Alejandro,Sanchez,Piñeiro,2025-01-13,29,F,Clínica,RENIEC,Neumonía,120101,Viudo
+95978796,Manuela,Guerrero,Vara,2025-09-08,11,M,Hospital,MINSA,Neumonía,020101,Soltero
+11783979,Joan,Almazán,Casanova,2023-04-26,26,M,Clínica,Municipalidad,Cáncer,250101,Soltero
+41728577,Malena,Romero,Hervia,2021-05-13,40,M,Clínica,Municipalidad,Infarto,030101,Soltero
+18042731,Emigdio,Perera,Valenzuela,2023-03-19,60,M,Hospital,MINSA,Neumonía,160101,Viudo
+37113563,Evaristo,Peña,Fuente,2021-01-04,72,M,Vía pública,RENIEC,Insuficiencia renal,030101,Casado
+41952404,Águeda,Salcedo,Mulet,2021-10-31,75,F,Hospital,Hospital Regional,Accidente laboral,050101,Viudo
+47329499,Maximino,Ariño,Viñas,2024-03-21,63,M,Domicilio,Municipalidad,Neumonía,020101,Viudo
+96979318,Odalis,Maldonado,Alvarez,2022-08-21,33,M,Domicilio,Hospital Regional,Insuficiencia renal,180101,Viudo
+54462343,Octavio,Herrera,Fuster,2025-04-11,80,F,Hospital,MINSA,Cáncer,150101,Viudo
+17257686,Victoria,Hurtado,Girón,2023-12-08,65,F,Vía pública,MINSA,Accidente de tránsito,040101,Divorciado
+79990777,Modesto,Español,Salamanca,2020-09-27,86,F,Hospital,Municipalidad,COVID-19,230101,Casado
+18672730,Ruth,Tur,Becerra,2022-04-29,24,M,Clínica,MINSA,COVID-19,170101,Viudo
+16993664,Fabiana,Cid,Fuente,2021-10-04,40,F,Hospital,Hospital Regional,Neumonía,130101,Casado
+22315737,Fulgencio,Fuente,Guzman,2025-01-02,41,M,Clínica,Municipalidad,Accidente laboral,210101,Casado
+20491063,Teodosio,Solera,Merino,2022-02-01,78,M,Domicilio,Municipalidad,Insuficiencia renal,220101,Divorciado
+36512868,Jose Ignacio,Rodrigo,Egea,2022-10-22,99,F,Clínica,Hospital Regional,Cáncer,020101,Viudo
+50681488,Lucho,Sanabria,Fortuny,2023-01-01,18,F,Domicilio,Hospital Regional,Accidente laboral,100101,Divorciado
+74581639,Cebrián,Palomares,Puig,2023-11-26,39,F,Vía pública,Municipalidad,Infarto,060101,Soltero
+32517176,Adriana,Sainz,Rocamora,2024-12-26,52,F,Clínica,Municipalidad,Accidente laboral,120101,Soltero
+91791507,Macaria,Rosselló,Costa,2024-10-15,90,M,Clínica,Hospital Regional,COVID-19,110101,Soltero
+12658997,María Belén,Pizarro,Roma,2021-05-25,41,F,Vía pública,Hospital Regional,Neumonía,180101,Casado
+50296396,Dulce,Corominas,Echevarría,2022-11-17,27,F,Domicilio,RENIEC,Infarto,140101,Casado
+61063166,Abigaíl,Maza,Santana,2023-02-05,41,F,Vía pública,RENIEC,Accidente laboral,240101,Divorciado
+60351362,Chita,Terrón,Bello,2023-07-11,88,F,Clínica,Hospital Regional,Neumonía,190101,Divorciado
+28341704,Ligia,Soria,Ferrán,2022-01-02,7,M,Hospital,Hospital Regional,COVID-19,180101,Viudo
+35451146,Adalberto,Alberto,Valle,2023-11-15,56,F,Hospital,Municipalidad,Accidente de tránsito,040101,Viudo
+75961801,Sandalio,Ricart,Prat,2023-11-12,99,F,Clínica,MINSA,Neumonía,020101,Casado
+61544630,Amelia,Mena,Belda,2024-03-02,71,M,Vía pública,MINSA,COVID-19,190101,Viudo
+15211257,África,Casanova,Plaza,2025-07-02,71,F,Hospital,MINSA,Accidente laboral,040101,Viudo
+31791910,Guillermo,Rubio,Jara,2023-08-27,46,F,Clínica,MINSA,COVID-19,030101,Casado
+78398476,Leire,Torres,Pedrosa,2021-03-07,58,F,Domicilio,MINSA,Insuficiencia renal,120101,Viudo
+97363169,Rogelio,Rodrigo,Huerta,2022-10-01,77,M,Clínica,RENIEC,Insuficiencia renal,050101,Divorciado
+74119239,Andrés,Pardo,Anaya,2021-12-12,50,F,Hospital,RENIEC,Neumonía,110101,Soltero
+45075212,Elodia,Sarabia,Colom,2022-11-08,72,F,Hospital,Hospital Regional,Accidente laboral,180101,Divorciado
+43207452,Eligia,Cuéllar,Alberola,2021-09-06,36,F,Hospital,RENIEC,Neumonía,040101,Soltero
+22389075,Fidela,Planas,Puga,2025-09-04,68,M,Hospital,Municipalidad,Neumonía,230101,Casado
+20784168,Aura,Fabregat,Rocha,2022-02-06,96,M,Vía pública,Hospital Regional,Cáncer,030101,Casado
+67293719,José Antonio,Matas,Valle,2025-03-23,83,F,Hospital,MINSA,Insuficiencia renal,190101,Viudo
+98380502,Soraya,Piñeiro,Mena,2024-03-10,58,F,Hospital,Municipalidad,Neumonía,020101,Soltero
+21928391,César,Ocaña,Clavero,2022-12-23,79,F,Hospital,RENIEC,Accidente de tránsito,100101,Divorciado
+38122043,Marianela,Puig,Mena,2020-09-28,19,F,Clínica,Hospital Regional,Neumonía,030101,Casado
+32602089,Olalla,Téllez,Abellán,2021-07-06,98,F,Clínica,MINSA,Accidente laboral,200101,Casado
+19373966,María Ángeles,Rios,Zapata,2024-03-27,39,M,Hospital,RENIEC,Neumonía,220101,Soltero
+97848347,Luis,Rosa,Donaire,2022-03-11,99,M,Domicilio,RENIEC,COVID-19,100101,Casado
+60284858,Gilberto,Cañizares,Figuerola,2024-10-29,84,M,Clínica,Hospital Regional,Accidente de tránsito,050101,Viudo
+34425523,Ani,Canet,Sanjuan,2025-07-06,29,M,Domicilio,RENIEC,Accidente de tránsito,030101,Soltero
+38531115,Gilberto,Font,Barral,2022-03-30,48,M,Vía pública,MINSA,Cáncer,080101,Divorciado
+35754346,Juan Antonio,Rebollo,Saez,2021-08-14,56,F,Clínica,MINSA,Accidente laboral,060101,Soltero
+95420677,Flavio,Bernal,Marcos,2021-06-02,11,M,Hospital,MINSA,Accidente laboral,130101,Soltero
+60697866,Edelmiro,Lloret,Baró,2023-08-08,62,F,Domicilio,Municipalidad,Accidente de tránsito,130101,Soltero
+13981790,Delfina,Guitart,Tejedor,2024-10-25,64,F,Vía pública,Hospital Regional,Neumonía,250101,Divorciado
+23530374,Agapito,Barriga,Larrañaga,2020-10-01,2,M,Vía pública,Municipalidad,Cáncer,250101,Viudo
+99298044,Dafne,Arnaiz,Caballero,2022-06-26,46,F,Hospital,Municipalidad,Accidente laboral,230101,Viudo
+80106555,Máxima,Aguilar,Peña,2025-02-10,29,M,Vía pública,Municipalidad,Infarto,120101,Viudo
+45679876,Amalia,Sáenz,Navas,2024-05-05,5,M,Clínica,MINSA,Neumonía,150101,Casado
+55171003,Raimundo,Novoa,Miró,2022-09-23,66,M,Clínica,Municipalidad,Accidente laboral,080101,Soltero
+58480869,Graciela,Pujadas,Pinedo,2021-03-05,76,M,Domicilio,Hospital Regional,Neumonía,050101,Casado
+57785434,Samanta,Murillo,Cabrera,2020-09-18,53,M,Clínica,MINSA,Insuficiencia renal,240101,Casado
+71326664,Sabina,Querol,Chamorro,2020-11-27,46,M,Clínica,RENIEC,Cáncer,130101,Viudo
+90786882,Donato,Losa,Ibarra,2023-10-28,51,F,Domicilio,Hospital Regional,Infarto,150101,Viudo
+70655417,Esperanza,Talavera,Villa,2024-03-15,3,F,Hospital,MINSA,Cáncer,080101,Divorciado
+98614357,Godofredo,Acero,Montserrat,2020-10-30,97,M,Clínica,RENIEC,Infarto,110101,Casado
+95064149,Plácido,Arroyo,Morell,2024-06-20,11,F,Hospital,RENIEC,Cáncer,030101,Divorciado
+41347711,Elvira,Tormo,Páez,2021-05-19,68,F,Clínica,RENIEC,COVID-19,160101,Divorciado
+56752592,Tiburcio,Tamayo,Cabrera,2023-12-18,32,M,Domicilio,Hospital Regional,Neumonía,240101,Soltero
+49441620,Elvira,Ferrero,Clemente,2025-02-10,61,F,Clínica,MINSA,Accidente de tránsito,170101,Casado
+86758128,Milagros,Vargas,Antón,2021-10-11,18,M,Hospital,RENIEC,Insuficiencia renal,060101,Viudo
+76830369,Natividad,Bonet,Mata,2025-05-10,78,M,Clínica,MINSA,COVID-19,210101,Viudo
+72653244,Florentino,Salmerón,Carlos,2024-10-16,42,F,Domicilio,MINSA,COVID-19,050101,Viudo
+98938318,Calixta,Hernando,Hervia,2022-06-28,84,M,Hospital,Municipalidad,Insuficiencia renal,080101,Casado
+32875131,Marisa,Borrás,Camacho,2024-05-22,23,M,Clínica,RENIEC,Accidente laboral,140101,Casado
