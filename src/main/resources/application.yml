@@ -1,0 +1,24 @@
+spring:
+  application:
+    name: spring-batch
+  batch:
+    job:
+      name: deceasedJob
+      enabled: true
+    jdbc:
+      initialize-schema: always
+  datasource:
+    jdbc-url: jdbc:mysql://localhost:3306/spring_batch_db
+    username: archiver
+    password: 1234
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  deceaseddatasource:
+    jdbc-url: jdbc:mysql://localhost:3306/deceased_db
+    username: deceased
+    password: 1234
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+props:
+  pending-dir: D:/proyectos/spring-batch/input-files
+  processed-dir: D:/proyectos/spring-batch/output-files
+  error-dir: D:/proyectos/spring-batch/error-files

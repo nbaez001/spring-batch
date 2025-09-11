@@ -4,6 +4,7 @@ import com.empresa.proyecto.dto.DeceasedCsv;
 import com.empresa.proyecto.entity.Deceased;
 import org.springframework.batch.core.SkipListener;
 import org.springframework.batch.item.file.FlatFileParseException;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
 import java.io.File;
@@ -13,10 +14,13 @@ import java.time.LocalDateTime;
 @Component
 public class SkipListenerImpl implements SkipListener<DeceasedCsv, Deceased> {
 
+    @Value("${props.error-dir}")
+    private String errorDir;
+
     @Override
     public void onSkipInRead(Throwable t) {
         if (t instanceof FlatFileParseException) {
-            createFile("C:/nerio/proyectos/spring-batch/deceased-job/deceased-step/reader/skipInRead.txt",
+            createFile(errorDir + "/reader/skipInRead.txt",
                     ((FlatFileParseException) t).getInput());
         }
     }
@@ -24,7 +28,7 @@ public class SkipListenerImpl implements SkipListener<DeceasedCsv, Deceased> {
     @Override
     public void onSkipInWrite(Deceased item, Throwable t) {
         if (t instanceof NullPointerException) {
-            createFile("C:/nerio/proyectos/spring-batch/deceased-job/deceased-step/writer/skipInWrite.txt",
+            createFile(errorDir + "/writer/skipInWrite.txt",
                     item.toString());
         }
     }
@@ -32,7 +36,7 @@ public class SkipListenerImpl implements SkipListener<DeceasedCsv, Deceased> {
     @Override
     public void onSkipInProcess(DeceasedCsv item, Throwable t) {
         if (t instanceof NullPointerException) {
-            createFile("C:/nerio/proyectos/spring-batch/deceased-job/deceased-step/processor/skipInProcess.txt",
+            createFile(errorDir + "/processor/skipInProcess.txt",
                     item.toString());
         }
     }
